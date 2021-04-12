@@ -6,15 +6,13 @@
 
 ## 用法
 
-先用命令把官方packages下下来
+先用命令把官方packages下下来，并且更新到最新的版本
 
 ```
-git submodule update
+git submodule update --remote
 ```
 
-
-
-用法很简单，安装python3.X版本，在命令行里面输入命令
+安装python3.X版本，在命令行里面输入命令
 
 ```
 python update_softpackage.py
