@@ -88,7 +88,7 @@
  | 包名| 作者  | license   | 备注      |
 | ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
 | [jerryscript](https://github.com/RT-Thread-packages/jerryscript) |RealThread  | Apache-2.0 |针对 RT-Thread 的 JerryScript 移植|
-| [Lua](https://github.com/liu2guang/Lua2RTT) |liu2guang  | MIT | Lua 库适配 RT-Thread 3.0(基于 lua 5.1.4和 5.3.4 版本)|
+| [Lua](https://github.com/liu2guang/Lua2RTT) |liu2guang  | MIT |Lua 在 RT-Thread 上的移植|
 | [micropython](https://github.com/RT-Thread-packages/micropython) |armink  | MIT |MicroPython 在 RT-Thread 上的移植|
 
 ## misc
@@ -111,12 +111,13 @@
 | [FlexibleButton](https://github.com/murphyzhao/FlexibleButton) |MurphyZhao  | Apache License 2.0 |小巧灵活的按键驱动程序（事件驱动、无限按键数量、可用中断模式）|
 | [hello](https://github.com/RT-Thread-packages/hello) |RealThread  | LGPL-2.1 |RT-Thread 软件包示例|
 | [kendryte-demo](https://github.com/BernardXiong/kendryte-demo) |BernardXiong  | Apache-2.0 |Kendryte k210 demo|
-| [ki](https://github.com/mysterywolf/ki) |mysterywolf  | GPL-2.0 |ki是一个带有语法高亮的终端编辑器，支持C/C++ Python Javascript Go语言语法高亮|
+| [ki](https://github.com/mysterywolf/ki) |mysterywolf  | GPL-2.0 |ki是一个带有C/C++语法高亮的终端编辑器|
 | [libcsv](https://github.com/liu2guang/libcsv) |liu2guang  | LGPL-2.1 |libcsv是用纯ANSI C89编写的小型、简单、快速的CSV库，支持读写CSV数据|
 | [lwgps](https://github.com/orange2348/lwgps2rtt) |orange2348  | MIT |轻量级GPS NEMA协议解析器|
 | [lzma](https://github.com/RiceChen/lzma) |RiceChen  | LGPL-2.1 |高压缩率的压缩库|
 | [mcurses](https://github.com/wuhanstudio/mcurses) |wuhanstudio  | MIT |轻量级的 ncurses 控制台绘图库|
 | [miniLZO](https://github.com/RT-Thread-packages/miniLZO) |RealThread  | GPL-2.0 |LZO 是一个实时数据压缩库，而 miniLZO 是 LZO 压缩库的精简版本|
+| [minizip](https://github.com/mysterywolf/minizip) |mysterywolf  | unknown |zip压缩解压库|
 | [MultiButton](https://github.com/liu2guang/MultiButton) |0x1abin  | MIT |一个小巧易用的事件驱动按钮驱动模块|
 | [optparse](https://github.com/liu2guang/optparse) |liu2guang  | Unlicense |基于 RT-Thread 的 Getopt 命令行解析器|
 | [quicklz](https://github.com/RT-Thread-packages/quicklz) |RealThread  | GPL-3.0 |世界上速度最快的压缩库|
@@ -140,10 +141,12 @@
 | [AzureGUIX](https://github.com/HelloByeAll/AzureGUIX) |HelloByeAll  | Apache-2.0 |微软THREADX系统中间件 AzureGUIX|
 | [helix](https://github.com/liuduanfei/helix) |liuduanfei  | AGPL-3.0 |Helix,mp3 解码库|
 | [mupdf](https://github.com/rtoslab/mupdf-rtt) |rtoslab  | AGPL-3.0 |轻量级PDF，XPS和电子书查看器|
+| [NUemWin](https://github.com/wosayttn/NUemWin) |wosayttn  | LGPL-2.1 |NUemWin在RT-Thread上的移植|
 | [openmv](https://github.com/RT-Thread-packages-by-SummerGift/openmv) |SummerGift  | MIT |openmv 在 RT-Thread 上的移植|
+| [PDFGen](https://github.com/mysterywolf/PDFGen) |mysterywolf  | Unlicense |PDF文档生成库|
 | [STemWin](https://github.com/loogg/STemWin) |malongwei  | LGPL-2.1 |STemWin在RT-Thread上的移植|
 | [TJpgDec](https://github.com/RT-Thread-packages/TJpgDec) |RealThread  | BSD |JPEG 解码库|
-| [touchgfx2rtt](https://gitee.com/Aladdin-Wang/touchgfx2rtt.git) |kk  | LGPL-2.1 |touchgfx在RT-Thread上的移植。|
+| [touchgfx2rtt](https://github.com/Aladdin-Wang/touchgfx2rtt.git) |kk  | LGPL-2.1 |touchgfx在RT-Thread上的移植。|
 | [wavplayer](https://github.com/RT-Thread-packages/wavplayer) |RealThread  | Apache-2.0 |简洁的wav格式的音乐播放器，提供播放和录音功能|
 
 ## peripherals
@@ -226,7 +229,7 @@
 | [lps22hb](https://github.com/RT-Thread-packages/lps22hb) |flybreak  | other |LPS22HB 气压传感器的驱动包|
 | [lsm303agr](https://github.com/RT-Thread-packages/lsm303agr) |flybreak  | other |这是 LSM303AGR 传感器驱动包，支持：加速度计，磁力计|
 | [lsm6dsl](https://github.com/RT-Thread-packages/lsm6dsl) |flybreak  | other |这是 LSM6DSL 传感器驱动包，支持：加速度计，陀螺仪，计步|
-| [lsm6dsm](https://gitee.com/my-rt-packages/lsm6dsm.git) |zcj20080882  | MIT |STMicroelectronics的LSM6DSM传感器驱动，支持加速度计/陀螺仪/计步/温度|
+| [lsm6dsm](https://github.com/my-RT-packages/lsm6dsm.git) |zcj20080882  | MIT |STMicroelectronics的LSM6DSM传感器驱动，支持加速度计/陀螺仪/计步/温度|
 | [max30102](https://github.com/Jackistang/max30102_rtt) |Jackistang  | Apache-2.0 |[MAX30102]: 心率测量，血氧饱和度测量软件包|
 | [max31865](https://github.com/SimpleInit/max31865) |SimpleInit  | Apache-2.0 |数字温度传感器 max31865 的软件包|
 | [max6675](https://github.com/JonasWen/max6675) |Jonas  | Apache-2.0 |数字温度传感器 max6675 的软件包|
@@ -251,6 +254,7 @@
 | [stm32wb55_sdk](https://github.com/xupenghu/stm32wb55_sdk.git) |xph  | Apache-2.0 |stm32wb55_sdk 软件包|
 | [stm32_sdio](https://github.com/RT-Thread-packages/stm32_sdio) |RealThread  | LGPL-2.1 |STM32 平台 SDIO 控制器驱动包|
 | [sx12xx](https://github.com/XiaojieFan/sx12xx) |XiaojieFan  | Apache-2.0 |Semtech LoRa RF 芯片驱动库|
+| [tca9534](https://github.com/Prry/rtt-tca9534) |panrui  | Apache-2.0 |i2c接口8位I/O扩展芯片驱动软件包|
 | [tmc51xx](https://github.com/apeng2012/tmc51xx) |apeng2012  | MIT |TMC5160步进电机驱动。|
 | [ft5426](https://github.com/liuduanfei/ft5426) |liuduanfei  | Apache-2.0 |这是 FT5426 触摸芯片的驱动包。|
 | [ft6206](https://github.com/RT-Thread-packages/ft6206) |Willian Chan  | Apache-2.0 |这是 FT6206 触摸芯片的驱动包。|
@@ -330,7 +334,7 @@
 | [anv_bench](https://github.com/wuhanstudio/anv_bench) |wuhanstudio  | MIT |函数性能快速测试软件包|
 | [anv_memleak](https://github.com/wuhanstudio/anv_memleak) |wuhanstudio  | MIT |检查是否存在内存泄漏|
 | [anv_testsuit](https://github.com/wuhanstudio/anv_testsuit) |wuhanstudio  | MIT |单元测试框架|
-| [anv_trace](http://github.com/wuhanstudio/anv_trace) |wuhanstudio  | MIT |帮助跟踪代码执行过程|
+| [anv_trace](https://github.com/wuhanstudio/anv_trace) |wuhanstudio  | MIT |帮助跟踪代码执行过程|
 | [bs8116a](https://github.com/illusionlee/bs8116a.git) |illusionlee  | MIT |合泰的bs8116a-3的触摸按键芯片|
 | [ChineseFontLibrary](https://github.com/lxzzzzzxl/Chinese_font_library) |lxzzzzzxl  | LGPL-2.1 |rt-thread中文字库软件包|
 | [CmBacktrace](https://github.com/armink-rtt-pkgs/CmBacktrace) |armink  | MIT |ARM Cortex-M 系列 MCU 错误追踪库|
@@ -340,6 +344,7 @@
 | [Dhrystone](https://github.com/wuhanstudio/dhrystone) |wuhanstudio  | apache |Dhrystone 单片机性能测试小工具|
 | [EasyFlash](https://github.com/armink-rtt-pkgs/EasyFlash) |armink  | MIT |轻量级嵌入式 Flash 存储器库，让 Flash 成为小型 KV 数据库|
 | [EasyLogger](https://github.com/armink-rtt-pkgs/EasyLogger) |armink  | MIT |一款超轻量级(ROM<1.6K, RAM<0.3k)、高性能的 C/C++ 日志库|
+| [gan_zhi](https://github.com/XYX12306/gan_zhi.git) |XYX12306  | MIT |是一个根据公历日期、时得到相应的天干地支的工具软件包。|
 | [gbk2utf8](https://github.com/Ghazigq/gbk2utf8) |Ghazigq  | Apache-2.0 |GBK与UTF8编码之间的转换。|
 | [gps_rmc](https://github.com/maplerian/gps_rmc) |maplerian  | Apache-2.0 |用于解析GPS模块的 $XXRMC 类型数据|
 | [kdb](https://github.com/RT-Thread-packages/kdb) |enkiller  | Apache-2.0 |内核检测漏洞工具|
@@ -349,10 +354,13 @@
 | [lwrb2rtt](https://github.com/Jackistang/lwrb2rtt) |Jackistang  | MIT |轻量级的 FIFO 环形缓冲区|
 | [mbedtls_bench](https://github.com/xfan1024/rttpkg-mbedtls_bench) |xiaofan  | MIT |mbedtls 性能测试|
 | [MemoryPerf](https://github.com/SummerLife/MemoryPerf) |我夏了夏天  | MIT |ARM CPU 内存性能测试。|
+| [mem_sandbox](https://github.com/mysterywolf/mem_sandbox) |mysterywolf  | MIT |RT-Thread 内存隔离沙箱|
 | [Micro-XRCE-DDS-Client](https://github.com/JcZou/Micro-XRCE-DDS-Client) |JCZou  | Apache-2.0 |micro-ros的中间层组件，提供了ros2消息发布/订阅的能力。|
 | [nr_micro_shell](https://github.com/Nrusher/nr_micro_shell) |Nrusher  | MIT |轻量的命令行交互工具。|
 | [qrcode](https://github.com/RT-Thread-packages/qrcode) |RealThread  | MIT |一个用于将字符串生成二维码的软件包|
 | [rdb](https://github.com/RT-Thread-packages/rdb) |RealThread  | GPL-2.0 |RT-Thread 调试桥|
+| [regex](https://github.com/thread-liu/tiny-regex-c.git) |thread-liu  | Unlicense |一个小巧的 C 语言正则表达式|
+| [solar_terms](https://github.com/XYX12306/solar_terms.git) |XYX12306  | MIT |是一个根据公历日期判断与二十四节气关系的工具软件包。|
 | [SystemView](https://github.com/RT-Thread-packages/SEGGER_SystemView) |RealThread  | unknown |SEGGER 的 SystemView 移植|
 | [ulog_easyflash](https://github.com/armink-rtt-pkgs/ulog_easyflash) |armink  | MIT |基于 EasyFlash 的 ulog 插件|
 | [ulog_file](https://github.com/RT-Thread-packages/ulog_file.git) |ChenYong  | Apache-2.0 |ulog_file: 基于文件系统的 ulog 后端插件。|
