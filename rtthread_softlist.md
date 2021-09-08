@@ -59,7 +59,7 @@
 | [mongoose](https://github.com/armink-rtt-pkgs/mongoose) |armink  | GPL-2.0 |一款嵌入式 Web 服务器库|
 | [mymqtt](https://github.com/hichard/mymqtt) |hichard  | EPL-1.0 |Eclipse 开源的 MQTT C/C++ 客户端的一种高效、稳定的实现。|
 | [nanopb](https://github.com/RT-Thread-packages/nanopb) |RealThread  | Zlib |Protocol Buffers 解析器在嵌入式上的实现|
-| [netutils](https://github.com/RT-Thread-packages/netutils) |RealThread  | GPL-2.0 |RT-Thread 网络网络小工具集|
+| [netutils](https://github.com/RT-Thread-packages/netutils) |RealThread  | Apache-2.0 |RT-Thread 网络网络小工具集|
 | [NimBLE](https://github.com/RT-Thread-packages/nimble) |RealThread  | Apache-2.0 |Apache 开源蓝牙 5.0 协议栈在 RT-Thread 的移植|
 | [nmealib](https://github.com/ShineRoyal/nmealib) |ShineRoyal  | LGPL-2.1 |nmealib库在RT-Thread上的移植|
 | [nopoll](https://github.com/RT-Thread-packages/nopoll) |RealThread  | LGPL-2.1 |一款 C 实现的开源 WebSocket 软件包|
@@ -70,6 +70,7 @@
 | [protobuf-c](https://github.com/wuhanstudio/protobuf-c) |wuhanstudio  | MIT |Google 的 prototol buffer 一种轻便高效的数据存储格式|
 | [qxwz](https://github.com/RT-Thread-packages/qianxun.git) |daniel.chen  | Apache-2.0 |qxwz 高精度定位应用|
 | [rapidjson](https://github.com/wuhanstudio/rapidjson) |wuhanstudio  | MIT |支持 SAX/DOM 的 C++ JSON 处理库|
+| [rt-link_hw](https://github.com/RT-Thread-packages/rt-link_hw) |RealThread  | Apache-2.0 |rt-link 组件的底层通信端口适配层|
 | [rt_cjson_tools](https://github.com/maplerian/rt_cjson_tools) |maplerian  | Apache-2.0 |用于 RT-Thread 的 cJSON工具库|
 | [smtp_client](https://github.com/WKJay/SMTP_CLIENT) |WKJay  | LGPL-2.1 |SMTP邮件发送软件包，简单易用，支持普通25端口及465/587加密端口|
 | [tcpserver](https://github.com/Guozhanxin/tcpserver.git) |flybreak  | Apache-2.0 |一个支持多客户端的 TCP 服务器|
@@ -82,6 +83,7 @@
 | [wlanmarvell](https://github.com/JianRuiqian/marvellwifi) |JianRuiqian  | GPL-2.0 |RT-Thread 的 Marvell wifi 驱动|
 | [wlan_wiced](https://github.com/RT-Thread-packages/wlan-wiced) |RealThread  | GPL-2.0 |WICED 的 wlan 驱动|
 | [wiznet](https://github.com/RT-Thread-packages/wiznet) |RealThread  | Apache-2.0 |WIZNet TCP/IP 芯片（例如： W5500/W5100）的 SAL 框架对接实现|
+| [zb_coordinator](https://github.com/TaoYang0907/ZB_COORDINATOR_PACKAGE) |TaoYang0907  | LGPL-2.1 |AT命令在ZigBee协调器上的应用|
 
 ## language
 
@@ -90,6 +92,7 @@
 | [jerryscript](https://github.com/RT-Thread-packages/jerryscript) |RealThread  | Apache-2.0 |针对 RT-Thread 的 JerryScript 移植|
 | [Lua](https://github.com/liu2guang/Lua2RTT) |liu2guang  | MIT |Lua 在 RT-Thread 上的移植|
 | [micropython](https://github.com/RT-Thread-packages/micropython) |armink  | MIT |MicroPython 在 RT-Thread 上的移植|
+| [pikascript](https://github.com/mimilib/pikascript) |mimilib  | MIT |极易定制的轻量级python脚本支持工具|
 
 ## misc
 
@@ -103,7 +106,10 @@
 | [dstr](https://github.com/RT-Thread-packages/dstr) |RealThread  | LGPL-2.1 |用 C 编写的动态字符串库|
 | [aclock](https://github.com/mysterywolf/aclock) |mysterywolf  | Apache-2.0 |终端钟表界面|
 | [c2048](https://github.com/mysterywolf/c2048) |mysterywolf  | MIT |2048是一款益智类游戏，原版游戏运行在苹果手机上|
+| [cal](https://github.com/mysterywolf/cal) |mysterywolf  | MIT |终端公历日历|
+| [cmatrix](https://github.com/wuhanstudio/cmatrix) |wuhanstudio  | MIT |text flying in and out in a terminal like as seen in 'The Matrix' movie|
 | [donut](https://github.com/mysterywolf/donut) |mysterywolf  | None |使用字符渲染的3D旋转甜甜圈|
+| [sl](https://github.com/wuhanstudio/sl) |wuhanstudio  | MIT |sl奔跑的小火车命令|
 | [snake](https://github.com/mysterywolf/snake) |mysterywolf  | GPL-2.0 |贪吃蛇游戏|
 | [tetris](https://github.com/volatile-static/rtt_tetris) |volatile-static  | MIT |俄罗斯方块|
 | [threes](https://github.com/mysterywolf/threes) |mysterywolf  | MIT |threes是一款在2014年很火的益智类游戏，原版游戏运行在苹果手机上|
@@ -126,6 +132,7 @@
 | [network_samples](https://github.com/RT-Thread-packages/network-sample) |RealThread  | Apache-2.0 |RT-Thread 网络示例|
 | [peripheral_samples](https://github.com/RT-Thread-packages/peripheral-sample) |RealThread  | Apache-2.0 |RT-Thread 外设示例|
 | [state_machine](https://github.com/redoccheng/state_machine) |redoccheng  | LGPL-2.1 |一个用C语言实现功能丰富但简单的有限状态机（FSM）。|
+| [termbox](https://github.com/mysterywolf/termbox) |mysterywolf  | MIT |轻量TUI图形库|
 | [TinyFrame](https://github.com/XXXXzzzz000/TinyFrame) |XXXXzzzz000  | MIT |应用于串口设备（如 UART / RS232)的构建或者解析的库|
 | [ukal](https://github.com/wuhanstudio/ukal) |wuhanstudio  | MIT |卡尔曼滤波算法|
 | [upacker](https://github.com/aeo123/upacker.git) |zpw  | MIT |串行通信链路协议|
@@ -140,11 +147,13 @@
 | ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
 | [AzureGUIX](https://github.com/HelloByeAll/AzureGUIX) |HelloByeAll  | Apache-2.0 |微软THREADX系统中间件 AzureGUIX|
 | [helix](https://github.com/liuduanfei/helix) |liuduanfei  | AGPL-3.0 |Helix,mp3 解码库|
+| [mp3player](https://github.com/MrzhangF1ghter/mp3player) |MrzhangF1ghter  | Apache-2.0 |一个简易的mp3格式音乐播放器|
 | [mupdf](https://github.com/rtoslab/mupdf-rtt) |rtoslab  | AGPL-3.0 |轻量级PDF，XPS和电子书查看器|
 | [NUemWin](https://github.com/wosayttn/NUemWin) |wosayttn  | LGPL-2.1 |NUemWin在RT-Thread上的移植|
 | [openmv](https://github.com/RT-Thread-packages-by-SummerGift/openmv) |SummerGift  | MIT |openmv 在 RT-Thread 上的移植|
 | [PDFGen](https://github.com/mysterywolf/PDFGen) |mysterywolf  | Unlicense |PDF文档生成库|
 | [STemWin](https://github.com/loogg/STemWin) |malongwei  | LGPL-2.1 |STemWin在RT-Thread上的移植|
+| [TinyJPEG](https://github.com/StackRyan/TinyJPEG) |StackRyan  | Apache-2.0 |一个轻量的JPEG编码软件包|
 | [TJpgDec](https://github.com/RT-Thread-packages/TJpgDec) |RealThread  | BSD |JPEG 解码库|
 | [touchgfx2rtt](https://github.com/Aladdin-Wang/touchgfx2rtt.git) |kk  | LGPL-2.1 |touchgfx在RT-Thread上的移植。|
 | [wavplayer](https://github.com/RT-Thread-packages/wavplayer) |RealThread  | Apache-2.0 |简洁的wav格式的音乐播放器，提供播放和录音功能|
@@ -161,6 +170,7 @@
 | [as7341](https://github.com/RiceChen/as7341) |RiceChen  | Apache-2.0 |AS7341可见光传感器，可测量8个波长的可见光。|
 | [at24cxx](https://github.com/XiaojieFan/at24cxx) |XiaojieFan  | Apache-2.0 |eeprom at24cxx 的驱动库。|
 | [beep](https://github.com/Sunwancn/rtt-pkgs-beep) |Sunwancn  | Apache-2.0 |基于 rt-thread 的 pin 和 pwm 驱动的蜂鸣器控制软件包，可以容易地驱动有源蜂鸣器或无源蜂鸣器，产生各种间隔长短的鸣叫声。|
+| [bluetrum_sdk](https://github.com/BLUETRUM/bluetrum_sdk) |BLUETRUM  | MIT |bluetrum sdk|
 | [button](https://github.com/jiejieTop/rtpkg_button) |jiejieTop  | GPL-3.0 |C 实现的按键驱动，支持单击和双击，长按，长按释放|
 | [can_ymodem](https://github.com/redocCheng/rt_can_ymodem) |redocCheng  | Apache-2.0 |连接can设备和ymodem的驱动包|
 | [dm9051](https://github.com/aozima/dm9051) |aozima  | Apache-2.0 |DM9051 SPI 接口以太网芯片驱动库|
@@ -170,6 +180,7 @@
 | [icm20608](https://github.com/RT-Thread-packages/icm20608) |RealThread  | Apache-2.0 |三轴加速度与三轴陀螺仪 icm20608 的传感器驱动库|
 | [infrared](https://github.com/RT-Thread-packages/infrared_framework) |RealThread  | Apache-2.0 |基于 rt-thread 的 pin,pwm 和 hwtimer 驱动的红外框架。|
 | [kendryte-sdk](https://github.com/RT-Thread-packages/kendryte_sdk) |RealThread  | unknown |勘智 K210 处理器对应的外设驱动包|
+| [kobuki](https://github.com/wuhanstudio/kobuki) |wuhanstudio  | MIT |Kobuki 机器人串口通信驱动|
 | [ld3320](https://github.com/xqyjlj/ld3320) |xqyjlj  | Apache-2.0 |LD3320语音识别芯片|
 | [LedBlink](https://github.com/aeo123/LedBlink.git) |zpw  | GPL-2.0 |简单易用led闪烁控制软件包|
 | [libnfc](https://github.com/wuhanstudio/libnfc) |wuhanstudio  | LGPL-3.0 |libnc 软件包|
@@ -179,7 +190,9 @@
 | [ly68l6400](https://github.com/Ghazigq/ly68l6400) |Ghazigq  | LGPL-2.1 |ly68l6400芯片的驱动|
 | [max17048](https://github.com/aeo123/MAX17048.git) |zpw  | MIT |电池监测芯片|
 | [max7219](https://github.com/redocCheng/max7219) |redocCheng  | Apache-2.0 |本软件包是在数码管上应用 MAX7219 的驱动包|
+| [mcp23008](https://github.com/XiaojieFan/mcp23008.git) |XiaojieFan  | Apache-2.0 |针对 I2C 并行口扩展 8 位 I/O 软件包|
 | [mfoc](https://github.com/wuhanstudio/mfoc) |wuhanstudio  | GPL-2.0 |Mifare Classic 离线破解工具。|
+| [micro_ros](https://github.com/wuhanstudio/micro_ros) |wuhanstudio  | Apache-2.0 |在 MCU 上运行 ROS2.|
 | [MotionDriver2RTT](https://github.com/greedyhao/MotionDriver2RTT) |greedyhao  | LGPL-2.1 |移植 MotionDriver 到 RTT 的包|
 | [multi_rtimer](https://github.com/Forest-Rain/multi-rtimer) |Forest-Rain  | Apache-2.0 |一个实时、低功耗软件定时器模块|
 | [nes](https://github.com/Ghazigq/nes) |Ghazigq  | Apache-2.0 |nes模拟器c库。|
@@ -196,7 +209,7 @@
 | [rc522](https://github.com/greedyhao/rc522_rtt) |greedyhao  | Apache-2.0 |rc522 rfid 模块驱动|
 | [rda58xx](https://github.com/apeng2012/rda58xx) |apeng2012  | MIT |RDA5820收音机芯片驱动。|
 | [realtek_ameba](https://github.com/flyingcys/realtek_ameba) |flyingcys  | LGPL-2.1 |realtek 的 ameba 软件包在 RT-Thread 上的移植|
-| [rosserial](https://github.com/wuhanstudio/rt-rosserial) |wuhanstudio  | BSD |机器人操作系统(ROS) 软件包 rosserial 在 RT-Thread 的移植库|
+| [rosserial](https://github.com/wuhanstudio/rt-rosserial) |wuhanstudio  | BSD |机器人操作系统(ROS1) 软件包 rosserial 在 RT-Thread 的移植库|
 | [rplidar](https://github.com/wuhanstudio/rplidar) |wuhanstudio  | MIT |RPLIDAR: 适用于机器人室内建图的低成本激光雷达|
 | [rs485](https://github.com/qiyongzhong0/rt-thread-rs485) |qiyongzhong0  |  LGPL-2.1 |rs485驱动包|
 | [ds3231](https://github.com/Prry/rtt-ds3231) |panrui  | Apache-2.0 |ds3231 外置RTC驱动|
@@ -279,11 +292,16 @@
 | [tinycrypt](https://github.com/RT-Thread-packages/tinycrypt) |RealThread  |  BSD-2-Clause |一个简小并且可配置的加解密软件包|
 | [trusted-firmware-m](https://github.com/RT-Thread-packages/trusted-firmware-m) |Trusted Firmware-M  |  BSD-3-Clause |Cortex M系列架构安全固件|
 | [yd_crypto](https://github.com/china-hai/yd_crypto) |china-hai  | Apache-2.0 |用于微控制器的加解密算法库，平台无关、算法独立、易移植、易使用。|
+| [Qfplib_M0_full](https://github.com/mysterywolf/Qfplib-M0-full) |mysterywolf  | GPL |Cortex-M0浮点运算汇编加速库(full版)|
+| [Qfplib_M0_tiny](https://github.com/mysterywolf/Qfplib-M0-tiny) |mysterywolf  | GPL |Cortex-M0浮点运算汇编加速库(tiny版)|
+| [Qfplib_M3](https://github.com/mysterywolf/Qfplib-M3) |mysterywolf  | GPL |Cortex-M3浮点运算汇编加速库|
+| [rt_memcpy_cm](https://github.com/mysterywolf/rt_memcpy_cm) |mysterywolf  | Apache-2.0 |rt_memcpy函数的Cortex-M内核汇编加速版|
 
 ## system
 
  | 包名| 作者  | license   | 备注      |
 | ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
+| [Arm-2D](https://github.com/liuduanfei/Arm-2D) |liuduanfei  | Apache-2.0 |Arm-2D 图形库。|
 | [cairo](https://github.com/RT-Thread-packages/cairo) |RealThread  | LGPL/MPL |适用于多平台的 2D 图形软件包|
 | [CMSIS](https://github.com/RT-Thread-packages/CMSIS) |RealThread  | Apache-2.0 |CMSIS 软件包在 RT-Thread 上的移植|
 | [EV](https://github.com/sogwms/EV) |sogwms  | Apache-2.0 |高效开发 vehicles(包括无人机) 的框架|
@@ -296,6 +314,7 @@
 | [LittlevGL2RTT](https://github.com/liu2guang/LittlevGL2RTT) |liu2guang  | MIT |Littlevgl 是基于 RT-Thread 的图形库软件包|
 | [lpm](https://github.com/RT-Thread-packages/lpm) |RealThread  | Apache-2.0 |逻辑分区管理，负责存储设备管理和分区管理。|
 | [lwext4](https://github.com/mysterywolf/lwext4) |mysterywolf  | GPL-2.0 |适合微控制器的 ext2 / 3/4文件系统的实现|
+| [mcuboot](https://github.com/iysheng/rt_mcuboot.git) |iysheng  | Apache-2.0 |一个针对微控制器的涉及 bootloader, flash layout 的通用框架。|
 | [uCOSIII_Wrapper](https://github.com/mysterywolf/RT-Thread-wrapper-of-uCOS-III) |Meco Man  | Apache-2.0 |RT-Thread操作系统的uCOS-III兼容层：让基于uC/OS-III开发的应用层无感地迁移到RT-Thread操作系统|
 | [uCOSII_Wrapper](https://github.com/mysterywolf/RT-Thread-wrapper-of-uCOS-II) |Meco Man  | Apache-2.0 |RT-Thread操作系统的uCOS-II兼容层：让基于uC/OS-II开发的应用层无感地迁移到RT-Thread操作系统|
 | [uC_CLK](https://github.com/mysterywolf/uC-Clk-for-RT-Thread) |mysterywolf  | Apache-2.0 |uC/Clk for RT-Thread|
@@ -310,20 +329,17 @@
 | [plccore](https://github.com/hyafz/plccore) |hyafz  | LGPL-2.1 |plccore 在 RT-Thread 上移植的软件包|
 | [Ppool](https://github.com/mysterywolf/Ppool) |mysterywolf  | LGPL-2.1 |基于pthread的线程池库|
 | [qboot](https://github.com/qiyongzhong0/rt-thread-qboot) |qiyongzhong0  |  LGPL-2.1 |qboot ：一个用于快速制作bootloader的组件|
-| [Qfplib_M0_full](https://github.com/mysterywolf/Qfplib-M0-full) |mysterywolf  | GPL |Cortex-M0浮点运算汇编加速库(full版)|
-| [Qfplib_M0_tiny](https://github.com/mysterywolf/Qfplib-M0-tiny) |mysterywolf  | GPL |Cortex-M0浮点运算汇编加速库(tiny版)|
-| [Qfplib_M3](https://github.com/mysterywolf/Qfplib-M3) |mysterywolf  | GPL |Cortex-M3浮点运算汇编加速库|
 | [ramdisk](https://github.com/majianjia/ramdisk) |majianjia  | Apache-2.0 |内存块设备|
 | [rt-robot](https://github.com/RT-Thread-packages/rt-robot) |wuhanstudio  | MIT |RT-Thread 机器人平台|
 | [rti](https://github.com/RT-Thread-packages/rti) |RealThread  | LGPL-2.1 |RT-Thread 展示系统内部运行信息的组件，能够帮助分析系统内部情况|
 | [rt_kprintf_threadsafe](https://github.com/mysterywolf/rt_kprintf_threadsafe) |mysterywolf  | Apache-2.0 |线程安全版本的rt_kprintf|
-| [rt_memcpy_cm](https://github.com/mysterywolf/rt_memcpy_cm) |mysterywolf  | Apache-2.0 |rt_memcpy函数的Cortex-M内核汇编加速版|
 | [sqlite](https://github.com/RT-Thread-packages/SQLite) |RealThread  | unknown |SQLite 是一个完备、高度可靠、嵌入型、全功能、公共领域的 SQL 数据库引擎|
 | [syswatch](https://github.com/qiyongzhong0/rt-thread-syswatch) |qiyongzhong0  |  LGPL-2.1 |系统看守：一个用于保障系统长期正常运行的组件|
 | [sys_load_monitor](https://github.com/armink-rtt-pkgs/sys_load_monitor) |armink  | Apache-2.0 |一款轻量级的系统负荷监视器|
 | [thread_pool](https://github.com/armink-rtt-pkgs/thread_pool) |armink  | MIT |基于 RT-Thread 的线程池实现|
 | [tlsf](https://github.com/RT-Thread-packages/tlsf) |namexx  | Apache-2.0 |TLSF是一个可以预期执行时间、碎片化程度低的动态内存分配算法。|
 | [uffs](https://github.com/RT-Thread-packages/uffs) |prife  | LGPL-2 |超低功耗的闪存文件系统|
+| [wcwidth](https://github.com/mysterywolf/wcwidth) |mysterywolf  | None |wcwidth() 函数软件包|
 | [yaffs2](https://github.com/heyuanjie87/yaffs2_rtt_port) |heyuanjie87  | GPL-2.0 |yaffs2 移植到RT-Thread|
 
 ## tools
@@ -360,6 +376,7 @@
 | [qrcode](https://github.com/RT-Thread-packages/qrcode) |RealThread  | MIT |一个用于将字符串生成二维码的软件包|
 | [rdb](https://github.com/RT-Thread-packages/rdb) |RealThread  | GPL-2.0 |RT-Thread 调试桥|
 | [regex](https://github.com/thread-liu/tiny-regex-c.git) |thread-liu  | Unlicense |一个小巧的 C 语言正则表达式|
+| [SEGGER_RTT](https://github.com/supperthomas/RTTHREAD_SEGGER_TOOL.git) |supperthomas  | Apache-2.0 |使用JLINK的RTT代替UART console输出|
 | [solar_terms](https://github.com/XYX12306/solar_terms.git) |XYX12306  | MIT |是一个根据公历日期判断与二十四节气关系的工具软件包。|
 | [SystemView](https://github.com/RT-Thread-packages/SEGGER_SystemView) |RealThread  | unknown |SEGGER 的 SystemView 移植|
 | [ulog_easyflash](https://github.com/armink-rtt-pkgs/ulog_easyflash) |armink  | MIT |基于 EasyFlash 的 ulog 插件|
