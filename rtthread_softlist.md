@@ -55,6 +55,8 @@
 | [ljson](https://github.com/qiaoqidui/ljson) |qiaoqidui|unknown|ANSI-C 标准的 JSON 解析器|
 | [lorawan_driver](https://github.com/zyk6271/LoRaWAN_Driver) |zyk6271|Apache-2.0|将LoRaWAN协议栈运行在RT-THREAD系统上|
 | [lorawan_ed_stack](https://github.com/Forest-Rain/lorawan-ed-stack) |Forest-Rain|Apache-2.0|lorawan_ed_stack是LoRaWAN终端设备协议栈的实现.|
+| [lora_pkt_fwd](https://github.com/Forest-Rain/lora-pkt-fwd) |forest-rain|Apache-2.0|lora_pkt_fwd实现基于Semtech GWMP协议的LoRaWAN协议包转发|
+| [lora_pkt_sniffer](https://github.com/Forest-Rain/lora-pkt-sniffer) |forest-rain|Apache-2.0|lora_pkt_sniffer是一个lora(wan)数据包的抓包工具|
 | [lssdp](https://github.com/RT-Thread-packages/lssdp.git) |RealThread|MIT|在 RT-Thread 上实现的 lssdp 协议，可以用于局域网设备自动发现|
 | [mavlink](https://github.com/sogwms/mavlink) |sogwms|Apache-2.0|一非常轻量级的消息传输协议|
 | [mongoose](https://github.com/armink-rtt-pkgs/mongoose) |armink|GPL-2.0|一款嵌入式 Web 服务器库|
@@ -73,6 +75,7 @@
 | [rapidjson](https://github.com/wuhanstudio/rapidjson) |wuhanstudio|MIT|支持 SAX/DOM 的 C++ JSON 处理库|
 | [rt-link_hw](https://github.com/RT-Thread-packages/rt-link_hw) |RealThread|Apache-2.0|rt-link 组件的底层通信端口适配层|
 | [rt_cjson_tools](https://github.com/maplerian/rt_cjson_tools) |maplerian|Apache-2.0|用于 RT-Thread 的 cJSON工具库|
+| [small_modbus](https://github.com/cazure/small_modbus.git) |chenbin182|Apache-2.0|small modbus协议栈|
 | [smtp_client](https://github.com/WKJay/SMTP_CLIENT) |WKJay|LGPL-2.1|SMTP邮件发送软件包，简单易用，支持普通25端口及465/587加密端口|
 | [tcpserver](https://github.com/Guozhanxin/tcpserver.git) |flybreak|Apache-2.0|一个支持多客户端的 TCP 服务器|
 | [umqtt](https://github.com/RT-Thread-packages/umqtt.git) |springcity|Apache-2.0|一个轻量级、功能强大、可定制、易于使用和可嵌入的RT-Thread mqtt客户端。|
@@ -128,6 +131,7 @@
 | [minizip](https://github.com/mysterywolf/minizip) |mysterywolf|unknown|zip压缩解压库|
 | [MultiButton](https://github.com/liu2guang/MultiButton) |0x1abin|MIT|一个小巧易用的事件驱动按钮驱动模块|
 | [optparse](https://github.com/liu2guang/optparse) |liu2guang|Unlicense|基于 RT-Thread 的 Getopt 命令行解析器|
+| [phase-locked-loop](https://github.com/haodongnj/PLL) |hao.dong|MIT|锁相环与锁频环算法|
 | [quicklz](https://github.com/RT-Thread-packages/quicklz) |RealThread|GPL-3.0|世界上速度最快的压缩库|
 | [filesystem_samples](https://github.com/RT-Thread-packages/filesystem-sample) |RealThread|Apache-2.0|RT-Thread 文件系统示例|
 | [kernel_samples](https://github.com/RT-Thread-packages/kernel-sample) |RealThread|Apache-2.0|RT-Thread 内核示例|
@@ -149,6 +153,8 @@
 | ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
 | [AzureGUIX](https://github.com/HelloByeAll/AzureGUIX) |HelloByeAll|Apache-2.0|微软THREADX系统中间件 AzureGUIX|
 | [helix](https://github.com/liuduanfei/helix) |liuduanfei|AGPL-3.0|Helix,mp3 解码库|
+| [LittlevGL2RTT](https://github.com/liu2guang/LittlevGL2RTT) |liu2guang|MIT|LittlevGL 是基于 RT-Thread 的图形库软件包 (老版本)|
+| [LVGL](https://github.com/lvgl/lvgl) |kisvegabor|MIT|LVGL图形库（官方上游）|
 | [mp3player](https://github.com/MrzhangF1ghter/mp3player) |MrzhangF1ghter|Apache-2.0|一个简易的mp3格式音乐播放器|
 | [mupdf](https://github.com/rtoslab/mupdf-rtt) |rtoslab|AGPL-3.0|轻量级PDF，XPS和电子书查看器|
 | [NUemWin](https://github.com/wosayttn/NUemWin) |wosayttn|LGPL-2.1|NUemWin在RT-Thread上的移植|
@@ -158,6 +164,9 @@
 | [TinyJPEG](https://github.com/StackRyan/TinyJPEG) |StackRyan|Apache-2.0|一个轻量的JPEG编码软件包|
 | [TJpgDec](https://github.com/RT-Thread-packages/TJpgDec) |RealThread|BSD|JPEG 解码库|
 | [touchgfx2rtt](https://github.com/Aladdin-Wang/touchgfx2rtt.git) |kk|LGPL-2.1|touchgfx在RT-Thread上的移植。|
+| [u8g2](https://github.com/wuhanstudio/rt-u8g2) |wuhanstudio|BSD|u8g2 不同种类单色屏驱动在 RT-Thread 移植库（老版本）|
+| [u8g2-official](https://github.com/olikraus/u8g2) |olikraus|BSD|u8g2 不同种类单色屏驱动库（上游官方版本）|
+| [ugui](https://github.com/xidongxu/ugui.git) |xidongxu|unknown|开源图形库ugui移植到rtthread。|
 | [wavplayer](https://github.com/RT-Thread-packages/wavplayer) |RealThread|Apache-2.0|简洁的wav格式的音乐播放器，提供播放和录音功能|
 
 ## peripherals
@@ -173,6 +182,7 @@
 | [at24cxx](https://github.com/XiaojieFan/at24cxx) |XiaojieFan|Apache-2.0|eeprom at24cxx 的驱动库。|
 | [beep](https://github.com/Sunwancn/rtt-pkgs-beep) |Sunwancn|Apache-2.0|基于 rt-thread 的 pin 和 pwm 驱动的蜂鸣器控制软件包，可以容易地驱动有源蜂鸣器或无源蜂鸣器，产生各种间隔长短的鸣叫声。|
 | [bluetrum_sdk](https://github.com/BLUETRUM/bluetrum_sdk) |BLUETRUM|MIT|bluetrum sdk|
+| [bouffalolab_sdk](https://github.com/balanceTWK/bouffalolab_sdk.git) |BalanceTWK|Apache-2.0|博流 处理器对应的外设驱动包|
 | [button](https://github.com/jiejieTop/rtpkg_button) |jiejieTop|GPL-3.0|C 实现的按键驱动，支持单击和双击，长按，长按释放|
 | [can_ymodem](https://github.com/redocCheng/rt_can_ymodem) |redocCheng|Apache-2.0|连接can设备和ymodem的驱动包|
 | [dm9051](https://github.com/aozima/dm9051) |aozima|Apache-2.0|DM9051 SPI 接口以太网芯片驱动库|
@@ -188,14 +198,17 @@
 | [libnfc](https://github.com/wuhanstudio/libnfc) |wuhanstudio|LGPL-3.0|libnc 软件包|
 | [littled](https://github.com/luhuadong/rtt-littled) |luhuadong|Apache-2.0|littled软件包: Littled LED Daemon 服务线程|
 | [lkdGui](https://github.com/guoweilkd/lkdGui) |guoweilkd|GPL-2.0|lkdGui是一款为单色显示屏制作的图形化界面，用于设计简单漂亮的图形界面。|
+| [lora_gw_driver_lib](https://github.com/Forest-Rain/lora-gw-driver-lib) |forest-rain|Apache-2.0|LoRa网关芯片(SX130x)驱动|
 | [lora_radio_driver](https://github.com/Forest-Rain/lora-radio-driver) |Forest-Rain|Apache-2.0|lora芯片(SX126x\SX127x)驱动包|
 | [ly68l6400](https://github.com/Ghazigq/ly68l6400) |Ghazigq|LGPL-2.1|ly68l6400芯片的驱动|
 | [max17048](https://github.com/aeo123/MAX17048.git) |zpw|MIT|电池监测芯片|
 | [max7219](https://github.com/redocCheng/max7219) |redocCheng|Apache-2.0|本软件包是在数码管上应用 MAX7219 的驱动包|
+| [mb85rs16](https://github.com/XiaojieFan/mb85rs16.git) |XiaojieFan|Apache-2.0|针对 铁电存储器 SPI 驱动软件包|
 | [mcp23008](https://github.com/XiaojieFan/mcp23008.git) |XiaojieFan|Apache-2.0|针对 I2C 并行口扩展 8 位 I/O 软件包|
 | [mfoc](https://github.com/wuhanstudio/mfoc) |wuhanstudio|GPL-2.0|Mifare Classic 离线破解工具。|
 | [micro_ros](https://github.com/wuhanstudio/micro_ros) |wuhanstudio|Apache-2.0|在 MCU 上运行 ROS2.|
 | [Misaka_AT24CXX](https://github.com/xqyjlj/Miaska_AT24CXX) |xqyjlj|Apache-2.0|御坂网络AT24CXX驱动包，提供了AT24CXX的全部功能|
+| [Misaka_RGB_Bling](https://github.com/xqyjlj/Misaka_RGB_Bling) |xqyjlj|Apache-2.0|御坂网络RGB LED驱动包，提供了对于RGB LED灯的控制功能。|
 | [MotionDriver2RTT](https://github.com/greedyhao/MotionDriver2RTT) |greedyhao|LGPL-2.1|移植 MotionDriver 到 RTT 的包|
 | [multi_rtimer](https://github.com/Forest-Rain/multi-rtimer) |Forest-Rain|Apache-2.0|一个实时、低功耗软件定时器模块|
 | [nes](https://github.com/Ghazigq/nes) |Ghazigq|Apache-2.0|nes模拟器c库。|
@@ -233,10 +246,12 @@
 | [dht11](https://github.com/murphyzhao/dht11_rtt) |MurphyZhao|Apache-2.0|DHT11 单总线数字温湿度传感器|
 | [dhtxx](https://github.com/luhuadong/rtt-dhtxx) |luhuadong|Apache-2.0|DHTxx系列单总线数字温湿度传感器驱动|
 | [ds18b20](https://github.com/willianchanlovegithub/ds18b20) |WillianChan|Apache-2.0|数字温度传感器 ds18b20 的软件包|
+| [fingerprint](https://github.com/pk-ing/fingerprint) |pk-ing|GPL-3.0|指纹模块驱动|
 | [gp2y10](https://github.com/luhuadong/rtt-gp2y10) |luhuadong|Apache-2.0|GP2Y10 夏普公司的灰尘/空气颗粒物浓度传感器|
 | [gy271](https://github.com/jch12138/gy271) |jch12138|Apache-2.0|gy271驱动库|
 | [hdc1000](https://github.com/Forest-Rain/hdc1000) |Forest-Rain|Apache-2.0|TI温湿度传感器hdc1000软件包(RT-Thread Sensor架构)|
 | [hmc5883](https://github.com/gmyFighting/hmc5883) |MYGuo|Apache-2.0|hmc5883 软件包|
+| [hs300x](https://github.com/Guozhanxin/hs300x) |flyboy|Apache-2.0|数字温湿度传感器 hs300x 的驱动库|
 | [hshcal001](https://github.com/lucaslsh/hshcal001.git) |lucalsh|Apache-2.0|hshcal001 传感器驱动包，支持：温度、湿度计算.|
 | [hts221](https://github.com/RT-Thread-packages/hts221) |flybreak|other|HTS221 传感器驱动包，支持：温度，湿度|
 | [ina226](https://github.com/xupenghu/ina226.git) |xph|Apache-2.0|ina226 软件包|
@@ -262,10 +277,12 @@
 | [tmp1075](https://github.com/Prry/rtt-tmp1075) |panrui|Apache-2.0|TMP1075 数字温度传感器驱动软件包|
 | [tsl4531](https://github.com/JellyYe/tsl4531pkgs.git) |ye guodong|Apache-2.0|tsl4531 是光感传感器,能读取环境亮度 lux。|
 | [vl53l0x](https://github.com/Prry/rtt-vl53l0x) |panrui|Apache-2.0|VL53L0X 飞行时间(TOF)传感器驱动软件包|
+| [zmod4410](https://github.com/ShermanShao/zmod4410) |Sherman|RENESAS SOFTWARE LICENSE TERMS|Renesas 室内空气质量检测传感器 zmod4410 的驱动库|
 | [sgm706](https://github.com/Prry/rtt-sgm706) |panrui|Apache-2.0|SGM706独立看门狗驱动软件包|
 | [sht2x](https://github.com/RT-Thread-packages/sht2x) |RealThread|Apache-2.0|数字湿度和温度传感器 sht2x 驱动软件包|
 | [sht3x](https://github.com/donghao2nanjing/sht3x) |hao.dong|LGPLv2.1|数字湿度和温度传感器 sht3x 驱动软件包|
 | [SignalLed](https://github.com/WKJay/SignalLed) |WKJay|LGPL-2.1|信号灯软件包，支持自定义闪烁方式、周期，支持随时开启、关闭|
+| [soft_serial](https://github.com/qiyongzhong0/rt-thread-soft-serial) |qiyongzhong0| LGPL-2.1|一个利用硬件定时器捕获/比较功能实现软件模拟串口的软件包|
 | [ssd1306](https://github.com/luhuadong/rtt-ssd1306) |luhuadong|Apache-2.0|基于 SSD1306、SH1106、SH1107 和 SSD1309 的 OLED 驱动，支持 I2C 和 SPI|
 | [stm32wb55_sdk](https://github.com/xupenghu/stm32wb55_sdk.git) |xph|Apache-2.0|stm32wb55_sdk 软件包|
 | [stm32_sdio](https://github.com/RT-Thread-packages/stm32_sdio) |RealThread|LGPL-2.1|STM32 平台 SDIO 控制器驱动包|
@@ -279,7 +296,6 @@
 | [gt911](https://github.com/RiceChen/gt911) |RiceChen|Apache-2.0|gt911 驱动。|
 | [gt9147](https://github.com/RT-Thread-packages/gt9147) |tyustli|Apache-2.0|这是 GT9147 触摸芯片的驱动包|
 | [gt917s](https://github.com/lilisheng411527/gt917s.git) |layson.li|LGPL-2.1| gt917s 驱动|
-| [u8g2](https://github.com/wuhanstudio/rt-u8g2) |wuhanstudio|BSD|U8g2 不同种类单色屏驱动在 RT-Thread 移植库|
 | [vdevice](https://github.com/RT-Thread-packages/vdevice) |stackRyan|Apache-2.0|适配于rt-thread device框架下的虚拟IO设备。|
 | [vsensor](https://github.com/RT-Thread-packages/vsensor) |RealThread|Apache-2.0|虚拟传感器设备|
 | [wk2124](https://github.com/MrMichael/wk2124) |YaohongLi|Apache-2.0|wk2124 spi转四串口芯片的驱动库。|
@@ -306,7 +322,9 @@
 | ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
 | [Arm-2D](https://github.com/liuduanfei/Arm-2D) |liuduanfei|Apache-2.0|Arm-2D 图形库。|
 | [cairo](https://github.com/RT-Thread-packages/cairo) |RealThread|LGPL/MPL|适用于多平台的 2D 图形软件包|
-| [CMSIS](https://github.com/RT-Thread-packages/CMSIS) |RealThread|Apache-2.0|CMSIS 软件包在 RT-Thread 上的移植|
+| [CMSIS_5](https://github.com/ARM-software/CMSIS_5) |ARM-software|Apache-2.0|CMSIS-5|
+| [CMSIS_5_AUX](https://github.com/RT-Thread-packages/CMSIS_5_AUX) |RT-Thread-packages|Apache-2.0|CMSIS_5软件包的辅助构建软件包（该软件包不需要用户选择）|
+| [CMSIS_RTOS2](https://github.com/RT-Thread-packages/CMSIS_RTOS2) |RT-Thread-packages|Apache-2.0|RT-Thread的CMSIS-RTOS2标准兼容层|
 | [EV](https://github.com/sogwms/EV) |sogwms|Apache-2.0|高效开发 vehicles(包括无人机) 的框架|
 | [event_recorder](https://github.com/RT-Thread-packages/event_recorder) |armink|Apache-2.0|一款轻量级的事件记录器，支持事件的记录与回放|
 | [fal](https://github.com/RT-Thread-packages/fal) |RealThread| LGPL-2.1|Flash 抽象层的实现，负责管理 Flash 设备和 Flash 分区|
@@ -314,7 +332,6 @@
 | [gui_engine](https://github.com/RT-Thread-packages/gui_engine) |RealThread| LGPL-2.1|来自 RT-Thread 官方的 GUI 引擎|
 | [jffs2](https://github.com/RT-Thread-packages/jffs2) |prife|GPL-2.0|闪存日志型文件系统第 2 版|
 | [littlefs](https://github.com/geniusgogo/littlefs) |geniusgogo|BSD-3-Clause|为微控制器设计的一个小型的且掉电安全的文件系统|
-| [LittlevGL2RTT](https://github.com/liu2guang/LittlevGL2RTT) |liu2guang|MIT|Littlevgl 是基于 RT-Thread 的图形库软件包|
 | [lpm](https://github.com/RT-Thread-packages/lpm) |RealThread|Apache-2.0|逻辑分区管理，负责存储设备管理和分区管理。|
 | [lwext4](https://github.com/mysterywolf/lwext4) |mysterywolf|GPL-2.0|适合微控制器的 ext2 / 3/4文件系统的实现|
 | [mcuboot](https://github.com/iysheng/rt_mcuboot.git) |iysheng|Apache-2.0|一个针对微控制器的涉及 bootloader, flash layout 的通用框架。|
@@ -336,10 +353,12 @@
 | [rt-robot](https://github.com/RT-Thread-packages/rt-robot) |wuhanstudio|MIT|RT-Thread 机器人平台|
 | [rti](https://github.com/RT-Thread-packages/rti) |RealThread|LGPL-2.1|RT-Thread 展示系统内部运行信息的组件，能够帮助分析系统内部情况|
 | [rt_kprintf_threadsafe](https://github.com/mysterywolf/rt_kprintf_threadsafe) |mysterywolf|Apache-2.0|线程安全版本的rt_kprintf|
+| [rt_vsnprintf_full](https://github.com/mysterywolf/rt_vsnprintf_full) |mysterywolf|Apache-2.0|rt_vsnprintf全功能版本|
 | [sqlite](https://github.com/RT-Thread-packages/SQLite) |RealThread|unknown|SQLite 是一个完备、高度可靠、嵌入型、全功能、公共领域的 SQL 数据库引擎|
 | [syswatch](https://github.com/qiyongzhong0/rt-thread-syswatch) |qiyongzhong0| LGPL-2.1|系统看守：一个用于保障系统长期正常运行的组件|
 | [sys_load_monitor](https://github.com/armink-rtt-pkgs/sys_load_monitor) |armink|Apache-2.0|一款轻量级的系统负荷监视器|
 | [thread_pool](https://github.com/armink-rtt-pkgs/thread_pool) |armink|MIT|基于 RT-Thread 的线程池实现|
+| [TinyUSB](https://github.com/tfx2001/tinyusb) |tfx2001|MIT|用于嵌入式系统的开源跨平台USB协议栈|
 | [tlsf](https://github.com/RT-Thread-packages/tlsf) |namexx|Apache-2.0|TLSF是一个可以预期执行时间、碎片化程度低的动态内存分配算法。|
 | [uffs](https://github.com/RT-Thread-packages/uffs) |prife|LGPL-2|超低功耗的闪存文件系统|
 | [wcwidth](https://github.com/mysterywolf/wcwidth) |mysterywolf|None|wcwidth() 函数软件包|
@@ -363,6 +382,7 @@
 | [Dhrystone](https://github.com/wuhanstudio/dhrystone) |wuhanstudio|apache|Dhrystone 单片机性能测试小工具|
 | [EasyFlash](https://github.com/armink-rtt-pkgs/EasyFlash) |armink|MIT|轻量级嵌入式 Flash 存储器库，让 Flash 成为小型 KV 数据库|
 | [EasyLogger](https://github.com/armink-rtt-pkgs/EasyLogger) |armink|MIT|一款超轻量级(ROM<1.6K, RAM<0.3k)、高性能的 C/C++ 日志库|
+| [fdt](https://github.com/RT-Thread-packages/fdt) |RealThread|LGPL-3.0|RT-Thread 设备树工具包|
 | [gan_zhi](https://github.com/XYX12306/gan_zhi.git) |XYX12306|MIT|是一个根据公历日期、时得到相应的天干地支的工具软件包。|
 | [gbk2utf8](https://github.com/Ghazigq/gbk2utf8) |Ghazigq|Apache-2.0|GBK与UTF8编码之间的转换。|
 | [gps_rmc](https://github.com/maplerian/gps_rmc) |maplerian|Apache-2.0|用于解析GPS模块的 $XXRMC 类型数据|
@@ -384,7 +404,7 @@
 | [SystemView](https://github.com/RT-Thread-packages/SEGGER_SystemView) |RealThread|unknown|SEGGER 的 SystemView 移植|
 | [ulog_easyflash](https://github.com/armink-rtt-pkgs/ulog_easyflash) |armink|MIT|基于 EasyFlash 的 ulog 插件|
 | [ulog_file](https://github.com/RT-Thread-packages/ulog_file.git) |ChenYong|Apache-2.0|ulog_file: 基于文件系统的 ulog 后端插件。|
-| [uMCN](https://github.com/JcZou/uMCN) |JCZou|Apache-2.0|uMCN是一个基于发布者/订阅者模式的轻量级且功能强大的跨进程通信库。|
+| [uMCN](https://github.com/JcZou/uMCN) |JCZou|Apache-2.0|uMCN是一个基于发布者/订阅者模式的轻量级且功能强大的跨线程/进程通信模块。|
 | [UrlEncode](https://github.com/jch12138/UrlEncode.git) |jch12138|LGPL-2.1|一个简单易用的Url编解码工具|
 | [vconsole](https://github.com/enkiller/vconsole) |enkiller|Apache-2.0|一个虚拟控制台软件包。|
 | [wamr](https://github.com/bytecodealliance/wasm-micro-runtime.git) |alvkeke|Apache-2.0|运行于RT-Thread的WebAssembly Micro Runtime|
