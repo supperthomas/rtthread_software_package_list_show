@@ -9,6 +9,7 @@
 先用命令把官方packages下下来，并且更新到最新的版本
 
 ```
+git submodule init
 git submodule update --remote
 ```
 
