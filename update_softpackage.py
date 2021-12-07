@@ -30,8 +30,8 @@ with open(filename, 'w', encoding='utf-8') as file_object:
                         group_name = curren_name
                         file_object.write("\r\n")
                         file_object.write("## " + group_name + "\n")
-                        file_object.write("\r\n | 包名 | 作者  | license   | 备注      |"+"\n" +
-                                          "| ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |" + "\n")
+                        file_object.write("\r\n |forks|stars| 包名 | 作者  | license   | 备注      |"+"\n" +
+                                          "| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |" + "\n")
                 package_name = os.path.basename(os.path.join(root))
                 # print(os.path.basename(os.path.join(root)))      ##package name
                 json_path = os.path.join(root, f)
@@ -56,6 +56,7 @@ with open(filename, 'w', encoding='utf-8') as file_object:
                         if dict[0] == "repository":
                             # print(dict[1])
                             github_link = dict[1]
+                            strlist = github_link[github_link.find('com')+4:].split('/')
                             # json_list.append(dict[1])
-                file_object.write("| ["+package_name + "](" + github_link + ") |" +
+                file_object.write("|![GitHub forks](https://img.shields.io/github/forks/"+strlist[0]+"/"+strlist[1]+"?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/"+strlist[0]+"/"+strlist[1]+"?style=social)| ["+package_name + "](" + github_link + ") |" +
                                   package_json_name+"|"+package_license+"|"+package_description + "|\n")

@@ -2,409 +2,412 @@
 
 ## ai
 
- | 包名 | 作者  | license   | 备注      |
-| ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
-| [elapack](https://github.com/wuhanstudio/elapack) |wuhanstudio|MIT|嵌入式线性代数库，兼容 matlab|
-| [libann](https://github.com/wuhanstudio/rt-libann) |wuhanstudio|MIT|轻量级 ANN 库，可以训练，保存和导入模型|
-| [naxos](https://github.com/wuhanstudio/naxos) |wuhanstudio|LGPL-3.0|C++ Constraint Programming 库|
-| [nnom](https://github.com/majianjia/nnom) |Jianjia Ma|Apache-2.0|轻量级的神经网络框架, 模型一键转换, 让MCU也神经一把|
-| [onnx-backend](https://github.com/wuhanstudio/onnx-backend) |wuhanstudio|MIT|开源神经网络模型 onnx 后端，支持几乎所有主流机器学习模型|
-| [onnx-parser](https://github.com/wuhanstudio/rt-onnx-parser) |wuhanstudio|MIT|开源神经网络模型 onnx 解析库|
-| [quest](https://github.com/wuhanstudio/QuEST) |wuhanstudio|MIT|嵌入式系统上的量子计算机模拟器|
-| [TensorflowLiteMicro](https://github.com/QingChuanWS/TensorflowLiteMicro) |QingChuanWS|LGPLv2.1|用于rt-thread操作系统的轻量级深度学习端侧推理框架Tensorflow Lite软件包。|
-| [ulapack](https://github.com/wuhanstudio/ulapack) |wuhanstudio|MIT|嵌入式线性代数库|
+ |forks|stars| 包名 | 作者  | license   | 备注      |
+| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/elapack?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/elapack?style=social)| [elapack](https://github.com/wuhanstudio/elapack) |wuhanstudio|MIT|嵌入式线性代数库，兼容 matlab|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/rt-libann?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/rt-libann?style=social)| [libann](https://github.com/wuhanstudio/rt-libann) |wuhanstudio|MIT|轻量级 ANN 库，可以训练，保存和导入模型|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/naxos?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/naxos?style=social)| [naxos](https://github.com/wuhanstudio/naxos) |wuhanstudio|LGPL-3.0|C++ Constraint Programming 库|
+|![GitHub forks](https://img.shields.io/github/forks/majianjia/nnom?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/majianjia/nnom?style=social)| [nnom](https://github.com/majianjia/nnom) |Jianjia Ma|Apache-2.0|轻量级的神经网络框架, 模型一键转换, 让MCU也神经一把|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/onnx-backend?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/onnx-backend?style=social)| [onnx-backend](https://github.com/wuhanstudio/onnx-backend) |wuhanstudio|MIT|开源神经网络模型 onnx 后端，支持几乎所有主流机器学习模型|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/rt-onnx-parser?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/rt-onnx-parser?style=social)| [onnx-parser](https://github.com/wuhanstudio/rt-onnx-parser) |wuhanstudio|MIT|开源神经网络模型 onnx 解析库|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/QuEST?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/QuEST?style=social)| [quest](https://github.com/wuhanstudio/QuEST) |wuhanstudio|MIT|嵌入式系统上的量子计算机模拟器|
+|![GitHub forks](https://img.shields.io/github/forks/QingChuanWS/TensorflowLiteMicro?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/QingChuanWS/TensorflowLiteMicro?style=social)| [TensorflowLiteMicro](https://github.com/QingChuanWS/TensorflowLiteMicro) |QingChuanWS|LGPLv2.1|用于rt-thread操作系统的轻量级深度学习端侧推理框架Tensorflow Lite软件包。|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/ulapack?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/ulapack?style=social)| [ulapack](https://github.com/wuhanstudio/ulapack) |wuhanstudio|MIT|嵌入式线性代数库|
 
 ## iot
 
- | 包名 | 作者  | license   | 备注      |
-| ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
-| [abup_fota](https://github.com/RayShen1018/Abup) |RayShen1018|Apache-2.0|基于 abup FOTA 组件的 固件下载器|
-| [agile_ftp](https://github.com/loogg/agile_ftp) |loogg|LGPL-2.1|轻量级 ftp 服务器。|
-| [agile_jsmn](https://github.com/loogg/agile_jsmn) |loogg|MIT|轻量级json解析器。|
-| [agile_modbus](https://github.com/loogg/agile_modbus) |loogg|LGPL-2.1|轻量级 modbus 协议栈。|
-| [agile_telnet](https://github.com/loogg/agile_telnet) |loogg|LGPL-2.1|以太网TCP调试。|
-| [airkissOpen](https://github.com/heyuanjie87/airkissOpen) |heyuanjie87|Apache-2.0|腾讯airkiss协议解析库|
-| [atsrv_socket](https://github.com/RT-Thread-packages/atsrv_socket) |RealThread|Apache-2.0|socket 相关指令的 AT 服务端|
-| [at_device](https://github.com/RT-Thread-packages/at_device) |RealThread|LGPL-2.1|AT 组件在不同设备上的移植或示例|
-| [bc28_mqtt](https://github.com/luhuadong/rtt-bc28-mqtt) |luhuadong|Apache-2.0|BC28 MQTT: 使用移远BC28模块连接阿里云IoT平台|
-| [bsal](https://github.com/RT-Thread-packages/bsal) |supperthomas|Apache-2.0|蓝牙协议栈抽象层。|
-| [btstack](https://github.com/supperthomas/RTT_PACKAGE_BTSTACK.git) |supperthomas|non-commercial|软件包 btstack 用于BTSTACK在RT-THREAD中的使用|
-| [capnp](https://github.com/wuhanstudio/capnp) |wuhanstudio|MIT|Cap'n 串行化协议，比 protobuf 更高效，更轻量级。|
-| [cJSON](https://github.com/RT-Thread-packages/cJSON) |RealThread|MIT|超轻量级的 C 语言 json 解析库|
-| [cmux](https://github.com/RT-Thread-packages/cmux) |xiangxistu|Apache-2.0|在 RT_Thread 上实现的串口多路复用协议, 支持 GSM0710|
-| [coap](https://github.com/RT-Thread-packages/coap) |RealThread|BSD-2-Clause|一种 C 语言实现的 CoAP 协议|
-| [dlt645](https://github.com/WKJay/DLT645) |WKJay|LGPL-2.1|基于DLT645协议的主机采集软件包|
-| [EmbeddedProto](https://github.com/wuhanstudio/EmbeddedProto) |wuhanstudio|GPL-3.0|EmbeddedProto: 嵌入式 C++ protobuf 针对 ARM Cortex-M 优化|
-| [ezXML](https://github.com/RT-Thread-packages/ezXML) |RealThread|MIT|一个用 C 语言描述的 XML 解析库，并且简单易用|
-| [freemodbus](https://github.com/RT-Thread-packages/freemodbus) |flybreak|BSD|FreeModbus: 开源的 Modbus 主从协议栈|
-| [hm](https://github.com/Jackistang/HCI-Middleware) |Jackistang|Apache-2.0|一个通用的蓝牙 HCI 传输层|
-| [ali-iotkit](https://github.com/RT-Thread-packages/ali-iotkit) |RealThread|Apache-2.0|连接阿里 IoT 云平台的软件包|
-| [azure-iot-sdk](https://github.com/RT-Thread-packages/azure-iot-sdk) |RealThread|MIT|微软 azure 云软件包，支持 MQTT 协议和 HTTP 协议，使用该软件包可轻松将设备连接至 azure 云平台|
-| [GAgent](https://github.com/RT-Thread-packages/GAgent) |RealThread|LGPL-2.1|连接机智云的软件包|
-| [jiot-c-sdk](https://github.com/jpush/JIoT-rtthread-package.git) |ouyangshengduo|MIT|连接极光IoT云的客户端软件包|
-| [joylink](https://github.com/RT-Thread-packages/joylink) |RealThread|Apache-2.0|连接京东小京鱼 IOT 云平台的软件包|
-| [onenet](https://github.com/RT-Thread-packages/onenet) |RealThread|LGPL-2.1|连接中国移动 OneNet 云的软件包|
-| [tencent-iot-sdk](https://github.com/tencentyun/tencent-cloud-iot-package-for-rtthread) |yougaliu|MIT|连接腾讯物联网开发平台的软件包。|
-| [ucloud_iot_sdk](https://github.com/ucloud/ucloud-iot-rtthread-package.git) |ucloud|Apache-2.0|用于快速连接优刻得物联网平台的软件包。|
-| [ipmsg](https://github.com/heyuanjie87/ipmsg) |heyuanjie87|Apache-2.0|在 RT-Thread 上实现的 飞鸽传书|
-| [jsmn](https://github.com/RT-Thread-packages/jsmn) |RealThread|MIT|世界上最快 JSON 解析器或标记器|
-| [kawaii-mqtt](https://github.com/jiejieTop/kawaii-mqtt) |jiejie|GPL-2.0|一个基于socket API之上的跨平台MQTT客户端，拥有非常简洁的API接口，以极少的资源实现QOS2的服务质量，并且无缝衔接了mbedtls加密库。|
-| [libcurl2rtt](https://github.com/liu2guang/libcurl2rtt) |liu2guang|Apache-2.0|基于 RT-Thread 移植的 curl 库|
-| [libmodbus](https://github.com/loogg/libmodbus) |malongwei|LGPL-2.1|libmodbus在RT-Thread上的移植|
-| [librws](https://github.com/RT-Thread-packages/librws) |RealThread|MIT|小型、跨平台websocket客户端C库。|
-| [ljson](https://github.com/qiaoqidui/ljson) |qiaoqidui|unknown|ANSI-C 标准的 JSON 解析器|
-| [lorawan_driver](https://github.com/zyk6271/LoRaWAN_Driver) |zyk6271|Apache-2.0|将LoRaWAN协议栈运行在RT-THREAD系统上|
-| [lorawan_ed_stack](https://github.com/Forest-Rain/lorawan-ed-stack) |Forest-Rain|Apache-2.0|lorawan_ed_stack是LoRaWAN终端设备协议栈的实现.|
-| [lora_pkt_fwd](https://github.com/Forest-Rain/lora-pkt-fwd) |forest-rain|Apache-2.0|lora_pkt_fwd实现基于Semtech GWMP协议的LoRaWAN协议包转发|
-| [lora_pkt_sniffer](https://github.com/Forest-Rain/lora-pkt-sniffer) |forest-rain|Apache-2.0|lora_pkt_sniffer是一个lora(wan)数据包的抓包工具|
-| [lssdp](https://github.com/RT-Thread-packages/lssdp.git) |RealThread|MIT|在 RT-Thread 上实现的 lssdp 协议，可以用于局域网设备自动发现|
-| [mavlink](https://github.com/sogwms/mavlink) |sogwms|Apache-2.0|一非常轻量级的消息传输协议|
-| [mongoose](https://github.com/armink-rtt-pkgs/mongoose) |armink|GPL-2.0|一款嵌入式 Web 服务器库|
-| [mymqtt](https://github.com/hichard/mymqtt) |hichard|EPL-1.0|Eclipse 开源的 MQTT C/C++ 客户端的一种高效、稳定的实现。|
-| [nanopb](https://github.com/RT-Thread-packages/nanopb) |RealThread|Zlib|Protocol Buffers 解析器在嵌入式上的实现|
-| [netutils](https://github.com/RT-Thread-packages/netutils) |RealThread|Apache-2.0|RT-Thread 网络网络小工具集|
-| [NimBLE](https://github.com/RT-Thread-packages/nimble) |RealThread|Apache-2.0|Apache 开源蓝牙 5.0 协议栈在 RT-Thread 的移植|
-| [nmealib](https://github.com/ShineRoyal/nmealib) |ShineRoyal|LGPL-2.1|nmealib库在RT-Thread上的移植|
-| [nopoll](https://github.com/RT-Thread-packages/nopoll) |RealThread|LGPL-2.1|一款 C 实现的开源 WebSocket 软件包|
-| [ota_downloader](https://github.com/RT-Thread-packages/ota_downloader) |RealThread|Apache-2.0|基于 RT-Thread OTA 组件的 固件下载器|
-| [pahomqtt](https://github.com/RT-Thread-packages/paho-mqtt) |RealThread|EPL-1.0|Eclipse 开源的 MQTT C/C++ 客户端|
-| [pdulib](https://github.com/ShineRoyal/pdulib) |ShineRoyal|LGPL-2.1|一个用于PDU格式的短信文本解析库|
-| [ppp_device](https://github.com/RT-Thread-packages/ppp_device.git) |xiangxistu|Apache-2.0|lwIP PPP 功能针对蜂窝( 2G/3G/4G )模块移植和实现|
-| [protobuf-c](https://github.com/wuhanstudio/protobuf-c) |wuhanstudio|MIT|Google 的 prototol buffer 一种轻便高效的数据存储格式|
-| [qxwz](https://github.com/RT-Thread-packages/qianxun.git) |daniel.chen|Apache-2.0|qxwz 高精度定位应用|
-| [rapidjson](https://github.com/wuhanstudio/rapidjson) |wuhanstudio|MIT|支持 SAX/DOM 的 C++ JSON 处理库|
-| [rt-link_hw](https://github.com/RT-Thread-packages/rt-link_hw) |RealThread|Apache-2.0|rt-link 组件的底层通信端口适配层|
-| [rt_cjson_tools](https://github.com/maplerian/rt_cjson_tools) |maplerian|Apache-2.0|用于 RT-Thread 的 cJSON工具库|
-| [small_modbus](https://github.com/cazure/small_modbus.git) |chenbin182|Apache-2.0|small modbus协议栈|
-| [smtp_client](https://github.com/WKJay/SMTP_CLIENT) |WKJay|LGPL-2.1|SMTP邮件发送软件包，简单易用，支持普通25端口及465/587加密端口|
-| [tcpserver](https://github.com/Guozhanxin/tcpserver.git) |flybreak|Apache-2.0|一个支持多客户端的 TCP 服务器|
-| [umqtt](https://github.com/RT-Thread-packages/umqtt.git) |springcity|Apache-2.0|一个轻量级、功能强大、可定制、易于使用和可嵌入的RT-Thread mqtt客户端。|
-| [wayz_iotkit](https://github.com/wayz-iot/) |jianxiong.ye|GPL-2.0|wayz iot 定位软件包|
-| [webclient](https://github.com/RT-Thread-packages/webclient) |RealThread|Apache-2.0|RT-Thread 官方开源的 http/https 协议客户端|
-| [webnet](https://github.com/RT-Thread-packages/webnet) |RealThread|GPL-2.0|RT-Thread 官方开源的、轻量级、可定制嵌入式 Web 服务器|
-| [WebTerminal](https://github.com/armink-rtt-pkgs/WebTerminal) |armink|unknown|可以在浏览器上运行的终端|
-| [rw007](https://github.com/RT-Thread-packages/rw007) |RealThread|Apache-2.0|RT-Thread 的 RW007 驱动（SPI Wi-Fi 模式）|
-| [wlanmarvell](https://github.com/JianRuiqian/marvellwifi) |JianRuiqian|GPL-2.0|RT-Thread 的 Marvell wifi 驱动|
-| [wlan_wiced](https://github.com/RT-Thread-packages/wlan-wiced) |RealThread|GPL-2.0|WICED 的 wlan 驱动|
-| [wiznet](https://github.com/RT-Thread-packages/wiznet) |RealThread|Apache-2.0|WIZNet TCP/IP 芯片（例如： W5500/W5100）的 SAL 框架对接实现|
-| [zb_coordinator](https://github.com/TaoYang0907/ZB_COORDINATOR_PACKAGE) |TaoYang0907|LGPL-2.1|AT命令在ZigBee协调器上的应用|
+ |forks|stars| 包名 | 作者  | license   | 备注      |
+| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
+|![GitHub forks](https://img.shields.io/github/forks/RayShen1018/Abup?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RayShen1018/Abup?style=social)| [abup_fota](https://github.com/RayShen1018/Abup) |RayShen1018|Apache-2.0|基于 abup FOTA 组件的 固件下载器|
+|![GitHub forks](https://img.shields.io/github/forks/loogg/agile_ftp?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/loogg/agile_ftp?style=social)| [agile_ftp](https://github.com/loogg/agile_ftp) |loogg|LGPL-2.1|轻量级 ftp 服务器。|
+|![GitHub forks](https://img.shields.io/github/forks/loogg/agile_jsmn?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/loogg/agile_jsmn?style=social)| [agile_jsmn](https://github.com/loogg/agile_jsmn) |loogg|MIT|轻量级json解析器。|
+|![GitHub forks](https://img.shields.io/github/forks/loogg/agile_modbus?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/loogg/agile_modbus?style=social)| [agile_modbus](https://github.com/loogg/agile_modbus) |loogg|LGPL-2.1|轻量级 modbus 协议栈。|
+|![GitHub forks](https://img.shields.io/github/forks/loogg/agile_telnet?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/loogg/agile_telnet?style=social)| [agile_telnet](https://github.com/loogg/agile_telnet) |loogg|LGPL-2.1|以太网TCP调试。|
+|![GitHub forks](https://img.shields.io/github/forks/heyuanjie87/airkissOpen?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/heyuanjie87/airkissOpen?style=social)| [airkissOpen](https://github.com/heyuanjie87/airkissOpen) |heyuanjie87|Apache-2.0|腾讯airkiss协议解析库|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/atsrv_socket?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/atsrv_socket?style=social)| [atsrv_socket](https://github.com/RT-Thread-packages/atsrv_socket) |RealThread|Apache-2.0|socket 相关指令的 AT 服务端|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/at_device?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/at_device?style=social)| [at_device](https://github.com/RT-Thread-packages/at_device) |RealThread|LGPL-2.1|AT 组件在不同设备上的移植或示例|
+|![GitHub forks](https://img.shields.io/github/forks/luhuadong/rtt-bc28-mqtt?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/luhuadong/rtt-bc28-mqtt?style=social)| [bc28_mqtt](https://github.com/luhuadong/rtt-bc28-mqtt) |luhuadong|Apache-2.0|BC28 MQTT: 使用移远BC28模块连接阿里云IoT平台|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/bsal?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/bsal?style=social)| [bsal](https://github.com/RT-Thread-packages/bsal) |supperthomas|Apache-2.0|蓝牙协议栈抽象层。|
+|![GitHub forks](https://img.shields.io/github/forks/supperthomas/RTT_PACKAGE_BTSTACK.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/supperthomas/RTT_PACKAGE_BTSTACK.git?style=social)| [btstack](https://github.com/supperthomas/RTT_PACKAGE_BTSTACK.git) |supperthomas|non-commercial|软件包 btstack 用于BTSTACK在RT-THREAD中的使用|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/capnp?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/capnp?style=social)| [capnp](https://github.com/wuhanstudio/capnp) |wuhanstudio|MIT|Cap'n 串行化协议，比 protobuf 更高效，更轻量级。|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/cJSON?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/cJSON?style=social)| [cJSON](https://github.com/RT-Thread-packages/cJSON) |RealThread|MIT|超轻量级的 C 语言 json 解析库|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/cmux?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/cmux?style=social)| [cmux](https://github.com/RT-Thread-packages/cmux) |xiangxistu|Apache-2.0|在 RT_Thread 上实现的串口多路复用协议, 支持 GSM0710|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/coap?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/coap?style=social)| [coap](https://github.com/RT-Thread-packages/coap) |RealThread|BSD-2-Clause|一种 C 语言实现的 CoAP 协议|
+|![GitHub forks](https://img.shields.io/github/forks/WKJay/DLT645?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/WKJay/DLT645?style=social)| [dlt645](https://github.com/WKJay/DLT645) |WKJay|LGPL-2.1|基于DLT645协议的主机采集软件包|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/EmbeddedProto?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/EmbeddedProto?style=social)| [EmbeddedProto](https://github.com/wuhanstudio/EmbeddedProto) |wuhanstudio|GPL-3.0|EmbeddedProto: 嵌入式 C++ protobuf 针对 ARM Cortex-M 优化|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/ezXML?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/ezXML?style=social)| [ezXML](https://github.com/RT-Thread-packages/ezXML) |RealThread|MIT|一个用 C 语言描述的 XML 解析库，并且简单易用|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/freemodbus?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/freemodbus?style=social)| [freemodbus](https://github.com/RT-Thread-packages/freemodbus) |flybreak|BSD|FreeModbus: 开源的 Modbus 主从协议栈|
+|![GitHub forks](https://img.shields.io/github/forks/Jackistang/HCI-Middleware?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Jackistang/HCI-Middleware?style=social)| [hm](https://github.com/Jackistang/HCI-Middleware) |Jackistang|Apache-2.0|一个通用的蓝牙 HCI 传输层|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/ali-iotkit?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/ali-iotkit?style=social)| [ali-iotkit](https://github.com/RT-Thread-packages/ali-iotkit) |RealThread|Apache-2.0|连接阿里 IoT 云平台的软件包|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/azure-iot-sdk?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/azure-iot-sdk?style=social)| [azure-iot-sdk](https://github.com/RT-Thread-packages/azure-iot-sdk) |RealThread|MIT|微软 azure 云软件包，支持 MQTT 协议和 HTTP 协议，使用该软件包可轻松将设备连接至 azure 云平台|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/GAgent?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/GAgent?style=social)| [GAgent](https://github.com/RT-Thread-packages/GAgent) |RealThread|LGPL-2.1|连接机智云的软件包|
+|![GitHub forks](https://img.shields.io/github/forks/jpush/JIoT-rtthread-package.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/jpush/JIoT-rtthread-package.git?style=social)| [jiot-c-sdk](https://github.com/jpush/JIoT-rtthread-package.git) |ouyangshengduo|MIT|连接极光IoT云的客户端软件包|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/joylink?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/joylink?style=social)| [joylink](https://github.com/RT-Thread-packages/joylink) |RealThread|Apache-2.0|连接京东小京鱼 IOT 云平台的软件包|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/onenet?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/onenet?style=social)| [onenet](https://github.com/RT-Thread-packages/onenet) |RealThread|LGPL-2.1|连接中国移动 OneNet 云的软件包|
+|![GitHub forks](https://img.shields.io/github/forks/tencentyun/tencent-cloud-iot-package-for-rtthread?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/tencentyun/tencent-cloud-iot-package-for-rtthread?style=social)| [tencent-iot-sdk](https://github.com/tencentyun/tencent-cloud-iot-package-for-rtthread) |yougaliu|MIT|连接腾讯物联网开发平台的软件包。|
+|![GitHub forks](https://img.shields.io/github/forks/ucloud/ucloud-iot-rtthread-package.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/ucloud/ucloud-iot-rtthread-package.git?style=social)| [ucloud_iot_sdk](https://github.com/ucloud/ucloud-iot-rtthread-package.git) |ucloud|Apache-2.0|用于快速连接优刻得物联网平台的软件包。|
+|![GitHub forks](https://img.shields.io/github/forks/heyuanjie87/ipmsg?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/heyuanjie87/ipmsg?style=social)| [ipmsg](https://github.com/heyuanjie87/ipmsg) |heyuanjie87|Apache-2.0|在 RT-Thread 上实现的 飞鸽传书|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/jsmn?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/jsmn?style=social)| [jsmn](https://github.com/RT-Thread-packages/jsmn) |RealThread|MIT|世界上最快 JSON 解析器或标记器|
+|![GitHub forks](https://img.shields.io/github/forks/jiejieTop/kawaii-mqtt?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/jiejieTop/kawaii-mqtt?style=social)| [kawaii-mqtt](https://github.com/jiejieTop/kawaii-mqtt) |jiejie|GPL-2.0|一个基于socket API之上的跨平台MQTT客户端，拥有非常简洁的API接口，以极少的资源实现QOS2的服务质量，并且无缝衔接了mbedtls加密库。|
+|![GitHub forks](https://img.shields.io/github/forks/liu2guang/libcurl2rtt?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/liu2guang/libcurl2rtt?style=social)| [libcurl2rtt](https://github.com/liu2guang/libcurl2rtt) |liu2guang|Apache-2.0|基于 RT-Thread 移植的 curl 库|
+|![GitHub forks](https://img.shields.io/github/forks/loogg/libmodbus?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/loogg/libmodbus?style=social)| [libmodbus](https://github.com/loogg/libmodbus) |malongwei|LGPL-2.1|libmodbus在RT-Thread上的移植|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/librws?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/librws?style=social)| [librws](https://github.com/RT-Thread-packages/librws) |RealThread|MIT|小型、跨平台websocket客户端C库。|
+|![GitHub forks](https://img.shields.io/github/forks/qiaoqidui/ljson?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/qiaoqidui/ljson?style=social)| [ljson](https://github.com/qiaoqidui/ljson) |qiaoqidui|unknown|ANSI-C 标准的 JSON 解析器|
+|![GitHub forks](https://img.shields.io/github/forks/zyk6271/LoRaWAN_Driver?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/zyk6271/LoRaWAN_Driver?style=social)| [lorawan_driver](https://github.com/zyk6271/LoRaWAN_Driver) |zyk6271|Apache-2.0|将LoRaWAN协议栈运行在RT-THREAD系统上|
+|![GitHub forks](https://img.shields.io/github/forks/Forest-Rain/lorawan-ed-stack?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Forest-Rain/lorawan-ed-stack?style=social)| [lorawan_ed_stack](https://github.com/Forest-Rain/lorawan-ed-stack) |Forest-Rain|Apache-2.0|lorawan_ed_stack是LoRaWAN终端设备协议栈的实现.|
+|![GitHub forks](https://img.shields.io/github/forks/Forest-Rain/lora-pkt-fwd?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Forest-Rain/lora-pkt-fwd?style=social)| [lora_pkt_fwd](https://github.com/Forest-Rain/lora-pkt-fwd) |forest-rain|Apache-2.0|lora_pkt_fwd实现基于Semtech GWMP协议的LoRaWAN协议包转发|
+|![GitHub forks](https://img.shields.io/github/forks/Forest-Rain/lora-pkt-sniffer?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Forest-Rain/lora-pkt-sniffer?style=social)| [lora_pkt_sniffer](https://github.com/Forest-Rain/lora-pkt-sniffer) |forest-rain|Apache-2.0|lora_pkt_sniffer是一个lora(wan)数据包的抓包工具|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/lssdp.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/lssdp.git?style=social)| [lssdp](https://github.com/RT-Thread-packages/lssdp.git) |RealThread|MIT|在 RT-Thread 上实现的 lssdp 协议，可以用于局域网设备自动发现|
+|![GitHub forks](https://img.shields.io/github/forks/sogwms/mavlink?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/sogwms/mavlink?style=social)| [mavlink](https://github.com/sogwms/mavlink) |sogwms|Apache-2.0|一非常轻量级的消息传输协议|
+|![GitHub forks](https://img.shields.io/github/forks/armink-rtt-pkgs/mongoose?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/armink-rtt-pkgs/mongoose?style=social)| [mongoose](https://github.com/armink-rtt-pkgs/mongoose) |armink|GPL-2.0|一款嵌入式 Web 服务器库|
+|![GitHub forks](https://img.shields.io/github/forks/hichard/mymqtt?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/hichard/mymqtt?style=social)| [mymqtt](https://github.com/hichard/mymqtt) |hichard|EPL-1.0|Eclipse 开源的 MQTT C/C++ 客户端的一种高效、稳定的实现。|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/nanopb?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/nanopb?style=social)| [nanopb](https://github.com/RT-Thread-packages/nanopb) |RealThread|Zlib|Protocol Buffers 解析器在嵌入式上的实现|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/netutils?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/netutils?style=social)| [netutils](https://github.com/RT-Thread-packages/netutils) |RealThread|Apache-2.0|RT-Thread 网络网络小工具集|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/nimble?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/nimble?style=social)| [NimBLE](https://github.com/RT-Thread-packages/nimble) |RealThread|Apache-2.0|Apache 开源蓝牙 5.0 协议栈在 RT-Thread 的移植|
+|![GitHub forks](https://img.shields.io/github/forks/ShineRoyal/nmealib?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/ShineRoyal/nmealib?style=social)| [nmealib](https://github.com/ShineRoyal/nmealib) |ShineRoyal|LGPL-2.1|nmealib库在RT-Thread上的移植|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/nopoll?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/nopoll?style=social)| [nopoll](https://github.com/RT-Thread-packages/nopoll) |RealThread|LGPL-2.1|一款 C 实现的开源 WebSocket 软件包|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/ota_downloader?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/ota_downloader?style=social)| [ota_downloader](https://github.com/RT-Thread-packages/ota_downloader) |RealThread|Apache-2.0|基于 RT-Thread OTA 组件的 固件下载器|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/paho-mqtt?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/paho-mqtt?style=social)| [pahomqtt](https://github.com/RT-Thread-packages/paho-mqtt) |RealThread|EPL-1.0|Eclipse 开源的 MQTT C/C++ 客户端|
+|![GitHub forks](https://img.shields.io/github/forks/ShineRoyal/pdulib?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/ShineRoyal/pdulib?style=social)| [pdulib](https://github.com/ShineRoyal/pdulib) |ShineRoyal|LGPL-2.1|一个用于PDU格式的短信文本解析库|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/ppp_device.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/ppp_device.git?style=social)| [ppp_device](https://github.com/RT-Thread-packages/ppp_device.git) |xiangxistu|Apache-2.0|lwIP PPP 功能针对蜂窝( 2G/3G/4G )模块移植和实现|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/protobuf-c?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/protobuf-c?style=social)| [protobuf-c](https://github.com/wuhanstudio/protobuf-c) |wuhanstudio|MIT|Google 的 prototol buffer 一种轻便高效的数据存储格式|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/qianxun.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/qianxun.git?style=social)| [qxwz](https://github.com/RT-Thread-packages/qianxun.git) |daniel.chen|Apache-2.0|qxwz 高精度定位应用|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/rapidjson?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/rapidjson?style=social)| [rapidjson](https://github.com/wuhanstudio/rapidjson) |wuhanstudio|MIT|支持 SAX/DOM 的 C++ JSON 处理库|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/rt-link_hw?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/rt-link_hw?style=social)| [rt-link_hw](https://github.com/RT-Thread-packages/rt-link_hw) |RealThread|Apache-2.0|rt-link 组件的底层通信端口适配层|
+|![GitHub forks](https://img.shields.io/github/forks/maplerian/rt_cjson_tools?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/maplerian/rt_cjson_tools?style=social)| [rt_cjson_tools](https://github.com/maplerian/rt_cjson_tools) |maplerian|Apache-2.0|用于 RT-Thread 的 cJSON工具库|
+|![GitHub forks](https://img.shields.io/github/forks/cazure/small_modbus.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/cazure/small_modbus.git?style=social)| [small_modbus](https://github.com/cazure/small_modbus.git) |chenbin182|Apache-2.0|small modbus协议栈|
+|![GitHub forks](https://img.shields.io/github/forks/WKJay/SMTP_CLIENT?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/WKJay/SMTP_CLIENT?style=social)| [smtp_client](https://github.com/WKJay/SMTP_CLIENT) |WKJay|LGPL-2.1|SMTP邮件发送软件包，简单易用，支持普通25端口及465/587加密端口|
+|![GitHub forks](https://img.shields.io/github/forks/Guozhanxin/tcpserver.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Guozhanxin/tcpserver.git?style=social)| [tcpserver](https://github.com/Guozhanxin/tcpserver.git) |flybreak|Apache-2.0|一个支持多客户端的 TCP 服务器|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/umqtt.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/umqtt.git?style=social)| [umqtt](https://github.com/RT-Thread-packages/umqtt.git) |springcity|Apache-2.0|一个轻量级、功能强大、可定制、易于使用和可嵌入的RT-Thread mqtt客户端。|
+|![GitHub forks](https://img.shields.io/github/forks/wayz-iot/?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wayz-iot/?style=social)| [wayz_iotkit](https://github.com/wayz-iot/) |jianxiong.ye|GPL-2.0|wayz iot 定位软件包|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/webclient?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/webclient?style=social)| [webclient](https://github.com/RT-Thread-packages/webclient) |RealThread|Apache-2.0|RT-Thread 官方开源的 http/https 协议客户端|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/webnet?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/webnet?style=social)| [webnet](https://github.com/RT-Thread-packages/webnet) |RealThread|GPL-2.0|RT-Thread 官方开源的、轻量级、可定制嵌入式 Web 服务器|
+|![GitHub forks](https://img.shields.io/github/forks/armink-rtt-pkgs/WebTerminal?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/armink-rtt-pkgs/WebTerminal?style=social)| [WebTerminal](https://github.com/armink-rtt-pkgs/WebTerminal) |armink|unknown|可以在浏览器上运行的终端|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/rw007?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/rw007?style=social)| [rw007](https://github.com/RT-Thread-packages/rw007) |RealThread|Apache-2.0|RT-Thread 的 RW007 驱动（SPI Wi-Fi 模式）|
+|![GitHub forks](https://img.shields.io/github/forks/JianRuiqian/marvellwifi?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/JianRuiqian/marvellwifi?style=social)| [wlanmarvell](https://github.com/JianRuiqian/marvellwifi) |JianRuiqian|GPL-2.0|RT-Thread 的 Marvell wifi 驱动|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/wlan-wiced?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/wlan-wiced?style=social)| [wlan_wiced](https://github.com/RT-Thread-packages/wlan-wiced) |RealThread|GPL-2.0|WICED 的 wlan 驱动|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/wiznet?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/wiznet?style=social)| [wiznet](https://github.com/RT-Thread-packages/wiznet) |RealThread|Apache-2.0|WIZNet TCP/IP 芯片（例如： W5500/W5100）的 SAL 框架对接实现|
+|![GitHub forks](https://img.shields.io/github/forks/TaoYang0907/ZB_COORDINATOR_PACKAGE?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/TaoYang0907/ZB_COORDINATOR_PACKAGE?style=social)| [zb_coordinator](https://github.com/TaoYang0907/ZB_COORDINATOR_PACKAGE) |TaoYang0907|LGPL-2.1|AT命令在ZigBee协调器上的应用|
 
 ## language
 
- | 包名 | 作者  | license   | 备注      |
-| ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
-| [jerryscript](https://github.com/RT-Thread-packages/jerryscript) |RealThread|Apache-2.0|针对 RT-Thread 的 JerryScript 移植|
-| [Lua](https://github.com/liu2guang/Lua2RTT) |liu2guang|MIT|Lua 在 RT-Thread 上的移植|
-| [micropython](https://github.com/RT-Thread-packages/micropython) |armink|MIT|MicroPython 在 RT-Thread 上的移植|
-| [pikascript](https://github.com/mimilib/pikascript) |mimilib|MIT|极易定制的轻量级python脚本支持工具|
+ |forks|stars| 包名 | 作者  | license   | 备注      |
+| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/jerryscript?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/jerryscript?style=social)| [jerryscript](https://github.com/RT-Thread-packages/jerryscript) |RealThread|Apache-2.0|针对 RT-Thread 的 JerryScript 移植|
+|![GitHub forks](https://img.shields.io/github/forks/liu2guang/Lua2RTT?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/liu2guang/Lua2RTT?style=social)| [Lua](https://github.com/liu2guang/Lua2RTT) |liu2guang|MIT|Lua 在 RT-Thread 上的移植|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/micropython?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/micropython?style=social)| [micropython](https://github.com/RT-Thread-packages/micropython) |armink|MIT|MicroPython 在 RT-Thread 上的移植|
+|![GitHub forks](https://img.shields.io/github/forks/pikasTech/pikascript?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/pikasTech/pikascript?style=social)| [pikascript](https://github.com/pikasTech/pikascript) |lyon|MIT|极易定制的轻量级python脚本支持工具|
 
 ## misc
 
- | 包名 | 作者  | license   | 备注      |
-| ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
-| [armv7m_dwt](https://github.com/sogwms/armv7m_dwt) |sogwms|Apache-2.0|armv7m_dwt 高精度计时与延时|
-| [CanFestival](https://github.com/gbcwbz/canfestival-rtt) |gbcwbz|LGPL-2.1|Canfestival (开源的 CANopen 协议栈)在 RT-Thread 系统上的移植|
-| [Controller](https://github.com/haodongnj/Controller) |hao.dong|MIT|比例积分, 比例谐振, 重复控制器库|
-| [cowsay](https://github.com/wuhanstudio/cowsay) |wuhanstudio|MIT|linux cowsay 软件包|
-| [crclib](https://github.com/qiyongzhong0/crclib) |qiyongzhong0| LGPL-2.1|一个包含8位、16位、32位CRC校验计算的函数库|
-| [DigitalCtrl](https://github.com/xuzhuoyi/DigitalCtrl) |xuzhuoyi|MIT|数字闭环控制算法库|
-| [dstr](https://github.com/RT-Thread-packages/dstr) |RealThread|LGPL-2.1|用 C 编写的动态字符串库|
-| [aclock](https://github.com/mysterywolf/aclock) |mysterywolf|Apache-2.0|终端钟表界面|
-| [c2048](https://github.com/mysterywolf/c2048) |mysterywolf|MIT|2048是一款益智类游戏，原版游戏运行在苹果手机上|
-| [cal](https://github.com/mysterywolf/cal) |mysterywolf|MIT|终端公历日历|
-| [cmatrix](https://github.com/wuhanstudio/cmatrix) |wuhanstudio|MIT|text flying in and out in a terminal like as seen in 'The Matrix' movie|
-| [donut](https://github.com/mysterywolf/donut) |mysterywolf|None|使用字符渲染的3D旋转甜甜圈|
-| [sl](https://github.com/wuhanstudio/sl) |wuhanstudio|MIT|sl奔跑的小火车命令|
-| [snake](https://github.com/mysterywolf/snake) |mysterywolf|GPL-2.0|贪吃蛇游戏|
-| [tetris](https://github.com/volatile-static/rtt_tetris) |volatile-static|MIT|俄罗斯方块|
-| [threes](https://github.com/mysterywolf/threes) |mysterywolf|MIT|threes是一款在2014年很火的益智类游戏，原版游戏运行在苹果手机上|
-| [fastlz](https://github.com/RT-Thread-packages/fastlz) |RealThread|unknown|一款极速的压缩库|
-| [FlexibleButton](https://github.com/murphyzhao/FlexibleButton) |MurphyZhao|Apache License 2.0|小巧灵活的按键驱动程序（事件驱动、无限按键数量、可用中断模式）|
-| [hello](https://github.com/RT-Thread-packages/hello) |RealThread|LGPL-2.1|RT-Thread 软件包示例|
-| [kendryte-demo](https://github.com/BernardXiong/kendryte-demo) |BernardXiong|Apache-2.0|Kendryte k210 demo|
-| [ki](https://github.com/mysterywolf/ki) |mysterywolf|GPL-2.0|ki是一个带有C/C++语法高亮的终端编辑器|
-| [libcsv](https://github.com/liu2guang/libcsv) |liu2guang|LGPL-2.1|libcsv是用纯ANSI C89编写的小型、简单、快速的CSV库，支持读写CSV数据|
-| [lwgps](https://github.com/orange2348/lwgps2rtt) |orange2348|MIT|轻量级GPS NEMA协议解析器|
-| [lzma](https://github.com/RiceChen/lzma) |RiceChen|LGPL-2.1|高压缩率的压缩库|
-| [mcurses](https://github.com/wuhanstudio/mcurses) |wuhanstudio|MIT|轻量级的 ncurses 控制台绘图库|
-| [miniLZO](https://github.com/RT-Thread-packages/miniLZO) |RealThread|GPL-2.0|LZO 是一个实时数据压缩库，而 miniLZO 是 LZO 压缩库的精简版本|
-| [minizip](https://github.com/mysterywolf/minizip) |mysterywolf|unknown|zip压缩解压库|
-| [MultiButton](https://github.com/liu2guang/MultiButton) |0x1abin|MIT|一个小巧易用的事件驱动按钮驱动模块|
-| [optparse](https://github.com/liu2guang/optparse) |liu2guang|Unlicense|基于 RT-Thread 的 Getopt 命令行解析器|
-| [phase-locked-loop](https://github.com/haodongnj/PLL) |hao.dong|MIT|锁相环与锁频环算法|
-| [quicklz](https://github.com/RT-Thread-packages/quicklz) |RealThread|GPL-3.0|世界上速度最快的压缩库|
-| [filesystem_samples](https://github.com/RT-Thread-packages/filesystem-sample) |RealThread|Apache-2.0|RT-Thread 文件系统示例|
-| [kernel_samples](https://github.com/RT-Thread-packages/kernel-sample) |RealThread|Apache-2.0|RT-Thread 内核示例|
-| [network_samples](https://github.com/RT-Thread-packages/network-sample) |RealThread|Apache-2.0|RT-Thread 网络示例|
-| [peripheral_samples](https://github.com/RT-Thread-packages/peripheral-sample) |RealThread|Apache-2.0|RT-Thread 外设示例|
-| [state_machine](https://github.com/redoccheng/state_machine) |redoccheng|LGPL-2.1|一个用C语言实现功能丰富但简单的有限状态机（FSM）。|
-| [termbox](https://github.com/mysterywolf/termbox) |mysterywolf|MIT|轻量TUI图形库|
-| [TinyFrame](https://github.com/XXXXzzzz000/TinyFrame) |XXXXzzzz000|MIT|应用于串口设备（如 UART / RS232)的构建或者解析的库|
-| [ukal](https://github.com/wuhanstudio/ukal) |wuhanstudio|MIT|卡尔曼滤波算法|
-| [upacker](https://github.com/aeo123/upacker.git) |zpw|MIT|串行通信链路协议|
-| [uparam](https://github.com/aeo123/uparam.git) |zpw|MIT|系统参数读写管理和持久化|
-| [vi](https://github.com/RT-Thread-packages/vi) |RealThread|GPL-2.0|vi 编辑器在 RT-Thread 操作系统上的移植|
-| [vt100](https://github.com/wuhanstudio/vt100) |wuhanstudio|MIT|串口终端绘图库，可以在 msh 下画图|
-| [zlib](https://github.com/RT-Thread-packages/zlib) |RealThread|unknown|通用数据压缩库|
+ |forks|stars| 包名 | 作者  | license   | 备注      |
+| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
+|![GitHub forks](https://img.shields.io/github/forks/sogwms/armv7m_dwt?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/sogwms/armv7m_dwt?style=social)| [armv7m_dwt](https://github.com/sogwms/armv7m_dwt) |sogwms|Apache-2.0|armv7m_dwt 高精度计时与延时|
+|![GitHub forks](https://img.shields.io/github/forks/gbcwbz/canfestival-rtt?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/gbcwbz/canfestival-rtt?style=social)| [CanFestival](https://github.com/gbcwbz/canfestival-rtt) |gbcwbz|LGPL-2.1|Canfestival (开源的 CANopen 协议栈)在 RT-Thread 系统上的移植|
+|![GitHub forks](https://img.shields.io/github/forks/haodongnj/Controller?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/haodongnj/Controller?style=social)| [Controller](https://github.com/haodongnj/Controller) |hao.dong|MIT|比例积分, 比例谐振, 重复控制器库|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/cowsay?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/cowsay?style=social)| [cowsay](https://github.com/wuhanstudio/cowsay) |wuhanstudio|MIT|linux cowsay 软件包|
+|![GitHub forks](https://img.shields.io/github/forks/qiyongzhong0/crclib?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/qiyongzhong0/crclib?style=social)| [crclib](https://github.com/qiyongzhong0/crclib) |qiyongzhong0| LGPL-2.1|一个包含8位、16位、32位CRC校验计算的函数库|
+|![GitHub forks](https://img.shields.io/github/forks/xuzhuoyi/DigitalCtrl?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/xuzhuoyi/DigitalCtrl?style=social)| [DigitalCtrl](https://github.com/xuzhuoyi/DigitalCtrl) |xuzhuoyi|MIT|数字闭环控制算法库|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/dstr?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/dstr?style=social)| [dstr](https://github.com/RT-Thread-packages/dstr) |RealThread|LGPL-2.1|用 C 编写的动态字符串库|
+|![GitHub forks](https://img.shields.io/github/forks/mysterywolf/aclock?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/mysterywolf/aclock?style=social)| [aclock](https://github.com/mysterywolf/aclock) |Meco Man|Apache-2.0|终端钟表界面|
+|![GitHub forks](https://img.shields.io/github/forks/mysterywolf/c2048?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/mysterywolf/c2048?style=social)| [c2048](https://github.com/mysterywolf/c2048) |Meco Man|MIT|2048是一款益智类游戏，原版游戏运行在苹果手机上|
+|![GitHub forks](https://img.shields.io/github/forks/mysterywolf/cal?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/mysterywolf/cal?style=social)| [cal](https://github.com/mysterywolf/cal) |Meco Man|MIT|终端公历日历|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/cmatrix?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/cmatrix?style=social)| [cmatrix](https://github.com/wuhanstudio/cmatrix) |wuhanstudio|MIT|text flying in and out in a terminal like as seen in 'The Matrix' movie|
+|![GitHub forks](https://img.shields.io/github/forks/mysterywolf/donut?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/mysterywolf/donut?style=social)| [donut](https://github.com/mysterywolf/donut) |Meco Man|None|使用字符渲染的3D旋转甜甜圈|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/sl?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/sl?style=social)| [sl](https://github.com/wuhanstudio/sl) |wuhanstudio|MIT|sl奔跑的小火车命令|
+|![GitHub forks](https://img.shields.io/github/forks/mysterywolf/snake?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/mysterywolf/snake?style=social)| [snake](https://github.com/mysterywolf/snake) |Meco Man|GPL-2.0|贪吃蛇游戏|
+|![GitHub forks](https://img.shields.io/github/forks/volatile-static/rtt_tetris?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/volatile-static/rtt_tetris?style=social)| [tetris](https://github.com/volatile-static/rtt_tetris) |volatile-static|MIT|俄罗斯方块|
+|![GitHub forks](https://img.shields.io/github/forks/mysterywolf/threes?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/mysterywolf/threes?style=social)| [threes](https://github.com/mysterywolf/threes) |Meco Man|MIT|threes是一款在2014年很火的益智类游戏，原版游戏运行在苹果手机上|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/fastlz?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/fastlz?style=social)| [fastlz](https://github.com/RT-Thread-packages/fastlz) |RealThread|unknown|一款极速的压缩库|
+|![GitHub forks](https://img.shields.io/github/forks/murphyzhao/FlexibleButton?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/murphyzhao/FlexibleButton?style=social)| [FlexibleButton](https://github.com/murphyzhao/FlexibleButton) |MurphyZhao|Apache License 2.0|小巧灵活的按键驱动程序（事件驱动、无限按键数量、可用中断模式）|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/hello?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/hello?style=social)| [hello](https://github.com/RT-Thread-packages/hello) |RealThread|LGPL-2.1|RT-Thread 软件包示例|
+|![GitHub forks](https://img.shields.io/github/forks/BernardXiong/kendryte-demo?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/BernardXiong/kendryte-demo?style=social)| [kendryte-demo](https://github.com/BernardXiong/kendryte-demo) |BernardXiong|Apache-2.0|Kendryte k210 demo|
+|![GitHub forks](https://img.shields.io/github/forks/mysterywolf/ki?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/mysterywolf/ki?style=social)| [ki](https://github.com/mysterywolf/ki) |Meco Man|GPL-2.0|ki是一个带有C/C++语法高亮的终端编辑器|
+|![GitHub forks](https://img.shields.io/github/forks/liu2guang/libcsv?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/liu2guang/libcsv?style=social)| [libcsv](https://github.com/liu2guang/libcsv) |liu2guang|LGPL-2.1|libcsv是用纯ANSI C89编写的小型、简单、快速的CSV库，支持读写CSV数据|
+|![GitHub forks](https://img.shields.io/github/forks/orange2348/lwgps2rtt?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/orange2348/lwgps2rtt?style=social)| [lwgps](https://github.com/orange2348/lwgps2rtt) |orange2348|MIT|轻量级GPS NEMA协议解析器|
+|![GitHub forks](https://img.shields.io/github/forks/RiceChen/lzma?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RiceChen/lzma?style=social)| [lzma](https://github.com/RiceChen/lzma) |RiceChen|LGPL-2.1|高压缩率的压缩库|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/mcurses?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/mcurses?style=social)| [mcurses](https://github.com/wuhanstudio/mcurses) |wuhanstudio|MIT|轻量级的 ncurses 控制台绘图库|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/miniLZO?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/miniLZO?style=social)| [miniLZO](https://github.com/RT-Thread-packages/miniLZO) |RealThread|GPL-2.0|LZO 是一个实时数据压缩库，而 miniLZO 是 LZO 压缩库的精简版本|
+|![GitHub forks](https://img.shields.io/github/forks/mysterywolf/minizip?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/mysterywolf/minizip?style=social)| [minizip](https://github.com/mysterywolf/minizip) |Meco Man|unknown|zip压缩解压库|
+|![GitHub forks](https://img.shields.io/github/forks/liu2guang/MultiButton?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/liu2guang/MultiButton?style=social)| [MultiButton](https://github.com/liu2guang/MultiButton) |0x1abin|MIT|一个小巧易用的事件驱动按钮驱动模块|
+|![GitHub forks](https://img.shields.io/github/forks/liu2guang/optparse?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/liu2guang/optparse?style=social)| [optparse](https://github.com/liu2guang/optparse) |liu2guang|Unlicense|基于 RT-Thread 的 Getopt 命令行解析器|
+|![GitHub forks](https://img.shields.io/github/forks/haodongnj/PLL?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/haodongnj/PLL?style=social)| [phase-locked-loop](https://github.com/haodongnj/PLL) |hao.dong|MIT|锁相环与锁频环算法|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/quicklz?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/quicklz?style=social)| [quicklz](https://github.com/RT-Thread-packages/quicklz) |RealThread|GPL-3.0|世界上速度最快的压缩库|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/filesystem-sample?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/filesystem-sample?style=social)| [filesystem_samples](https://github.com/RT-Thread-packages/filesystem-sample) |RealThread|Apache-2.0|RT-Thread 文件系统示例|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/kernel-sample?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/kernel-sample?style=social)| [kernel_samples](https://github.com/RT-Thread-packages/kernel-sample) |RealThread|Apache-2.0|RT-Thread 内核示例|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/network-sample?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/network-sample?style=social)| [network_samples](https://github.com/RT-Thread-packages/network-sample) |RealThread|Apache-2.0|RT-Thread 网络示例|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/peripheral-sample?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/peripheral-sample?style=social)| [peripheral_samples](https://github.com/RT-Thread-packages/peripheral-sample) |RealThread|Apache-2.0|RT-Thread 外设示例|
+|![GitHub forks](https://img.shields.io/github/forks/redoccheng/state_machine?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/redoccheng/state_machine?style=social)| [state_machine](https://github.com/redoccheng/state_machine) |redoccheng|LGPL-2.1|一个用C语言实现功能丰富但简单的有限状态机（FSM）。|
+|![GitHub forks](https://img.shields.io/github/forks/mysterywolf/termbox?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/mysterywolf/termbox?style=social)| [termbox](https://github.com/mysterywolf/termbox) |Meco Man|MIT|轻量TUI图形库|
+|![GitHub forks](https://img.shields.io/github/forks/XXXXzzzz000/TinyFrame?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/XXXXzzzz000/TinyFrame?style=social)| [TinyFrame](https://github.com/XXXXzzzz000/TinyFrame) |XXXXzzzz000|MIT|应用于串口设备（如 UART / RS232)的构建或者解析的库|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/ukal?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/ukal?style=social)| [ukal](https://github.com/wuhanstudio/ukal) |wuhanstudio|MIT|卡尔曼滤波算法|
+|![GitHub forks](https://img.shields.io/github/forks/aeo123/upacker.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/aeo123/upacker.git?style=social)| [upacker](https://github.com/aeo123/upacker.git) |zpw|MIT|串行通信链路协议|
+|![GitHub forks](https://img.shields.io/github/forks/aeo123/uparam.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/aeo123/uparam.git?style=social)| [uparam](https://github.com/aeo123/uparam.git) |zpw|MIT|系统参数读写管理和持久化|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/vi?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/vi?style=social)| [vi](https://github.com/RT-Thread-packages/vi) |RealThread|GPL-2.0|vi 编辑器在 RT-Thread 操作系统上的移植|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/vt100?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/vt100?style=social)| [vt100](https://github.com/wuhanstudio/vt100) |wuhanstudio|MIT|串口终端绘图库，可以在 msh 下画图|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/zlib?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/zlib?style=social)| [zlib](https://github.com/RT-Thread-packages/zlib) |RealThread|unknown|通用数据压缩库|
 
 ## multimedia
 
- | 包名 | 作者  | license   | 备注      |
-| ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
-| [AzureGUIX](https://github.com/HelloByeAll/AzureGUIX) |HelloByeAll|Apache-2.0|微软THREADX系统中间件 AzureGUIX|
-| [helix](https://github.com/liuduanfei/helix) |liuduanfei|AGPL-3.0|Helix,mp3 解码库|
-| [LittlevGL2RTT](https://github.com/liu2guang/LittlevGL2RTT) |liu2guang|MIT|LittlevGL 是基于 RT-Thread 的图形库软件包 (老版本)|
-| [LVGL](https://github.com/lvgl/lvgl) |kisvegabor|MIT|LVGL图形库（官方上游）|
-| [mp3player](https://github.com/MrzhangF1ghter/mp3player) |MrzhangF1ghter|Apache-2.0|一个简易的mp3格式音乐播放器|
-| [mupdf](https://github.com/rtoslab/mupdf-rtt) |rtoslab|AGPL-3.0|轻量级PDF，XPS和电子书查看器|
-| [NUemWin](https://github.com/wosayttn/NUemWin) |wosayttn|LGPL-2.1|NUemWin在RT-Thread上的移植|
-| [openmv](https://github.com/RT-Thread-packages-by-SummerGift/openmv) |SummerGift|MIT|openmv 在 RT-Thread 上的移植|
-| [PDFGen](https://github.com/mysterywolf/PDFGen) |mysterywolf|Unlicense|PDF文档生成库|
-| [STemWin](https://github.com/loogg/STemWin) |malongwei|LGPL-2.1|STemWin在RT-Thread上的移植|
-| [TinyJPEG](https://github.com/StackRyan/TinyJPEG) |StackRyan|Apache-2.0|一个轻量的JPEG编码软件包|
-| [TJpgDec](https://github.com/RT-Thread-packages/TJpgDec) |RealThread|BSD|JPEG 解码库|
-| [touchgfx2rtt](https://github.com/Aladdin-Wang/touchgfx2rtt.git) |kk|LGPL-2.1|touchgfx在RT-Thread上的移植。|
-| [u8g2](https://github.com/wuhanstudio/rt-u8g2) |wuhanstudio|BSD|u8g2 不同种类单色屏驱动在 RT-Thread 移植库（老版本）|
-| [u8g2-official](https://github.com/olikraus/u8g2) |olikraus|BSD|u8g2 不同种类单色屏驱动库（上游官方版本）|
-| [ugui](https://github.com/xidongxu/ugui.git) |xidongxu|unknown|开源图形库ugui移植到rtthread。|
-| [wavplayer](https://github.com/RT-Thread-packages/wavplayer) |RealThread|Apache-2.0|简洁的wav格式的音乐播放器，提供播放和录音功能|
+ |forks|stars| 包名 | 作者  | license   | 备注      |
+| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
+|![GitHub forks](https://img.shields.io/github/forks/HelloByeAll/AzureGUIX?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/HelloByeAll/AzureGUIX?style=social)| [AzureGUIX](https://github.com/HelloByeAll/AzureGUIX) |HelloByeAll|Apache-2.0|微软THREADX系统中间件 AzureGUIX|
+|![GitHub forks](https://img.shields.io/github/forks/liuduanfei/helix?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/liuduanfei/helix?style=social)| [helix](https://github.com/liuduanfei/helix) |liuduanfei|AGPL-3.0|Helix,mp3 解码库|
+|![GitHub forks](https://img.shields.io/github/forks/liu2guang/LittlevGL2RTT?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/liu2guang/LittlevGL2RTT?style=social)| [LittlevGL2RTT](https://github.com/liu2guang/LittlevGL2RTT) |liu2guang|MIT|LittlevGL 是基于 RT-Thread 的图形库软件包 (老版本)|
+|![GitHub forks](https://img.shields.io/github/forks/lvgl/lvgl?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/lvgl/lvgl?style=social)| [LVGL](https://github.com/lvgl/lvgl) |kisvegabor|MIT|LVGL图形库（官方上游）|
+|![GitHub forks](https://img.shields.io/github/forks/MrzhangF1ghter/mp3player?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/MrzhangF1ghter/mp3player?style=social)| [mp3player](https://github.com/MrzhangF1ghter/mp3player) |MrzhangF1ghter|Apache-2.0|一个简易的mp3格式音乐播放器|
+|![GitHub forks](https://img.shields.io/github/forks/rtoslab/mupdf-rtt?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/rtoslab/mupdf-rtt?style=social)| [mupdf](https://github.com/rtoslab/mupdf-rtt) |rtoslab|AGPL-3.0|轻量级PDF，XPS和电子书查看器|
+|![GitHub forks](https://img.shields.io/github/forks/wosayttn/NUemWin?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wosayttn/NUemWin?style=social)| [NUemWin](https://github.com/wosayttn/NUemWin) |wosayttn|LGPL-2.1|NUemWin在RT-Thread上的移植|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages-by-SummerGift/openmv?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages-by-SummerGift/openmv?style=social)| [openmv](https://github.com/RT-Thread-packages-by-SummerGift/openmv) |SummerGift|MIT|openmv 在 RT-Thread 上的移植|
+|![GitHub forks](https://img.shields.io/github/forks/matrixcascade/PainterEngine?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/matrixcascade/PainterEngine?style=social)| [PainterEngine](https://github.com/matrixcascade/PainterEngine) |DBinary|BSD 3-Clause|一个由C语言编写的跨平台图形应用框架|
+|![GitHub forks](https://img.shields.io/github/forks/QPLover/PainterEngine_AUX?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/QPLover/PainterEngine_AUX?style=social)| [PainterEngine_AUX](https://github.com/QPLover/PainterEngine_AUX) |QPLover|BSD 3-Clause|PainterEngine在RT-Thread下的scons构建脚本|
+|![GitHub forks](https://img.shields.io/github/forks/mysterywolf/PDFGen?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/mysterywolf/PDFGen?style=social)| [PDFGen](https://github.com/mysterywolf/PDFGen) |Meco Man|Unlicense|PDF文档生成库|
+|![GitHub forks](https://img.shields.io/github/forks/loogg/STemWin?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/loogg/STemWin?style=social)| [STemWin](https://github.com/loogg/STemWin) |malongwei|LGPL-2.1|STemWin在RT-Thread上的移植|
+|![GitHub forks](https://img.shields.io/github/forks/StackRyan/TinyJPEG?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/StackRyan/TinyJPEG?style=social)| [TinyJPEG](https://github.com/StackRyan/TinyJPEG) |StackRyan|Apache-2.0|一个轻量的JPEG编码软件包|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/TJpgDec?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/TJpgDec?style=social)| [TJpgDec](https://github.com/RT-Thread-packages/TJpgDec) |RealThread|BSD|JPEG 解码库|
+|![GitHub forks](https://img.shields.io/github/forks/Aladdin-Wang/touchgfx2rtt.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Aladdin-Wang/touchgfx2rtt.git?style=social)| [touchgfx2rtt](https://github.com/Aladdin-Wang/touchgfx2rtt.git) |kk|LGPL-2.1|touchgfx在RT-Thread上的移植。|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/rt-u8g2?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/rt-u8g2?style=social)| [u8g2](https://github.com/wuhanstudio/rt-u8g2) |wuhanstudio|BSD|u8g2 不同种类单色屏驱动在 RT-Thread 移植库（老版本）|
+|![GitHub forks](https://img.shields.io/github/forks/olikraus/u8g2?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/olikraus/u8g2?style=social)| [u8g2-official](https://github.com/olikraus/u8g2) |olikraus|BSD|u8g2 不同种类单色屏驱动库（上游官方版本）|
+|![GitHub forks](https://img.shields.io/github/forks/xidongxu/ugui.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/xidongxu/ugui.git?style=social)| [ugui](https://github.com/xidongxu/ugui.git) |xidongxu|unknown|开源图形库ugui移植到rtthread。|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/wavplayer?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/wavplayer?style=social)| [wavplayer](https://github.com/RT-Thread-packages/wavplayer) |RealThread|Apache-2.0|简洁的wav格式的音乐播放器，提供播放和录音功能|
 
 ## peripherals
 
- | 包名 | 作者  | license   | 备注      |
-| ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
-| [ad7746](https://github.com/wuhanstudio/rt-ad7746) |wuhanstudio|MIT|AD7746 高精度电容测量芯片在 RT-Thread 移植库|
-| [agile_button](https://github.com/loogg/agile_button) |Longwei Ma|LGPL-2.1|一个灵活的button软件包。|
-| [agile_console](https://github.com/loogg/agile_console) |loogg|LGPL-2.1|一个灵活的console设备软件包|
-| [agile_led](https://github.com/loogg/agile_led) |Longwei Ma|LGPL-2.1|一个灵活的led软件包。|
-| [as608](https://github.com/greedyhao/as608.git) |greedyhao|Apache-2.0|AS608 指纹模块的驱动|
-| [as7341](https://github.com/RiceChen/as7341) |RiceChen|Apache-2.0|AS7341可见光传感器，可测量8个波长的可见光。|
-| [at24cxx](https://github.com/XiaojieFan/at24cxx) |XiaojieFan|Apache-2.0|eeprom at24cxx 的驱动库。|
-| [beep](https://github.com/Sunwancn/rtt-pkgs-beep) |Sunwancn|Apache-2.0|基于 rt-thread 的 pin 和 pwm 驱动的蜂鸣器控制软件包，可以容易地驱动有源蜂鸣器或无源蜂鸣器，产生各种间隔长短的鸣叫声。|
-| [bluetrum_sdk](https://github.com/BLUETRUM/bluetrum_sdk) |BLUETRUM|MIT|bluetrum sdk|
-| [bouffalolab_sdk](https://github.com/balanceTWK/bouffalolab_sdk.git) |BalanceTWK|Apache-2.0|博流 处理器对应的外设驱动包|
-| [button](https://github.com/jiejieTop/rtpkg_button) |jiejieTop|GPL-3.0|C 实现的按键驱动，支持单击和双击，长按，长按释放|
-| [can_ymodem](https://github.com/redocCheng/rt_can_ymodem) |redocCheng|Apache-2.0|连接can设备和ymodem的驱动包|
-| [dm9051](https://github.com/aozima/dm9051) |aozima|Apache-2.0|DM9051 SPI 接口以太网芯片驱动库|
-| [easyblink](https://github.com/Sunwancn/rtt-pkgs-easyblink) |Sunwancn|Apache-2.0|小巧轻便的 LED 控制软件包，可以容易地控制 LED 开、关、反转和各种间隔闪烁，占用 RAM 少，支持 RT-Thread 标准版和 Nano 版。|
-| [embARC_bsp](https://github.com/foss-for-synopsys-dwc-arc-processors/embarc_bsp) |Watson Zeng|Apache-2.0|Synopsys ARC 处理器 板级支持包|
-| [i2c-tools](https://github.com/wuhanstudio/rt-i2c-tools) |wuhanstudio|MIT|I2C 调试时可以使用的小工具，可以扫描设备，读写寄存器|
-| [icm20608](https://github.com/RT-Thread-packages/icm20608) |RealThread|Apache-2.0|三轴加速度与三轴陀螺仪 icm20608 的传感器驱动库|
-| [infrared](https://github.com/RT-Thread-packages/infrared_framework) |RealThread|Apache-2.0|基于 rt-thread 的 pin,pwm 和 hwtimer 驱动的红外框架。|
-| [kendryte-sdk](https://github.com/RT-Thread-packages/kendryte_sdk) |RealThread|unknown|勘智 K210 处理器对应的外设驱动包|
-| [kobuki](https://github.com/wuhanstudio/kobuki) |wuhanstudio|MIT|Kobuki 机器人串口通信驱动|
-| [ld3320](https://github.com/xqyjlj/ld3320) |xqyjlj|Apache-2.0|LD3320语音识别芯片|
-| [LedBlink](https://github.com/aeo123/LedBlink.git) |zpw|GPL-2.0|简单易用led闪烁控制软件包|
-| [libnfc](https://github.com/wuhanstudio/libnfc) |wuhanstudio|LGPL-3.0|libnc 软件包|
-| [littled](https://github.com/luhuadong/rtt-littled) |luhuadong|Apache-2.0|littled软件包: Littled LED Daemon 服务线程|
-| [lkdGui](https://github.com/guoweilkd/lkdGui) |guoweilkd|GPL-2.0|lkdGui是一款为单色显示屏制作的图形化界面，用于设计简单漂亮的图形界面。|
-| [lora_gw_driver_lib](https://github.com/Forest-Rain/lora-gw-driver-lib) |forest-rain|Apache-2.0|LoRa网关芯片(SX130x)驱动|
-| [lora_radio_driver](https://github.com/Forest-Rain/lora-radio-driver) |Forest-Rain|Apache-2.0|lora芯片(SX126x\SX127x)驱动包|
-| [ly68l6400](https://github.com/Ghazigq/ly68l6400) |Ghazigq|LGPL-2.1|ly68l6400芯片的驱动|
-| [max17048](https://github.com/aeo123/MAX17048.git) |zpw|MIT|电池监测芯片|
-| [max7219](https://github.com/redocCheng/max7219) |redocCheng|Apache-2.0|本软件包是在数码管上应用 MAX7219 的驱动包|
-| [mb85rs16](https://github.com/XiaojieFan/mb85rs16.git) |XiaojieFan|Apache-2.0|针对 铁电存储器 SPI 驱动软件包|
-| [mcp23008](https://github.com/XiaojieFan/mcp23008.git) |XiaojieFan|Apache-2.0|针对 I2C 并行口扩展 8 位 I/O 软件包|
-| [mfoc](https://github.com/wuhanstudio/mfoc) |wuhanstudio|GPL-2.0|Mifare Classic 离线破解工具。|
-| [micro_ros](https://github.com/wuhanstudio/micro_ros) |wuhanstudio|Apache-2.0|在 MCU 上运行 ROS2.|
-| [Misaka_AT24CXX](https://github.com/xqyjlj/Miaska_AT24CXX) |xqyjlj|Apache-2.0|御坂网络AT24CXX驱动包，提供了AT24CXX的全部功能|
-| [Misaka_RGB_Bling](https://github.com/xqyjlj/Misaka_RGB_Bling) |xqyjlj|Apache-2.0|御坂网络RGB LED驱动包，提供了对于RGB LED灯的控制功能。|
-| [MotionDriver2RTT](https://github.com/greedyhao/MotionDriver2RTT) |greedyhao|LGPL-2.1|移植 MotionDriver 到 RTT 的包|
-| [multi_rtimer](https://github.com/Forest-Rain/multi-rtimer) |Forest-Rain|Apache-2.0|一个实时、低功耗软件定时器模块|
-| [nes](https://github.com/Ghazigq/nes) |Ghazigq|Apache-2.0|nes模拟器c库。|
-| [nrf24l01](https://github.com/sogwms/nrf24l01) |sogwms|Apache-2.0|单芯片 2.4GHz 无线收发器。|
-| [nrf5x_sdk](https://github.com/supperthomas/nrf5x_sdk) |supperthomas|unknown|Nordic SDK软件开发包|
-| [nrfx](https://github.com/xckhmf/nrfx) |xckhmf|Unknown|Nordic SOC的独立外设驱动库|
-| [nuclei_sdk](https://github.com/Nuclei-Software/nuclei-sdk) |Huaqi Fang|Apache-2.0|芯来科技RISC-V处理器软件开发包|
-| [PAJ7620](https://github.com/orange2348/paj7620) |orange2348|Apache-2.0|手势传感器PAJ7620的驱动包|
-| [pca9685](https://github.com/greedyhao/pca9685) |greedyhao|Apache-2.0|通过I2C总线控制的16路PWM控制器|
-| [pcf8574](https://github.com/RT-Thread-packages/pcf8574) |RealThread|Apache-2.0|针对 I2C 并行口扩展 8 位 I/O 软件包|
-| [pms_series](https://github.com/MrpYoung/pms_series) |MrpYoung|MIT|pms 数字式通用颗粒物浓度传感器驱动库|
-| [qkey](https://github.com/qiyongzhong0/rt-thread-qkey) |qiyongzhong0| LGPL-2.1|一个快捷易用的按键驱动包|
-| [quick_led](https://github.com/qiyongzhong0/rt-thread-qled) |qiyongzhong0| LGPL-2.1|一个快捷易用的led驱动包|
-| [rc522](https://github.com/greedyhao/rc522_rtt) |greedyhao|Apache-2.0|rc522 rfid 模块驱动|
-| [rda58xx](https://github.com/apeng2012/rda58xx) |apeng2012|MIT|RDA5820收音机芯片驱动。|
-| [realtek_ameba](https://github.com/flyingcys/realtek_ameba) |flyingcys|LGPL-2.1|realtek 的 ameba 软件包在 RT-Thread 上的移植|
-| [rosserial](https://github.com/wuhanstudio/rt-rosserial) |wuhanstudio|BSD|机器人操作系统(ROS1) 软件包 rosserial 在 RT-Thread 的移植库|
-| [rplidar](https://github.com/wuhanstudio/rplidar) |wuhanstudio|MIT|RPLIDAR: 适用于机器人室内建图的低成本激光雷达|
-| [rs485](https://github.com/qiyongzhong0/rt-thread-rs485) |qiyongzhong0| LGPL-2.1|rs485驱动包|
-| [ds3231](https://github.com/Prry/rtt-ds3231) |panrui|Apache-2.0|ds3231 外置RTC驱动|
-| [rx8900](https://github.com/Prry/rtt-rx8900) |panrui|Apache-2.0|rx8900 外置RTC驱动，支持实时时钟和闹钟功能|
-| [aht10](https://github.com/RT-Thread-packages/aht10) |RealThread|Apache-2.0|数字温湿度传感器 aht10 的驱动库|
-| [ap3216c](https://github.com/RT-Thread-packages/ap3216c) |RealThread|Apache-2.0|接近和光强传感器 ap3216c 的驱动库|
-| [bh1750](https://github.com/sanjaywu/bh1750_sensor) |Sanjay_Wu|Apache-2.0|bh1750 传感器驱动包，支持：环境光照强度.|
-| [bma400](https://github.com/RT-Thread-packages/bma400) |flybreak|other|这是 BMA400 传感器驱动包，支持：加速度计，记步|
-| [bme280](https://github.com/RT-Thread-packages/bme280) |flybreak|other|这是 BME280 传感器驱动软件包，支持：气压，湿度|
-| [bme680](https://github.com/luhuadong/rtt-bme680) |luhuadong|Apache-2.0|BME680 四合一 MEMS 环境传感器驱动软件包|
-| [bmi088](https://github.com/gmyFighting/bmi088) |MYGuo|Apache-2.0|bmi088 软件包|
-| [bmi160_bmx160](https://github.com/RT-Thread-packages/bmi160_bmx160) |gztss|other|BMI160 6 轴传感器以及 BMX160 9 轴传感器的驱动包|
-| [bmp180](https://github.com/Prry/rtt-bmp180) |panrui|Apache-2.0|这是 BMP180 传感器驱动软件包，支持：气压，温度|
-| [bmp280](https://github.com/nfsq246/RTT_BMP280) |nfsq246|other|bmp280的iic驱动|
-| [ccs811](https://github.com/luhuadong/rtt-ccs811) |luhuadong|Apache-2.0|CCS811 气体检测传感器，可检测TVOC和CO2浓度|
-| [da270](https://github.com/MiraMEMS-Wonderful/da270-RT-Thread) |Zhou DingHua|GPL-3.0|本软件包是 MiraMEMS DA270 加速度传感器在 RT-Thread 中的驱动包。|
-| [df220](https://github.com/MiraMEMS-Wonderful/df220-RT-Thread.git) |Zhou DingHua|GPL-3.0|本软件包是 MiraMEMS df220 力传感器在 RT-Thread 中的驱动包。|
-| [dht11](https://github.com/murphyzhao/dht11_rtt) |MurphyZhao|Apache-2.0|DHT11 单总线数字温湿度传感器|
-| [dhtxx](https://github.com/luhuadong/rtt-dhtxx) |luhuadong|Apache-2.0|DHTxx系列单总线数字温湿度传感器驱动|
-| [ds18b20](https://github.com/willianchanlovegithub/ds18b20) |WillianChan|Apache-2.0|数字温度传感器 ds18b20 的软件包|
-| [fingerprint](https://github.com/pk-ing/fingerprint) |pk-ing|GPL-3.0|指纹模块驱动|
-| [gp2y10](https://github.com/luhuadong/rtt-gp2y10) |luhuadong|Apache-2.0|GP2Y10 夏普公司的灰尘/空气颗粒物浓度传感器|
-| [gy271](https://github.com/jch12138/gy271) |jch12138|Apache-2.0|gy271驱动库|
-| [hdc1000](https://github.com/Forest-Rain/hdc1000) |Forest-Rain|Apache-2.0|TI温湿度传感器hdc1000软件包(RT-Thread Sensor架构)|
-| [hmc5883](https://github.com/gmyFighting/hmc5883) |MYGuo|Apache-2.0|hmc5883 软件包|
-| [hs300x](https://github.com/Guozhanxin/hs300x) |flyboy|Apache-2.0|数字温湿度传感器 hs300x 的驱动库|
-| [hshcal001](https://github.com/lucaslsh/hshcal001.git) |lucalsh|Apache-2.0|hshcal001 传感器驱动包，支持：温度、湿度计算.|
-| [hts221](https://github.com/RT-Thread-packages/hts221) |flybreak|other|HTS221 传感器驱动包，支持：温度，湿度|
-| [ina226](https://github.com/xupenghu/ina226.git) |xph|Apache-2.0|ina226 软件包|
-| [ina260](https://github.com/xupenghu/ina260.git) |xph|Apache-2.0|ina260 软件包|
-| [lis2dh12](https://github.com/StackRyan/lis2dh12.git) |StackRyan|other| LIS2DH12 传感器驱动包，支持：加速度计，温度。|
-| [lps22hb](https://github.com/RT-Thread-packages/lps22hb) |flybreak|other|LPS22HB 气压传感器的驱动包|
-| [lsm303agr](https://github.com/RT-Thread-packages/lsm303agr) |flybreak|other|这是 LSM303AGR 传感器驱动包，支持：加速度计，磁力计|
-| [lsm6dsl](https://github.com/RT-Thread-packages/lsm6dsl) |flybreak|other|这是 LSM6DSL 传感器驱动包，支持：加速度计，陀螺仪，计步|
-| [lsm6dsm](https://github.com/my-RT-packages/lsm6dsm.git) |zcj20080882|MIT|STMicroelectronics的LSM6DSM传感器驱动，支持加速度计/陀螺仪/计步/温度|
-| [max30102](https://github.com/Jackistang/max30102_rtt) |Jackistang|Apache-2.0|[MAX30102]: 心率测量，血氧饱和度测量软件包|
-| [max31865](https://github.com/SimpleInit/max31865) |SimpleInit|Apache-2.0|数字温度传感器 max31865 的软件包|
-| [max6675](https://github.com/JonasWen/max6675) |Jonas|Apache-2.0|数字温度传感器 max6675 的软件包|
-| [mlx90632](https://github.com/xupenghu/mlx90632.git) |xph|Apache-2.0|mlx90632 软件包|
-| [mpu6xxx](https://github.com/RT-Thread-packages/mpu-6xxx) |RealThread|Apache-2.0|兼容 mpu6000, mpu6050, mpu6500, mpu9250 等等型号的驱动库|
-| [ms5611](https://github.com/sogwms/ms5611) |sogwms|Apache-2.0|数字气压传感器 MS5611 驱动软件包|
-| [ms5805](https://github.com/schuck-wang/RTThread-MS5805) |schuck-wang|Apache-2.0|数字气压传感器 MS5805 驱动软件包|
-| [pmsxx](https://github.com/luhuadong/rtt-pmsxx) |luhuadong|Apache-2.0|PMSxx 攀藤pms系列颗粒物浓度传感器|
-| [rt3020](https://github.com/RichtekTechnology/RT3020) |Tank Wu|Apache-2.0|这是 RT3020 加速度传感器的驱动包。|
-| [sgp30](https://github.com/luhuadong/rtt-sgp30) |luhuadong|Apache-2.0|SGP30 空气检测传感器，可检测TVOC和CO2浓度|
-| [shtc1](https://github.com/nfsq246/RTT_SHTC1) |nfsq246|other|shtc1传感器驱动包，支持：温度，湿度|
-| [spl0601](https://github.com/RT-Thread-packages/spl0601) |gztss|other|数字气压传感器 SPL06-01 驱动软件包|
-| [sr04](https://github.com/alec-shan/hc-sr04) |alec-shan|Apache-2.0|对接RT-Thread Sensor框架的HC-SR04驱动软件包|
-| [tmp1075](https://github.com/Prry/rtt-tmp1075) |panrui|Apache-2.0|TMP1075 数字温度传感器驱动软件包|
-| [tsl4531](https://github.com/JellyYe/tsl4531pkgs.git) |ye guodong|Apache-2.0|tsl4531 是光感传感器,能读取环境亮度 lux。|
-| [vl53l0x](https://github.com/Prry/rtt-vl53l0x) |panrui|Apache-2.0|VL53L0X 飞行时间(TOF)传感器驱动软件包|
-| [zmod4410](https://github.com/ShermanShao/zmod4410) |Sherman|RENESAS SOFTWARE LICENSE TERMS|Renesas 室内空气质量检测传感器 zmod4410 的驱动库|
-| [sgm706](https://github.com/Prry/rtt-sgm706) |panrui|Apache-2.0|SGM706独立看门狗驱动软件包|
-| [sht2x](https://github.com/RT-Thread-packages/sht2x) |RealThread|Apache-2.0|数字湿度和温度传感器 sht2x 驱动软件包|
-| [sht3x](https://github.com/donghao2nanjing/sht3x) |hao.dong|LGPLv2.1|数字湿度和温度传感器 sht3x 驱动软件包|
-| [SignalLed](https://github.com/WKJay/SignalLed) |WKJay|LGPL-2.1|信号灯软件包，支持自定义闪烁方式、周期，支持随时开启、关闭|
-| [soft_serial](https://github.com/qiyongzhong0/rt-thread-soft-serial) |qiyongzhong0| LGPL-2.1|一个利用硬件定时器捕获/比较功能实现软件模拟串口的软件包|
-| [ssd1306](https://github.com/luhuadong/rtt-ssd1306) |luhuadong|Apache-2.0|基于 SSD1306、SH1106、SH1107 和 SSD1309 的 OLED 驱动，支持 I2C 和 SPI|
-| [stm32wb55_sdk](https://github.com/xupenghu/stm32wb55_sdk.git) |xph|Apache-2.0|stm32wb55_sdk 软件包|
-| [stm32_sdio](https://github.com/RT-Thread-packages/stm32_sdio) |RealThread|LGPL-2.1|STM32 平台 SDIO 控制器驱动包|
-| [sx12xx](https://github.com/XiaojieFan/sx12xx) |XiaojieFan|Apache-2.0|Semtech LoRa RF 芯片驱动库|
-| [tca9534](https://github.com/Prry/rtt-tca9534) |panrui|Apache-2.0|i2c接口8位I/O扩展芯片驱动软件包|
-| [tmc51xx](https://github.com/apeng2012/tmc51xx) |apeng2012|MIT|TMC5160步进电机驱动。|
-| [ft5426](https://github.com/liuduanfei/ft5426) |liuduanfei|Apache-2.0|这是 FT5426 触摸芯片的驱动包。|
-| [ft6206](https://github.com/RT-Thread-packages/ft6206) |Willian Chan|Apache-2.0|这是 FT6206 触摸芯片的驱动包。|
-| [ft6236](https://github.com/liuduanfei/ft6236) |liuduanfei|Apache-2.0|这是 FT6236 触摸芯片的驱动包。|
-| [gt1151](https://github.com/Jackistang/GT1151) |Jackistang|Apache-2.0|gt1151 驱动|
-| [gt911](https://github.com/RiceChen/gt911) |RiceChen|Apache-2.0|gt911 驱动。|
-| [gt9147](https://github.com/RT-Thread-packages/gt9147) |tyustli|Apache-2.0|这是 GT9147 触摸芯片的驱动包|
-| [gt917s](https://github.com/lilisheng411527/gt917s.git) |layson.li|LGPL-2.1| gt917s 驱动|
-| [vdevice](https://github.com/RT-Thread-packages/vdevice) |stackRyan|Apache-2.0|适配于rt-thread device框架下的虚拟IO设备。|
-| [vsensor](https://github.com/RT-Thread-packages/vsensor) |RealThread|Apache-2.0|虚拟传感器设备|
-| [wk2124](https://github.com/MrMichael/wk2124) |YaohongLi|Apache-2.0|wk2124 spi转四串口芯片的驱动库。|
-| [wm_libraries](https://github.com/WinnerMicro/rtpkg-wm_libraries) |Winner Micro|Apache-2.0|WinnerMicro 芯片软件支持包|
-| [ws2812b](https://github.com/maplerian/rt_ws2812b) |maplerian|Apache-2.0|用于 RT-Thread 的 ws2812b 软件驱动包，使用 SPI + DMA 方式驱动。|
+ |forks|stars| 包名 | 作者  | license   | 备注      |
+| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/rt-ad7746?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/rt-ad7746?style=social)| [ad7746](https://github.com/wuhanstudio/rt-ad7746) |wuhanstudio|MIT|AD7746 高精度电容测量芯片在 RT-Thread 移植库|
+|![GitHub forks](https://img.shields.io/github/forks/loogg/agile_button?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/loogg/agile_button?style=social)| [agile_button](https://github.com/loogg/agile_button) |Longwei Ma|LGPL-2.1|一个灵活的button软件包。|
+|![GitHub forks](https://img.shields.io/github/forks/loogg/agile_console?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/loogg/agile_console?style=social)| [agile_console](https://github.com/loogg/agile_console) |loogg|LGPL-2.1|一个灵活的console设备软件包|
+|![GitHub forks](https://img.shields.io/github/forks/loogg/agile_led?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/loogg/agile_led?style=social)| [agile_led](https://github.com/loogg/agile_led) |Longwei Ma|LGPL-2.1|一个灵活的led软件包。|
+|![GitHub forks](https://img.shields.io/github/forks/greedyhao/as608.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/greedyhao/as608.git?style=social)| [as608](https://github.com/greedyhao/as608.git) |greedyhao|Apache-2.0|AS608 指纹模块的驱动|
+|![GitHub forks](https://img.shields.io/github/forks/RiceChen/as7341?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RiceChen/as7341?style=social)| [as7341](https://github.com/RiceChen/as7341) |RiceChen|Apache-2.0|AS7341可见光传感器，可测量8个波长的可见光。|
+|![GitHub forks](https://img.shields.io/github/forks/XiaojieFan/at24cxx?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/XiaojieFan/at24cxx?style=social)| [at24cxx](https://github.com/XiaojieFan/at24cxx) |XiaojieFan|Apache-2.0|eeprom at24cxx 的驱动库。|
+|![GitHub forks](https://img.shields.io/github/forks/Sunwancn/rtt-pkgs-beep?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Sunwancn/rtt-pkgs-beep?style=social)| [beep](https://github.com/Sunwancn/rtt-pkgs-beep) |Sunwancn|Apache-2.0|基于 rt-thread 的 pin 和 pwm 驱动的蜂鸣器控制软件包，可以容易地驱动有源蜂鸣器或无源蜂鸣器，产生各种间隔长短的鸣叫声。|
+|![GitHub forks](https://img.shields.io/github/forks/BLUETRUM/bluetrum_sdk?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/BLUETRUM/bluetrum_sdk?style=social)| [bluetrum_sdk](https://github.com/BLUETRUM/bluetrum_sdk) |BLUETRUM|MIT|bluetrum sdk|
+|![GitHub forks](https://img.shields.io/github/forks/balanceTWK/bouffalolab_sdk.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/balanceTWK/bouffalolab_sdk.git?style=social)| [bouffalolab_sdk](https://github.com/balanceTWK/bouffalolab_sdk.git) |BalanceTWK|Apache-2.0|博流 处理器对应的外设驱动包|
+|![GitHub forks](https://img.shields.io/github/forks/jiejieTop/rtpkg_button?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/jiejieTop/rtpkg_button?style=social)| [button](https://github.com/jiejieTop/rtpkg_button) |jiejieTop|GPL-3.0|C 实现的按键驱动，支持单击和双击，长按，长按释放|
+|![GitHub forks](https://img.shields.io/github/forks/redocCheng/rt_can_ymodem?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/redocCheng/rt_can_ymodem?style=social)| [can_ymodem](https://github.com/redocCheng/rt_can_ymodem) |redocCheng|Apache-2.0|连接can设备和ymodem的驱动包|
+|![GitHub forks](https://img.shields.io/github/forks/aozima/dm9051?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/aozima/dm9051?style=social)| [dm9051](https://github.com/aozima/dm9051) |aozima|Apache-2.0|DM9051 SPI 接口以太网芯片驱动库|
+|![GitHub forks](https://img.shields.io/github/forks/Sunwancn/rtt-pkgs-easyblink?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Sunwancn/rtt-pkgs-easyblink?style=social)| [easyblink](https://github.com/Sunwancn/rtt-pkgs-easyblink) |Sunwancn|Apache-2.0|小巧轻便的 LED 控制软件包，可以容易地控制 LED 开、关、反转和各种间隔闪烁，占用 RAM 少，支持 RT-Thread 标准版和 Nano 版。|
+|![GitHub forks](https://img.shields.io/github/forks/foss-for-synopsys-dwc-arc-processors/embarc_bsp?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/foss-for-synopsys-dwc-arc-processors/embarc_bsp?style=social)| [embARC_bsp](https://github.com/foss-for-synopsys-dwc-arc-processors/embarc_bsp) |Watson Zeng|Apache-2.0|Synopsys ARC 处理器 板级支持包|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/rt-i2c-tools?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/rt-i2c-tools?style=social)| [i2c-tools](https://github.com/wuhanstudio/rt-i2c-tools) |wuhanstudio|MIT|I2C 调试时可以使用的小工具，可以扫描设备，读写寄存器|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/icm20608?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/icm20608?style=social)| [icm20608](https://github.com/RT-Thread-packages/icm20608) |RealThread|Apache-2.0|三轴加速度与三轴陀螺仪 icm20608 的传感器驱动库|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/infrared_framework?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/infrared_framework?style=social)| [infrared](https://github.com/RT-Thread-packages/infrared_framework) |RealThread|Apache-2.0|基于 rt-thread 的 pin,pwm 和 hwtimer 驱动的红外框架。|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/kendryte_sdk?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/kendryte_sdk?style=social)| [kendryte-sdk](https://github.com/RT-Thread-packages/kendryte_sdk) |RealThread|unknown|勘智 K210 处理器对应的外设驱动包|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/kobuki?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/kobuki?style=social)| [kobuki](https://github.com/wuhanstudio/kobuki) |wuhanstudio|MIT|Kobuki 机器人串口通信驱动|
+|![GitHub forks](https://img.shields.io/github/forks/xqyjlj/ld3320?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/xqyjlj/ld3320?style=social)| [ld3320](https://github.com/xqyjlj/ld3320) |xqyjlj|Apache-2.0|LD3320语音识别芯片|
+|![GitHub forks](https://img.shields.io/github/forks/aeo123/LedBlink.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/aeo123/LedBlink.git?style=social)| [LedBlink](https://github.com/aeo123/LedBlink.git) |zpw|GPL-2.0|简单易用led闪烁控制软件包|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/libnfc?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/libnfc?style=social)| [libnfc](https://github.com/wuhanstudio/libnfc) |wuhanstudio|LGPL-3.0|libnc 软件包|
+|![GitHub forks](https://img.shields.io/github/forks/luhuadong/rtt-littled?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/luhuadong/rtt-littled?style=social)| [littled](https://github.com/luhuadong/rtt-littled) |luhuadong|Apache-2.0|littled软件包: Littled LED Daemon 服务线程|
+|![GitHub forks](https://img.shields.io/github/forks/guoweilkd/lkdGui?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/guoweilkd/lkdGui?style=social)| [lkdGui](https://github.com/guoweilkd/lkdGui) |guoweilkd|GPL-2.0|lkdGui是一款为单色显示屏制作的图形化界面，用于设计简单漂亮的图形界面。|
+|![GitHub forks](https://img.shields.io/github/forks/Forest-Rain/lora-gw-driver-lib?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Forest-Rain/lora-gw-driver-lib?style=social)| [lora_gw_driver_lib](https://github.com/Forest-Rain/lora-gw-driver-lib) |forest-rain|Apache-2.0|LoRa网关芯片(SX130x)驱动|
+|![GitHub forks](https://img.shields.io/github/forks/Forest-Rain/lora-radio-driver?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Forest-Rain/lora-radio-driver?style=social)| [lora_radio_driver](https://github.com/Forest-Rain/lora-radio-driver) |Forest-Rain|Apache-2.0|lora芯片(SX126x\SX127x)驱动包|
+|![GitHub forks](https://img.shields.io/github/forks/Ghazigq/ly68l6400?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Ghazigq/ly68l6400?style=social)| [ly68l6400](https://github.com/Ghazigq/ly68l6400) |Ghazigq|LGPL-2.1|ly68l6400芯片的驱动|
+|![GitHub forks](https://img.shields.io/github/forks/aeo123/MAX17048.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/aeo123/MAX17048.git?style=social)| [max17048](https://github.com/aeo123/MAX17048.git) |zpw|MIT|电池监测芯片|
+|![GitHub forks](https://img.shields.io/github/forks/redocCheng/max7219?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/redocCheng/max7219?style=social)| [max7219](https://github.com/redocCheng/max7219) |redocCheng|Apache-2.0|本软件包是在数码管上应用 MAX7219 的驱动包|
+|![GitHub forks](https://img.shields.io/github/forks/XiaojieFan/mb85rs16.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/XiaojieFan/mb85rs16.git?style=social)| [mb85rs16](https://github.com/XiaojieFan/mb85rs16.git) |XiaojieFan|Apache-2.0|针对 铁电存储器 SPI 驱动软件包|
+|![GitHub forks](https://img.shields.io/github/forks/XiaojieFan/mcp23008.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/XiaojieFan/mcp23008.git?style=social)| [mcp23008](https://github.com/XiaojieFan/mcp23008.git) |XiaojieFan|Apache-2.0|针对 I2C 并行口扩展 8 位 I/O 软件包|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/mfoc?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/mfoc?style=social)| [mfoc](https://github.com/wuhanstudio/mfoc) |wuhanstudio|GPL-2.0|Mifare Classic 离线破解工具。|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/micro_ros?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/micro_ros?style=social)| [micro_ros](https://github.com/wuhanstudio/micro_ros) |wuhanstudio|Apache-2.0|在 MCU 上运行 ROS2.|
+|![GitHub forks](https://img.shields.io/github/forks/xqyjlj/Miaska_AT24CXX?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/xqyjlj/Miaska_AT24CXX?style=social)| [Misaka_AT24CXX](https://github.com/xqyjlj/Miaska_AT24CXX) |xqyjlj|Apache-2.0|御坂网络AT24CXX驱动包，提供了AT24CXX的全部功能|
+|![GitHub forks](https://img.shields.io/github/forks/xqyjlj/Misaka_RGB_Bling?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/xqyjlj/Misaka_RGB_Bling?style=social)| [Misaka_RGB_Bling](https://github.com/xqyjlj/Misaka_RGB_Bling) |xqyjlj|Apache-2.0|御坂网络RGB LED驱动包，提供了对于RGB LED灯的控制功能。|
+|![GitHub forks](https://img.shields.io/github/forks/greedyhao/MotionDriver2RTT?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/greedyhao/MotionDriver2RTT?style=social)| [MotionDriver2RTT](https://github.com/greedyhao/MotionDriver2RTT) |greedyhao|LGPL-2.1|移植 MotionDriver 到 RTT 的包|
+|![GitHub forks](https://img.shields.io/github/forks/Forest-Rain/multi-rtimer?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Forest-Rain/multi-rtimer?style=social)| [multi_rtimer](https://github.com/Forest-Rain/multi-rtimer) |Forest-Rain|Apache-2.0|一个实时、低功耗软件定时器模块|
+|![GitHub forks](https://img.shields.io/github/forks/Ghazigq/nes?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Ghazigq/nes?style=social)| [nes](https://github.com/Ghazigq/nes) |Ghazigq|Apache-2.0|nes模拟器c库。|
+|![GitHub forks](https://img.shields.io/github/forks/sogwms/nrf24l01?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/sogwms/nrf24l01?style=social)| [nrf24l01](https://github.com/sogwms/nrf24l01) |sogwms|Apache-2.0|单芯片 2.4GHz 无线收发器。|
+|![GitHub forks](https://img.shields.io/github/forks/supperthomas/nrf5x_sdk?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/supperthomas/nrf5x_sdk?style=social)| [nrf5x_sdk](https://github.com/supperthomas/nrf5x_sdk) |supperthomas|unknown|Nordic SDK软件开发包|
+|![GitHub forks](https://img.shields.io/github/forks/xckhmf/nrfx?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/xckhmf/nrfx?style=social)| [nrfx](https://github.com/xckhmf/nrfx) |xckhmf|Unknown|Nordic SOC的独立外设驱动库|
+|![GitHub forks](https://img.shields.io/github/forks/Nuclei-Software/nuclei-sdk?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Nuclei-Software/nuclei-sdk?style=social)| [nuclei_sdk](https://github.com/Nuclei-Software/nuclei-sdk) |Huaqi Fang|Apache-2.0|芯来科技RISC-V处理器软件开发包|
+|![GitHub forks](https://img.shields.io/github/forks/orange2348/paj7620?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/orange2348/paj7620?style=social)| [PAJ7620](https://github.com/orange2348/paj7620) |orange2348|Apache-2.0|手势传感器PAJ7620的驱动包|
+|![GitHub forks](https://img.shields.io/github/forks/greedyhao/pca9685?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/greedyhao/pca9685?style=social)| [pca9685](https://github.com/greedyhao/pca9685) |greedyhao|Apache-2.0|通过I2C总线控制的16路PWM控制器|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/pcf8574?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/pcf8574?style=social)| [pcf8574](https://github.com/RT-Thread-packages/pcf8574) |RealThread|Apache-2.0|针对 I2C 并行口扩展 8 位 I/O 软件包|
+|![GitHub forks](https://img.shields.io/github/forks/MrpYoung/pms_series?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/MrpYoung/pms_series?style=social)| [pms_series](https://github.com/MrpYoung/pms_series) |MrpYoung|MIT|pms 数字式通用颗粒物浓度传感器驱动库|
+|![GitHub forks](https://img.shields.io/github/forks/qiyongzhong0/rt-thread-qkey?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/qiyongzhong0/rt-thread-qkey?style=social)| [qkey](https://github.com/qiyongzhong0/rt-thread-qkey) |qiyongzhong0| LGPL-2.1|一个快捷易用的按键驱动包|
+|![GitHub forks](https://img.shields.io/github/forks/qiyongzhong0/rt-thread-qled?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/qiyongzhong0/rt-thread-qled?style=social)| [quick_led](https://github.com/qiyongzhong0/rt-thread-qled) |qiyongzhong0| LGPL-2.1|一个快捷易用的led驱动包|
+|![GitHub forks](https://img.shields.io/github/forks/greedyhao/rc522_rtt?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/greedyhao/rc522_rtt?style=social)| [rc522](https://github.com/greedyhao/rc522_rtt) |greedyhao|Apache-2.0|rc522 rfid 模块驱动|
+|![GitHub forks](https://img.shields.io/github/forks/apeng2012/rda58xx?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/apeng2012/rda58xx?style=social)| [rda58xx](https://github.com/apeng2012/rda58xx) |apeng2012|MIT|RDA5820收音机芯片驱动。|
+|![GitHub forks](https://img.shields.io/github/forks/flyingcys/realtek_ameba?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/flyingcys/realtek_ameba?style=social)| [realtek_ameba](https://github.com/flyingcys/realtek_ameba) |flyingcys|LGPL-2.1|realtek 的 ameba 软件包在 RT-Thread 上的移植|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/rt-rosserial?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/rt-rosserial?style=social)| [rosserial](https://github.com/wuhanstudio/rt-rosserial) |wuhanstudio|BSD|机器人操作系统(ROS1) 软件包 rosserial 在 RT-Thread 的移植库|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/rplidar?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/rplidar?style=social)| [rplidar](https://github.com/wuhanstudio/rplidar) |wuhanstudio|MIT|RPLIDAR: 适用于机器人室内建图的低成本激光雷达|
+|![GitHub forks](https://img.shields.io/github/forks/qiyongzhong0/rt-thread-rs485?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/qiyongzhong0/rt-thread-rs485?style=social)| [rs485](https://github.com/qiyongzhong0/rt-thread-rs485) |qiyongzhong0| LGPL-2.1|rs485驱动包|
+|![GitHub forks](https://img.shields.io/github/forks/Prry/rtt-ds3231?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Prry/rtt-ds3231?style=social)| [ds3231](https://github.com/Prry/rtt-ds3231) |panrui|Apache-2.0|ds3231 外置RTC驱动|
+|![GitHub forks](https://img.shields.io/github/forks/Prry/rtt-rx8900?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Prry/rtt-rx8900?style=social)| [rx8900](https://github.com/Prry/rtt-rx8900) |panrui|Apache-2.0|rx8900 外置RTC驱动，支持实时时钟和闹钟功能|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/aht10?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/aht10?style=social)| [aht10](https://github.com/RT-Thread-packages/aht10) |RealThread|Apache-2.0|数字温湿度传感器 aht10 的驱动库|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/ap3216c?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/ap3216c?style=social)| [ap3216c](https://github.com/RT-Thread-packages/ap3216c) |RealThread|Apache-2.0|接近和光强传感器 ap3216c 的驱动库|
+|![GitHub forks](https://img.shields.io/github/forks/sanjaywu/bh1750_sensor?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/sanjaywu/bh1750_sensor?style=social)| [bh1750](https://github.com/sanjaywu/bh1750_sensor) |Sanjay_Wu|Apache-2.0|bh1750 传感器驱动包，支持：环境光照强度.|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/bma400?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/bma400?style=social)| [bma400](https://github.com/RT-Thread-packages/bma400) |flybreak|other|这是 BMA400 传感器驱动包，支持：加速度计，记步|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/bme280?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/bme280?style=social)| [bme280](https://github.com/RT-Thread-packages/bme280) |flybreak|other|这是 BME280 传感器驱动软件包，支持：气压，湿度|
+|![GitHub forks](https://img.shields.io/github/forks/luhuadong/rtt-bme680?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/luhuadong/rtt-bme680?style=social)| [bme680](https://github.com/luhuadong/rtt-bme680) |luhuadong|Apache-2.0|BME680 四合一 MEMS 环境传感器驱动软件包|
+|![GitHub forks](https://img.shields.io/github/forks/gmyFighting/bmi088?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/gmyFighting/bmi088?style=social)| [bmi088](https://github.com/gmyFighting/bmi088) |MYGuo|Apache-2.0|bmi088 软件包|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/bmi160_bmx160?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/bmi160_bmx160?style=social)| [bmi160_bmx160](https://github.com/RT-Thread-packages/bmi160_bmx160) |gztss|other|BMI160 6 轴传感器以及 BMX160 9 轴传感器的驱动包|
+|![GitHub forks](https://img.shields.io/github/forks/Prry/rtt-bmp180?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Prry/rtt-bmp180?style=social)| [bmp180](https://github.com/Prry/rtt-bmp180) |panrui|Apache-2.0|这是 BMP180 传感器驱动软件包，支持：气压，温度|
+|![GitHub forks](https://img.shields.io/github/forks/nfsq246/RTT_BMP280?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/nfsq246/RTT_BMP280?style=social)| [bmp280](https://github.com/nfsq246/RTT_BMP280) |nfsq246|other|bmp280的iic驱动|
+|![GitHub forks](https://img.shields.io/github/forks/luhuadong/rtt-ccs811?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/luhuadong/rtt-ccs811?style=social)| [ccs811](https://github.com/luhuadong/rtt-ccs811) |luhuadong|Apache-2.0|CCS811 气体检测传感器，可检测TVOC和CO2浓度|
+|![GitHub forks](https://img.shields.io/github/forks/MiraMEMS-Wonderful/da270-RT-Thread?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/MiraMEMS-Wonderful/da270-RT-Thread?style=social)| [da270](https://github.com/MiraMEMS-Wonderful/da270-RT-Thread) |Zhou DingHua|GPL-3.0|本软件包是 MiraMEMS DA270 加速度传感器在 RT-Thread 中的驱动包。|
+|![GitHub forks](https://img.shields.io/github/forks/MiraMEMS-Wonderful/df220-RT-Thread.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/MiraMEMS-Wonderful/df220-RT-Thread.git?style=social)| [df220](https://github.com/MiraMEMS-Wonderful/df220-RT-Thread.git) |Zhou DingHua|GPL-3.0|本软件包是 MiraMEMS df220 力传感器在 RT-Thread 中的驱动包。|
+|![GitHub forks](https://img.shields.io/github/forks/murphyzhao/dht11_rtt?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/murphyzhao/dht11_rtt?style=social)| [dht11](https://github.com/murphyzhao/dht11_rtt) |MurphyZhao|Apache-2.0|DHT11 单总线数字温湿度传感器|
+|![GitHub forks](https://img.shields.io/github/forks/luhuadong/rtt-dhtxx?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/luhuadong/rtt-dhtxx?style=social)| [dhtxx](https://github.com/luhuadong/rtt-dhtxx) |luhuadong|Apache-2.0|DHTxx系列单总线数字温湿度传感器驱动|
+|![GitHub forks](https://img.shields.io/github/forks/willianchanlovegithub/ds18b20?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/willianchanlovegithub/ds18b20?style=social)| [ds18b20](https://github.com/willianchanlovegithub/ds18b20) |WillianChan|Apache-2.0|数字温度传感器 ds18b20 的软件包|
+|![GitHub forks](https://img.shields.io/github/forks/pk-ing/fingerprint?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/pk-ing/fingerprint?style=social)| [fingerprint](https://github.com/pk-ing/fingerprint) |pk-ing|GPL-3.0|指纹模块驱动|
+|![GitHub forks](https://img.shields.io/github/forks/luhuadong/rtt-gp2y10?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/luhuadong/rtt-gp2y10?style=social)| [gp2y10](https://github.com/luhuadong/rtt-gp2y10) |luhuadong|Apache-2.0|GP2Y10 夏普公司的灰尘/空气颗粒物浓度传感器|
+|![GitHub forks](https://img.shields.io/github/forks/jch12138/gy271?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/jch12138/gy271?style=social)| [gy271](https://github.com/jch12138/gy271) |jch12138|Apache-2.0|gy271驱动库|
+|![GitHub forks](https://img.shields.io/github/forks/Forest-Rain/hdc1000?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Forest-Rain/hdc1000?style=social)| [hdc1000](https://github.com/Forest-Rain/hdc1000) |Forest-Rain|Apache-2.0|TI温湿度传感器hdc1000软件包(RT-Thread Sensor架构)|
+|![GitHub forks](https://img.shields.io/github/forks/gmyFighting/hmc5883?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/gmyFighting/hmc5883?style=social)| [hmc5883](https://github.com/gmyFighting/hmc5883) |MYGuo|Apache-2.0|hmc5883 软件包|
+|![GitHub forks](https://img.shields.io/github/forks/Guozhanxin/hs300x?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Guozhanxin/hs300x?style=social)| [hs300x](https://github.com/Guozhanxin/hs300x) |flyboy|Apache-2.0|数字温湿度传感器 hs300x 的驱动库|
+|![GitHub forks](https://img.shields.io/github/forks/lucaslsh/hshcal001.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/lucaslsh/hshcal001.git?style=social)| [hshcal001](https://github.com/lucaslsh/hshcal001.git) |lucalsh|Apache-2.0|hshcal001 传感器驱动包，支持：温度、湿度计算.|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/hts221?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/hts221?style=social)| [hts221](https://github.com/RT-Thread-packages/hts221) |flybreak|other|HTS221 传感器驱动包，支持：温度，湿度|
+|![GitHub forks](https://img.shields.io/github/forks/xupenghu/ina226.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/xupenghu/ina226.git?style=social)| [ina226](https://github.com/xupenghu/ina226.git) |xph|Apache-2.0|ina226 软件包|
+|![GitHub forks](https://img.shields.io/github/forks/xupenghu/ina260.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/xupenghu/ina260.git?style=social)| [ina260](https://github.com/xupenghu/ina260.git) |xph|Apache-2.0|ina260 软件包|
+|![GitHub forks](https://img.shields.io/github/forks/StackRyan/lis2dh12.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/StackRyan/lis2dh12.git?style=social)| [lis2dh12](https://github.com/StackRyan/lis2dh12.git) |StackRyan|other| LIS2DH12 传感器驱动包，支持：加速度计，温度。|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/lps22hb?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/lps22hb?style=social)| [lps22hb](https://github.com/RT-Thread-packages/lps22hb) |flybreak|other|LPS22HB 气压传感器的驱动包|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/lsm303agr?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/lsm303agr?style=social)| [lsm303agr](https://github.com/RT-Thread-packages/lsm303agr) |flybreak|other|这是 LSM303AGR 传感器驱动包，支持：加速度计，磁力计|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/lsm6dsl?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/lsm6dsl?style=social)| [lsm6dsl](https://github.com/RT-Thread-packages/lsm6dsl) |flybreak|other|这是 LSM6DSL 传感器驱动包，支持：加速度计，陀螺仪，计步|
+|![GitHub forks](https://img.shields.io/github/forks/my-RT-packages/lsm6dsm.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/my-RT-packages/lsm6dsm.git?style=social)| [lsm6dsm](https://github.com/my-RT-packages/lsm6dsm.git) |zcj20080882|MIT|STMicroelectronics的LSM6DSM传感器驱动，支持加速度计/陀螺仪/计步/温度|
+|![GitHub forks](https://img.shields.io/github/forks/Jackistang/max30102_rtt?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Jackistang/max30102_rtt?style=social)| [max30102](https://github.com/Jackistang/max30102_rtt) |Jackistang|Apache-2.0|[MAX30102]: 心率测量，血氧饱和度测量软件包|
+|![GitHub forks](https://img.shields.io/github/forks/SimpleInit/max31865?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/SimpleInit/max31865?style=social)| [max31865](https://github.com/SimpleInit/max31865) |SimpleInit|Apache-2.0|数字温度传感器 max31865 的软件包|
+|![GitHub forks](https://img.shields.io/github/forks/JonasWen/max6675?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/JonasWen/max6675?style=social)| [max6675](https://github.com/JonasWen/max6675) |Jonas|Apache-2.0|数字温度传感器 max6675 的软件包|
+|![GitHub forks](https://img.shields.io/github/forks/xupenghu/mlx90632.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/xupenghu/mlx90632.git?style=social)| [mlx90632](https://github.com/xupenghu/mlx90632.git) |xph|Apache-2.0|mlx90632 软件包|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/mpu-6xxx?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/mpu-6xxx?style=social)| [mpu6xxx](https://github.com/RT-Thread-packages/mpu-6xxx) |RealThread|Apache-2.0|兼容 mpu6000, mpu6050, mpu6500, mpu9250 等等型号的驱动库|
+|![GitHub forks](https://img.shields.io/github/forks/sogwms/ms5611?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/sogwms/ms5611?style=social)| [ms5611](https://github.com/sogwms/ms5611) |sogwms|Apache-2.0|数字气压传感器 MS5611 驱动软件包|
+|![GitHub forks](https://img.shields.io/github/forks/schuck-wang/RTThread-MS5805?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/schuck-wang/RTThread-MS5805?style=social)| [ms5805](https://github.com/schuck-wang/RTThread-MS5805) |schuck-wang|Apache-2.0|数字气压传感器 MS5805 驱动软件包|
+|![GitHub forks](https://img.shields.io/github/forks/luhuadong/rtt-pmsxx?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/luhuadong/rtt-pmsxx?style=social)| [pmsxx](https://github.com/luhuadong/rtt-pmsxx) |luhuadong|Apache-2.0|PMSxx 攀藤pms系列颗粒物浓度传感器|
+|![GitHub forks](https://img.shields.io/github/forks/RichtekTechnology/RT3020?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RichtekTechnology/RT3020?style=social)| [rt3020](https://github.com/RichtekTechnology/RT3020) |Tank Wu|Apache-2.0|这是 RT3020 加速度传感器的驱动包。|
+|![GitHub forks](https://img.shields.io/github/forks/luhuadong/rtt-sgp30?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/luhuadong/rtt-sgp30?style=social)| [sgp30](https://github.com/luhuadong/rtt-sgp30) |luhuadong|Apache-2.0|SGP30 空气检测传感器，可检测TVOC和CO2浓度|
+|![GitHub forks](https://img.shields.io/github/forks/nfsq246/RTT_SHTC1?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/nfsq246/RTT_SHTC1?style=social)| [shtc1](https://github.com/nfsq246/RTT_SHTC1) |nfsq246|other|shtc1传感器驱动包，支持：温度，湿度|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/spl0601?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/spl0601?style=social)| [spl0601](https://github.com/RT-Thread-packages/spl0601) |gztss|other|数字气压传感器 SPL06-01 驱动软件包|
+|![GitHub forks](https://img.shields.io/github/forks/alec-shan/hc-sr04?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/alec-shan/hc-sr04?style=social)| [sr04](https://github.com/alec-shan/hc-sr04) |alec-shan|Apache-2.0|对接RT-Thread Sensor框架的HC-SR04驱动软件包|
+|![GitHub forks](https://img.shields.io/github/forks/Prry/rtt-tmp1075?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Prry/rtt-tmp1075?style=social)| [tmp1075](https://github.com/Prry/rtt-tmp1075) |panrui|Apache-2.0|TMP1075 数字温度传感器驱动软件包|
+|![GitHub forks](https://img.shields.io/github/forks/JellyYe/tsl4531pkgs.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/JellyYe/tsl4531pkgs.git?style=social)| [tsl4531](https://github.com/JellyYe/tsl4531pkgs.git) |ye guodong|Apache-2.0|tsl4531 是光感传感器,能读取环境亮度 lux。|
+|![GitHub forks](https://img.shields.io/github/forks/Prry/rtt-vl53l0x?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Prry/rtt-vl53l0x?style=social)| [vl53l0x](https://github.com/Prry/rtt-vl53l0x) |panrui|Apache-2.0|VL53L0X 飞行时间(TOF)传感器驱动软件包|
+|![GitHub forks](https://img.shields.io/github/forks/ShermanShao/zmod4410?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/ShermanShao/zmod4410?style=social)| [zmod4410](https://github.com/ShermanShao/zmod4410) |Sherman|RENESAS SOFTWARE LICENSE TERMS|Renesas 室内空气质量检测传感器 zmod4410 的驱动库|
+|![GitHub forks](https://img.shields.io/github/forks/Prry/rtt-sgm706?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Prry/rtt-sgm706?style=social)| [sgm706](https://github.com/Prry/rtt-sgm706) |panrui|Apache-2.0|SGM706独立看门狗驱动软件包|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/sht2x?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/sht2x?style=social)| [sht2x](https://github.com/RT-Thread-packages/sht2x) |RealThread|Apache-2.0|数字湿度和温度传感器 sht2x 驱动软件包|
+|![GitHub forks](https://img.shields.io/github/forks/donghao2nanjing/sht3x?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/donghao2nanjing/sht3x?style=social)| [sht3x](https://github.com/donghao2nanjing/sht3x) |hao.dong|LGPLv2.1|数字湿度和温度传感器 sht3x 驱动软件包|
+|![GitHub forks](https://img.shields.io/github/forks/WKJay/SignalLed?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/WKJay/SignalLed?style=social)| [SignalLed](https://github.com/WKJay/SignalLed) |WKJay|LGPL-2.1|信号灯软件包，支持自定义闪烁方式、周期，支持随时开启、关闭|
+|![GitHub forks](https://img.shields.io/github/forks/qiyongzhong0/rt-thread-soft-serial?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/qiyongzhong0/rt-thread-soft-serial?style=social)| [soft_serial](https://github.com/qiyongzhong0/rt-thread-soft-serial) |qiyongzhong0| LGPL-2.1|一个利用硬件定时器捕获/比较功能实现软件模拟串口的软件包|
+|![GitHub forks](https://img.shields.io/github/forks/luhuadong/rtt-ssd1306?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/luhuadong/rtt-ssd1306?style=social)| [ssd1306](https://github.com/luhuadong/rtt-ssd1306) |luhuadong|Apache-2.0|基于 SSD1306、SH1106、SH1107 和 SSD1309 的 OLED 驱动，支持 I2C 和 SPI|
+|![GitHub forks](https://img.shields.io/github/forks/xupenghu/stm32wb55_sdk.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/xupenghu/stm32wb55_sdk.git?style=social)| [stm32wb55_sdk](https://github.com/xupenghu/stm32wb55_sdk.git) |xph|Apache-2.0|stm32wb55_sdk 软件包|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/stm32_sdio?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/stm32_sdio?style=social)| [stm32_sdio](https://github.com/RT-Thread-packages/stm32_sdio) |RealThread|LGPL-2.1|STM32 平台 SDIO 控制器驱动包|
+|![GitHub forks](https://img.shields.io/github/forks/XiaojieFan/sx12xx?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/XiaojieFan/sx12xx?style=social)| [sx12xx](https://github.com/XiaojieFan/sx12xx) |XiaojieFan|Apache-2.0|Semtech LoRa RF 芯片驱动库|
+|![GitHub forks](https://img.shields.io/github/forks/Prry/rtt-tca9534?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Prry/rtt-tca9534?style=social)| [tca9534](https://github.com/Prry/rtt-tca9534) |panrui|Apache-2.0|i2c接口8位I/O扩展芯片驱动软件包|
+|![GitHub forks](https://img.shields.io/github/forks/apeng2012/tmc51xx?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/apeng2012/tmc51xx?style=social)| [tmc51xx](https://github.com/apeng2012/tmc51xx) |apeng2012|MIT|TMC5160步进电机驱动。|
+|![GitHub forks](https://img.shields.io/github/forks/liuduanfei/ft5426?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/liuduanfei/ft5426?style=social)| [ft5426](https://github.com/liuduanfei/ft5426) |liuduanfei|Apache-2.0|这是 FT5426 触摸芯片的驱动包。|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/ft6206?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/ft6206?style=social)| [ft6206](https://github.com/RT-Thread-packages/ft6206) |Willian Chan|Apache-2.0|这是 FT6206 触摸芯片的驱动包。|
+|![GitHub forks](https://img.shields.io/github/forks/liuduanfei/ft6236?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/liuduanfei/ft6236?style=social)| [ft6236](https://github.com/liuduanfei/ft6236) |liuduanfei|Apache-2.0|这是 FT6236 触摸芯片的驱动包。|
+|![GitHub forks](https://img.shields.io/github/forks/Jackistang/GT1151?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Jackistang/GT1151?style=social)| [gt1151](https://github.com/Jackistang/GT1151) |Jackistang|Apache-2.0|gt1151 驱动|
+|![GitHub forks](https://img.shields.io/github/forks/RiceChen/gt911?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RiceChen/gt911?style=social)| [gt911](https://github.com/RiceChen/gt911) |RiceChen|Apache-2.0|gt911 驱动。|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/gt9147?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/gt9147?style=social)| [gt9147](https://github.com/RT-Thread-packages/gt9147) |tyustli|Apache-2.0|这是 GT9147 触摸芯片的驱动包|
+|![GitHub forks](https://img.shields.io/github/forks/lilisheng411527/gt917s.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/lilisheng411527/gt917s.git?style=social)| [gt917s](https://github.com/lilisheng411527/gt917s.git) |layson.li|LGPL-2.1| gt917s 驱动|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/vdevice?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/vdevice?style=social)| [vdevice](https://github.com/RT-Thread-packages/vdevice) |stackRyan|Apache-2.0|适配于rt-thread device框架下的虚拟IO设备。|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/vsensor?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/vsensor?style=social)| [vsensor](https://github.com/RT-Thread-packages/vsensor) |RealThread|Apache-2.0|虚拟传感器设备|
+|![GitHub forks](https://img.shields.io/github/forks/MrMichael/wk2124?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/MrMichael/wk2124?style=social)| [wk2124](https://github.com/MrMichael/wk2124) |YaohongLi|Apache-2.0|wk2124 spi转四串口芯片的驱动库。|
+|![GitHub forks](https://img.shields.io/github/forks/WinnerMicro/rtpkg-wm_libraries?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/WinnerMicro/rtpkg-wm_libraries?style=social)| [wm_libraries](https://github.com/WinnerMicro/rtpkg-wm_libraries) |Winner Micro|Apache-2.0|WinnerMicro 芯片软件支持包|
+|![GitHub forks](https://img.shields.io/github/forks/maplerian/rt_ws2812b?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/maplerian/rt_ws2812b?style=social)| [ws2812b](https://github.com/maplerian/rt_ws2812b) |maplerian|Apache-2.0|用于 RT-Thread 的 ws2812b 软件驱动包，使用 SPI + DMA 方式驱动。|
 
 ## security
 
- | 包名 | 作者  | license   | 备注      |
-| ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
-| [libsodium](https://github.com/RT-Thread-packages/libsodium) |RealThread|MIT|一个现代的、易用的加密库|
-| [mbedtls](https://github.com/RT-Thread-packages/mbedtls) |RealThread|Apache-2.0|一个开源的、可移植的、易于使用的、可读的且灵活的 SSL 库|
-| [tinycrypt](https://github.com/RT-Thread-packages/tinycrypt) |RealThread| BSD-2-Clause|一个简小并且可配置的加解密软件包|
-| [trusted-firmware-m](https://github.com/RT-Thread-packages/trusted-firmware-m) |Trusted Firmware-M| BSD-3-Clause|Cortex M系列架构安全固件|
-| [yd_crypto](https://github.com/china-hai/yd_crypto) |china-hai|Apache-2.0|用于微控制器的加解密算法库，平台无关、算法独立、易移植、易使用。|
-| [Qfplib_M0_full](https://github.com/mysterywolf/Qfplib-M0-full) |mysterywolf|GPL|Cortex-M0浮点运算汇编加速库(full版)|
-| [Qfplib_M0_tiny](https://github.com/mysterywolf/Qfplib-M0-tiny) |mysterywolf|GPL|Cortex-M0浮点运算汇编加速库(tiny版)|
-| [Qfplib_M3](https://github.com/mysterywolf/Qfplib-M3) |mysterywolf|GPL|Cortex-M3浮点运算汇编加速库|
-| [rt_memcpy_cm](https://github.com/mysterywolf/rt_memcpy_cm) |mysterywolf|Apache-2.0|rt_memcpy函数的Cortex-M内核汇编加速版|
+ |forks|stars| 包名 | 作者  | license   | 备注      |
+| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/libsodium?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/libsodium?style=social)| [libsodium](https://github.com/RT-Thread-packages/libsodium) |RealThread|MIT|一个现代的、易用的加密库|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/mbedtls?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/mbedtls?style=social)| [mbedtls](https://github.com/RT-Thread-packages/mbedtls) |RealThread|Apache-2.0|一个开源的、可移植的、易于使用的、可读的且灵活的 SSL 库|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/tinycrypt?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/tinycrypt?style=social)| [tinycrypt](https://github.com/RT-Thread-packages/tinycrypt) |RealThread| BSD-2-Clause|一个简小并且可配置的加解密软件包|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/trusted-firmware-m?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/trusted-firmware-m?style=social)| [trusted-firmware-m](https://github.com/RT-Thread-packages/trusted-firmware-m) |Trusted Firmware-M| BSD-3-Clause|Cortex M系列架构安全固件|
+|![GitHub forks](https://img.shields.io/github/forks/china-hai/yd_crypto?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/china-hai/yd_crypto?style=social)| [yd_crypto](https://github.com/china-hai/yd_crypto) |china-hai|Apache-2.0|用于微控制器的加解密算法库，平台无关、算法独立、易移植、易使用。|
+|![GitHub forks](https://img.shields.io/github/forks/mysterywolf/Qfplib-M0-full?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/mysterywolf/Qfplib-M0-full?style=social)| [Qfplib_M0_full](https://github.com/mysterywolf/Qfplib-M0-full) |Meco Man|GPL|Cortex-M0浮点运算汇编加速库(full版)|
+|![GitHub forks](https://img.shields.io/github/forks/mysterywolf/Qfplib-M0-tiny?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/mysterywolf/Qfplib-M0-tiny?style=social)| [Qfplib_M0_tiny](https://github.com/mysterywolf/Qfplib-M0-tiny) |Meco Man|GPL|Cortex-M0浮点运算汇编加速库(tiny版)|
+|![GitHub forks](https://img.shields.io/github/forks/mysterywolf/Qfplib-M3?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/mysterywolf/Qfplib-M3?style=social)| [Qfplib_M3](https://github.com/mysterywolf/Qfplib-M3) |Meco Man|GPL|Cortex-M3浮点运算汇编加速库|
+|![GitHub forks](https://img.shields.io/github/forks/mysterywolf/rt_memcpy_cm?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/mysterywolf/rt_memcpy_cm?style=social)| [rt_memcpy_cm](https://github.com/mysterywolf/rt_memcpy_cm) |Meco Man|Apache-2.0|rt_memcpy函数的Cortex-M内核汇编加速版|
 
 ## system
 
- | 包名 | 作者  | license   | 备注      |
-| ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
-| [Arm-2D](https://github.com/liuduanfei/Arm-2D) |liuduanfei|Apache-2.0|Arm-2D 图形库。|
-| [cairo](https://github.com/RT-Thread-packages/cairo) |RealThread|LGPL/MPL|适用于多平台的 2D 图形软件包|
-| [CMSIS_5](https://github.com/ARM-software/CMSIS_5) |ARM-software|Apache-2.0|CMSIS-5|
-| [CMSIS_5_AUX](https://github.com/RT-Thread-packages/CMSIS_5_AUX) |RT-Thread-packages|Apache-2.0|CMSIS_5软件包的辅助构建软件包（该软件包不需要用户选择）|
-| [CMSIS_RTOS2](https://github.com/RT-Thread-packages/CMSIS_RTOS2) |RT-Thread-packages|Apache-2.0|RT-Thread的CMSIS-RTOS2标准兼容层|
-| [EV](https://github.com/sogwms/EV) |sogwms|Apache-2.0|高效开发 vehicles(包括无人机) 的框架|
-| [event_recorder](https://github.com/RT-Thread-packages/event_recorder) |armink|Apache-2.0|一款轻量级的事件记录器，支持事件的记录与回放|
-| [fal](https://github.com/RT-Thread-packages/fal) |RealThread| LGPL-2.1|Flash 抽象层的实现，负责管理 Flash 设备和 Flash 分区|
-| [FlashDB](https://github.com/armink/FlashDB) |armink|Apache-2.0|一款支持 KV 数据和时序数据的轻量级数据库|
-| [gui_engine](https://github.com/RT-Thread-packages/gui_engine) |RealThread| LGPL-2.1|来自 RT-Thread 官方的 GUI 引擎|
-| [jffs2](https://github.com/RT-Thread-packages/jffs2) |prife|GPL-2.0|闪存日志型文件系统第 2 版|
-| [littlefs](https://github.com/geniusgogo/littlefs) |geniusgogo|BSD-3-Clause|为微控制器设计的一个小型的且掉电安全的文件系统|
-| [lpm](https://github.com/RT-Thread-packages/lpm) |RealThread|Apache-2.0|逻辑分区管理，负责存储设备管理和分区管理。|
-| [lwext4](https://github.com/mysterywolf/lwext4) |mysterywolf|GPL-2.0|适合微控制器的 ext2 / 3/4文件系统的实现|
-| [mcuboot](https://github.com/iysheng/rt_mcuboot.git) |iysheng|Apache-2.0|一个针对微控制器的涉及 bootloader, flash layout 的通用框架。|
-| [uCOSIII_Wrapper](https://github.com/mysterywolf/RT-Thread-wrapper-of-uCOS-III) |Meco Man|Apache-2.0|RT-Thread操作系统的uCOS-III兼容层：让基于uC/OS-III开发的应用层无感地迁移到RT-Thread操作系统|
-| [uCOSII_Wrapper](https://github.com/mysterywolf/RT-Thread-wrapper-of-uCOS-II) |Meco Man|Apache-2.0|RT-Thread操作系统的uCOS-II兼容层：让基于uC/OS-II开发的应用层无感地迁移到RT-Thread操作系统|
-| [uC_CLK](https://github.com/mysterywolf/uC-Clk-for-RT-Thread) |mysterywolf|Apache-2.0|uC/Clk for RT-Thread|
-| [uC_Common](https://github.com/mysterywolf/uC-Common-for-RT-Thread) |mysterywolf|Apache-2.0|uC/Common for RT-Thread|
-| [uC_CRC](https://github.com/mysterywolf/uC-CRC-for-RT-Thread) |mysterywolf|Apache-2.0|uC/CRC for RT-Thread|
-| [uC_Modbus](https://github.com/mysterywolf/uC-Modbus-for-RT-Thread) |mysterywolf|Apache-2.0|uC/Modbus for RT-Thread|
-| [minIni](https://github.com/hichard/minIni) |hichard|Apache-2.0|minIni 在 RT-Thread 上移植的软件包|
-| [openamp](https://github.com/bigmagic123/openamp.git) |RealThread|LGPL-2.1|RT-Thread OpenAMP软件包|
-| [partition](https://github.com/RT-Thread-packages/partition) |RealThread|LGPL-2.1|一个基于块设备的分区管理软件包|
-| [persimmon](https://github.com/RT-Thread-packages/persimmon) |RealThread|unknown|RT-Thread 的柿饼 UI|
-| [pixman](https://github.com/RT-Thread-packages/pixman) |RealThread|MIT|提供低等级像素控制的库|
-| [plccore](https://github.com/hyafz/plccore) |hyafz|LGPL-2.1|plccore 在 RT-Thread 上移植的软件包|
-| [Ppool](https://github.com/mysterywolf/Ppool) |mysterywolf|LGPL-2.1|基于pthread的线程池库|
-| [qboot](https://github.com/qiyongzhong0/rt-thread-qboot) |qiyongzhong0| LGPL-2.1|qboot ：一个用于快速制作bootloader的组件|
-| [ramdisk](https://github.com/majianjia/ramdisk) |majianjia|Apache-2.0|内存块设备|
-| [rt-robot](https://github.com/RT-Thread-packages/rt-robot) |wuhanstudio|MIT|RT-Thread 机器人平台|
-| [rti](https://github.com/RT-Thread-packages/rti) |RealThread|LGPL-2.1|RT-Thread 展示系统内部运行信息的组件，能够帮助分析系统内部情况|
-| [rt_kprintf_threadsafe](https://github.com/mysterywolf/rt_kprintf_threadsafe) |mysterywolf|Apache-2.0|线程安全版本的rt_kprintf|
-| [rt_vsnprintf_full](https://github.com/mysterywolf/rt_vsnprintf_full) |mysterywolf|Apache-2.0|rt_vsnprintf全功能版本|
-| [sqlite](https://github.com/RT-Thread-packages/SQLite) |RealThread|unknown|SQLite 是一个完备、高度可靠、嵌入型、全功能、公共领域的 SQL 数据库引擎|
-| [syswatch](https://github.com/qiyongzhong0/rt-thread-syswatch) |qiyongzhong0| LGPL-2.1|系统看守：一个用于保障系统长期正常运行的组件|
-| [sys_load_monitor](https://github.com/armink-rtt-pkgs/sys_load_monitor) |armink|Apache-2.0|一款轻量级的系统负荷监视器|
-| [thread_pool](https://github.com/armink-rtt-pkgs/thread_pool) |armink|MIT|基于 RT-Thread 的线程池实现|
-| [TinyUSB](https://github.com/tfx2001/tinyusb) |tfx2001|MIT|用于嵌入式系统的开源跨平台USB协议栈|
-| [tlsf](https://github.com/RT-Thread-packages/tlsf) |namexx|Apache-2.0|TLSF是一个可以预期执行时间、碎片化程度低的动态内存分配算法。|
-| [uffs](https://github.com/RT-Thread-packages/uffs) |prife|LGPL-2|超低功耗的闪存文件系统|
-| [wcwidth](https://github.com/mysterywolf/wcwidth) |mysterywolf|None|wcwidth() 函数软件包|
-| [yaffs2](https://github.com/heyuanjie87/yaffs2_rtt_port) |heyuanjie87|GPL-2.0|yaffs2 移植到RT-Thread|
+ |forks|stars| 包名 | 作者  | license   | 备注      |
+| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
+|![GitHub forks](https://img.shields.io/github/forks/liuduanfei/Arm-2D?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/liuduanfei/Arm-2D?style=social)| [Arm-2D](https://github.com/liuduanfei/Arm-2D) |liuduanfei|Apache-2.0|Arm-2D 图形库。|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/cairo?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/cairo?style=social)| [cairo](https://github.com/RT-Thread-packages/cairo) |RealThread|LGPL/MPL|适用于多平台的 2D 图形软件包|
+|![GitHub forks](https://img.shields.io/github/forks/ARM-software/CMSIS_5?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/ARM-software/CMSIS_5?style=social)| [CMSIS_5](https://github.com/ARM-software/CMSIS_5) |ARM-software|Apache-2.0|CMSIS-5|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/CMSIS_5_AUX?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/CMSIS_5_AUX?style=social)| [CMSIS_5_AUX](https://github.com/RT-Thread-packages/CMSIS_5_AUX) |RT-Thread-packages|Apache-2.0|CMSIS_5软件包的辅助构建软件包（该软件包不需要用户选择）|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/CMSIS_RTOS2?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/CMSIS_RTOS2?style=social)| [CMSIS_RTOS2](https://github.com/RT-Thread-packages/CMSIS_RTOS2) |RT-Thread-packages|Apache-2.0|RT-Thread的CMSIS-RTOS2标准兼容层|
+|![GitHub forks](https://img.shields.io/github/forks/sogwms/EV?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/sogwms/EV?style=social)| [EV](https://github.com/sogwms/EV) |sogwms|Apache-2.0|高效开发 vehicles(包括无人机) 的框架|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/event_recorder?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/event_recorder?style=social)| [event_recorder](https://github.com/RT-Thread-packages/event_recorder) |armink|Apache-2.0|一款轻量级的事件记录器，支持事件的记录与回放|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/fal?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/fal?style=social)| [fal](https://github.com/RT-Thread-packages/fal) |RealThread| LGPL-2.1|Flash 抽象层的实现，负责管理 Flash 设备和 Flash 分区|
+|![GitHub forks](https://img.shields.io/github/forks/armink/FlashDB?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/armink/FlashDB?style=social)| [FlashDB](https://github.com/armink/FlashDB) |armink|Apache-2.0|一款支持 KV 数据和时序数据的轻量级数据库|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/gui_engine?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/gui_engine?style=social)| [gui_engine](https://github.com/RT-Thread-packages/gui_engine) |RealThread| LGPL-2.1|来自 RT-Thread 官方的 GUI 引擎|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/jffs2?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/jffs2?style=social)| [jffs2](https://github.com/RT-Thread-packages/jffs2) |prife|GPL-2.0|闪存日志型文件系统第 2 版|
+|![GitHub forks](https://img.shields.io/github/forks/geniusgogo/littlefs?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/geniusgogo/littlefs?style=social)| [littlefs](https://github.com/geniusgogo/littlefs) |geniusgogo|BSD-3-Clause|为微控制器设计的一个小型的且掉电安全的文件系统|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/lpm?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/lpm?style=social)| [lpm](https://github.com/RT-Thread-packages/lpm) |RealThread|Apache-2.0|逻辑分区管理，负责存储设备管理和分区管理。|
+|![GitHub forks](https://img.shields.io/github/forks/mysterywolf/lwext4?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/mysterywolf/lwext4?style=social)| [lwext4](https://github.com/mysterywolf/lwext4) |Meco Man|GPL-2.0|适合微控制器的 ext2 / 3/4文件系统的实现|
+|![GitHub forks](https://img.shields.io/github/forks/iysheng/rt_mcuboot.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/iysheng/rt_mcuboot.git?style=social)| [mcuboot](https://github.com/iysheng/rt_mcuboot.git) |iysheng|Apache-2.0|一个针对微控制器的涉及 bootloader, flash layout 的通用框架。|
+|![GitHub forks](https://img.shields.io/github/forks/mysterywolf/RT-Thread-wrapper-of-uCOS-III?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/mysterywolf/RT-Thread-wrapper-of-uCOS-III?style=social)| [uCOSIII_Wrapper](https://github.com/mysterywolf/RT-Thread-wrapper-of-uCOS-III) |Meco Man|Apache-2.0|RT-Thread操作系统的uCOS-III兼容层：让基于uC/OS-III开发的应用层无感地迁移到RT-Thread操作系统|
+|![GitHub forks](https://img.shields.io/github/forks/mysterywolf/RT-Thread-wrapper-of-uCOS-II?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/mysterywolf/RT-Thread-wrapper-of-uCOS-II?style=social)| [uCOSII_Wrapper](https://github.com/mysterywolf/RT-Thread-wrapper-of-uCOS-II) |Meco Man|Apache-2.0|RT-Thread操作系统的uCOS-II兼容层：让基于uC/OS-II开发的应用层无感地迁移到RT-Thread操作系统|
+|![GitHub forks](https://img.shields.io/github/forks/mysterywolf/uC-Clk-for-RT-Thread?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/mysterywolf/uC-Clk-for-RT-Thread?style=social)| [uC_CLK](https://github.com/mysterywolf/uC-Clk-for-RT-Thread) |Meco Man|Apache-2.0|uC/Clk for RT-Thread|
+|![GitHub forks](https://img.shields.io/github/forks/mysterywolf/uC-Common-for-RT-Thread?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/mysterywolf/uC-Common-for-RT-Thread?style=social)| [uC_Common](https://github.com/mysterywolf/uC-Common-for-RT-Thread) |Meco Man|Apache-2.0|uC/Common for RT-Thread|
+|![GitHub forks](https://img.shields.io/github/forks/mysterywolf/uC-CRC-for-RT-Thread?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/mysterywolf/uC-CRC-for-RT-Thread?style=social)| [uC_CRC](https://github.com/mysterywolf/uC-CRC-for-RT-Thread) |Meco Man|Apache-2.0|uC/CRC for RT-Thread|
+|![GitHub forks](https://img.shields.io/github/forks/mysterywolf/uC-Modbus-for-RT-Thread?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/mysterywolf/uC-Modbus-for-RT-Thread?style=social)| [uC_Modbus](https://github.com/mysterywolf/uC-Modbus-for-RT-Thread) |Meco Man|Apache-2.0|uC/Modbus for RT-Thread|
+|![GitHub forks](https://img.shields.io/github/forks/hichard/minIni?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/hichard/minIni?style=social)| [minIni](https://github.com/hichard/minIni) |hichard|Apache-2.0|minIni 在 RT-Thread 上移植的软件包|
+|![GitHub forks](https://img.shields.io/github/forks/bigmagic123/openamp.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/bigmagic123/openamp.git?style=social)| [openamp](https://github.com/bigmagic123/openamp.git) |RealThread|LGPL-2.1|RT-Thread OpenAMP软件包|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/partition?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/partition?style=social)| [partition](https://github.com/RT-Thread-packages/partition) |RealThread|LGPL-2.1|一个基于块设备的分区管理软件包|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/persimmon?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/persimmon?style=social)| [persimmon](https://github.com/RT-Thread-packages/persimmon) |RealThread|unknown|RT-Thread 的柿饼 UI|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/pixman?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/pixman?style=social)| [pixman](https://github.com/RT-Thread-packages/pixman) |RealThread|MIT|提供低等级像素控制的库|
+|![GitHub forks](https://img.shields.io/github/forks/hyafz/plccore?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/hyafz/plccore?style=social)| [plccore](https://github.com/hyafz/plccore) |hyafz|LGPL-2.1|plccore 在 RT-Thread 上移植的软件包|
+|![GitHub forks](https://img.shields.io/github/forks/mysterywolf/Ppool?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/mysterywolf/Ppool?style=social)| [Ppool](https://github.com/mysterywolf/Ppool) |Meco Man|LGPL-2.1|基于pthread的线程池库|
+|![GitHub forks](https://img.shields.io/github/forks/qiyongzhong0/rt-thread-qboot?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/qiyongzhong0/rt-thread-qboot?style=social)| [qboot](https://github.com/qiyongzhong0/rt-thread-qboot) |qiyongzhong0| LGPL-2.1|qboot ：一个用于快速制作bootloader的组件|
+|![GitHub forks](https://img.shields.io/github/forks/majianjia/ramdisk?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/majianjia/ramdisk?style=social)| [ramdisk](https://github.com/majianjia/ramdisk) |majianjia|Apache-2.0|内存块设备|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/rt-robot?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/rt-robot?style=social)| [rt-robot](https://github.com/RT-Thread-packages/rt-robot) |wuhanstudio|MIT|RT-Thread 机器人平台|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/rti?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/rti?style=social)| [rti](https://github.com/RT-Thread-packages/rti) |RealThread|LGPL-2.1|RT-Thread 展示系统内部运行信息的组件，能够帮助分析系统内部情况|
+|![GitHub forks](https://img.shields.io/github/forks/mysterywolf/rt_kprintf_threadsafe?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/mysterywolf/rt_kprintf_threadsafe?style=social)| [rt_kprintf_threadsafe](https://github.com/mysterywolf/rt_kprintf_threadsafe) |Meco Man|Apache-2.0|线程安全版本的rt_kprintf|
+|![GitHub forks](https://img.shields.io/github/forks/mysterywolf/rt_vsnprintf_full?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/mysterywolf/rt_vsnprintf_full?style=social)| [rt_vsnprintf_full](https://github.com/mysterywolf/rt_vsnprintf_full) |Meco Man|Apache-2.0|rt_vsnprintf全功能版本|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/SQLite?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/SQLite?style=social)| [sqlite](https://github.com/RT-Thread-packages/SQLite) |RealThread|unknown|SQLite 是一个完备、高度可靠、嵌入型、全功能、公共领域的 SQL 数据库引擎|
+|![GitHub forks](https://img.shields.io/github/forks/qiyongzhong0/rt-thread-syswatch?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/qiyongzhong0/rt-thread-syswatch?style=social)| [syswatch](https://github.com/qiyongzhong0/rt-thread-syswatch) |qiyongzhong0| LGPL-2.1|系统看守：一个用于保障系统长期正常运行的组件|
+|![GitHub forks](https://img.shields.io/github/forks/armink-rtt-pkgs/sys_load_monitor?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/armink-rtt-pkgs/sys_load_monitor?style=social)| [sys_load_monitor](https://github.com/armink-rtt-pkgs/sys_load_monitor) |armink|Apache-2.0|一款轻量级的系统负荷监视器|
+|![GitHub forks](https://img.shields.io/github/forks/armink-rtt-pkgs/thread_pool?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/armink-rtt-pkgs/thread_pool?style=social)| [thread_pool](https://github.com/armink-rtt-pkgs/thread_pool) |armink|MIT|基于 RT-Thread 的线程池实现|
+|![GitHub forks](https://img.shields.io/github/forks/tfx2001/tinyusb?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/tfx2001/tinyusb?style=social)| [TinyUSB](https://github.com/tfx2001/tinyusb) |tfx2001|MIT|用于嵌入式系统的开源跨平台USB协议栈|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/tlsf?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/tlsf?style=social)| [tlsf](https://github.com/RT-Thread-packages/tlsf) |namexx|Apache-2.0|TLSF是一个可以预期执行时间、碎片化程度低的动态内存分配算法。|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/uffs?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/uffs?style=social)| [uffs](https://github.com/RT-Thread-packages/uffs) |prife|LGPL-2|超低功耗的闪存文件系统|
+|![GitHub forks](https://img.shields.io/github/forks/sakumisu/usb_stack?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/sakumisu/usb_stack?style=social)| [usb_stack](https://github.com/sakumisu/usb_stack) |sakumisu|Apache-2.0|小而美、可移植性高的 USB 主从协议栈。|
+|![GitHub forks](https://img.shields.io/github/forks/mysterywolf/wcwidth?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/mysterywolf/wcwidth?style=social)| [wcwidth](https://github.com/mysterywolf/wcwidth) |Meco Man|None|wcwidth() 函数软件包|
+|![GitHub forks](https://img.shields.io/github/forks/heyuanjie87/yaffs2_rtt_port?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/heyuanjie87/yaffs2_rtt_port?style=social)| [yaffs2](https://github.com/heyuanjie87/yaffs2_rtt_port) |heyuanjie87|GPL-2.0|yaffs2 移植到RT-Thread|
 
 ## tools
 
- | 包名 | 作者  | license   | 备注      |
-| ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
-| [adbd](https://github.com/heyuanjie87/adbd) |heyuanjie87|Apache-2.0|在 RT-Thread 上实现的 Android ADB daemon|
-| [anv_bench](https://github.com/wuhanstudio/anv_bench) |wuhanstudio|MIT|函数性能快速测试软件包|
-| [anv_memleak](https://github.com/wuhanstudio/anv_memleak) |wuhanstudio|MIT|检查是否存在内存泄漏|
-| [anv_testsuit](https://github.com/wuhanstudio/anv_testsuit) |wuhanstudio|MIT|单元测试框架|
-| [anv_trace](https://github.com/wuhanstudio/anv_trace) |wuhanstudio|MIT|帮助跟踪代码执行过程|
-| [bs8116a](https://github.com/illusionlee/bs8116a.git) |illusionlee|MIT|合泰的bs8116a-3的触摸按键芯片|
-| [ChineseFontLibrary](https://github.com/lxzzzzzxl/Chinese_font_library) |lxzzzzzxl|LGPL-2.1|rt-thread中文字库软件包|
-| [CmBacktrace](https://github.com/armink-rtt-pkgs/CmBacktrace) |armink|MIT|ARM Cortex-M 系列 MCU 错误追踪库|
-| [CoreMark](https://github.com/wuhanstudio/coremark) |wuhanstudio|apache|EEMBC 的单片机性能测试小工具|
-| [cpu_usage](https://github.com/enkiller/cpu_usage) |enkiller|Apache-2.0|CPUU: CPU 使用率统计小工具。|
-| [devmem](https://github.com/luanxg/devmem) |luanxueguang|GPL-2.0|读写内存/寄存器的工具|
-| [Dhrystone](https://github.com/wuhanstudio/dhrystone) |wuhanstudio|apache|Dhrystone 单片机性能测试小工具|
-| [EasyFlash](https://github.com/armink-rtt-pkgs/EasyFlash) |armink|MIT|轻量级嵌入式 Flash 存储器库，让 Flash 成为小型 KV 数据库|
-| [EasyLogger](https://github.com/armink-rtt-pkgs/EasyLogger) |armink|MIT|一款超轻量级(ROM<1.6K, RAM<0.3k)、高性能的 C/C++ 日志库|
-| [fdt](https://github.com/RT-Thread-packages/fdt) |RealThread|LGPL-3.0|RT-Thread 设备树工具包|
-| [gan_zhi](https://github.com/XYX12306/gan_zhi.git) |XYX12306|MIT|是一个根据公历日期、时得到相应的天干地支的工具软件包。|
-| [gbk2utf8](https://github.com/Ghazigq/gbk2utf8) |Ghazigq|Apache-2.0|GBK与UTF8编码之间的转换。|
-| [gps_rmc](https://github.com/maplerian/gps_rmc) |maplerian|Apache-2.0|用于解析GPS模块的 $XXRMC 类型数据|
-| [kdb](https://github.com/RT-Thread-packages/kdb) |enkiller|Apache-2.0|内核检测漏洞工具|
-| [logmgr](https://github.com/RT-Thread-packages/logmgr.git) |ChenYong|Apache-2.0|logmgr: 日志管理系统功能支持|
-| [lunar_calendar](https://github.com/illusionlee/lunar_calendar.git) |illusionlee|MIT|将阳历日期转换为阴历的工具。|
-| [lwlog](https://github.com/wuhanstudio/lwlog) |wuhanstudio|MIT|lwlog:单文件日志打印库|
-| [lwrb2rtt](https://github.com/Jackistang/lwrb2rtt) |Jackistang|MIT|轻量级的 FIFO 环形缓冲区|
-| [mbedtls_bench](https://github.com/xfan1024/rttpkg-mbedtls_bench) |xiaofan|MIT|mbedtls 性能测试|
-| [MemoryPerf](https://github.com/SummerLife/MemoryPerf) |我夏了夏天|MIT|ARM CPU 内存性能测试。|
-| [mem_sandbox](https://github.com/mysterywolf/mem_sandbox) |mysterywolf|MIT|RT-Thread 内存隔离沙箱|
-| [Micro-XRCE-DDS-Client](https://github.com/JcZou/Micro-XRCE-DDS-Client) |JCZou|Apache-2.0|micro-ros的中间层组件，提供了ros2消息发布/订阅的能力。|
-| [nr_micro_shell](https://github.com/Nrusher/nr_micro_shell) |Nrusher|MIT|轻量的命令行交互工具。|
-| [qrcode](https://github.com/RT-Thread-packages/qrcode) |RealThread|MIT|一个用于将字符串生成二维码的软件包|
-| [rdb](https://github.com/RT-Thread-packages/rdb) |RealThread|GPL-2.0|RT-Thread 调试桥|
-| [regex](https://github.com/thread-liu/tiny-regex-c.git) |thread-liu|Unlicense|一个小巧的 C 语言正则表达式|
-| [SEGGER_RTT](https://github.com/supperthomas/RTTHREAD_SEGGER_TOOL.git) |supperthomas|Apache-2.0|使用JLINK的RTT代替UART console输出|
-| [solar_terms](https://github.com/XYX12306/solar_terms.git) |XYX12306|MIT|是一个根据公历日期判断与二十四节气关系的工具软件包。|
-| [SystemView](https://github.com/RT-Thread-packages/SEGGER_SystemView) |RealThread|unknown|SEGGER 的 SystemView 移植|
-| [ulog_easyflash](https://github.com/armink-rtt-pkgs/ulog_easyflash) |armink|MIT|基于 EasyFlash 的 ulog 插件|
-| [ulog_file](https://github.com/RT-Thread-packages/ulog_file.git) |ChenYong|Apache-2.0|ulog_file: 基于文件系统的 ulog 后端插件。|
-| [uMCN](https://github.com/JcZou/uMCN) |JCZou|Apache-2.0|uMCN是一个基于发布者/订阅者模式的轻量级且功能强大的跨线程/进程通信模块。|
-| [UrlEncode](https://github.com/jch12138/UrlEncode.git) |jch12138|LGPL-2.1|一个简单易用的Url编解码工具|
-| [vconsole](https://github.com/enkiller/vconsole) |enkiller|Apache-2.0|一个虚拟控制台软件包。|
-| [wamr](https://github.com/bytecodealliance/wasm-micro-runtime.git) |alvkeke|Apache-2.0|运行于RT-Thread的WebAssembly Micro Runtime|
+ |forks|stars| 包名 | 作者  | license   | 备注      |
+| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
+|![GitHub forks](https://img.shields.io/github/forks/heyuanjie87/adbd?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/heyuanjie87/adbd?style=social)| [adbd](https://github.com/heyuanjie87/adbd) |heyuanjie87|Apache-2.0|在 RT-Thread 上实现的 Android ADB daemon|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/anv_bench?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/anv_bench?style=social)| [anv_bench](https://github.com/wuhanstudio/anv_bench) |wuhanstudio|MIT|函数性能快速测试软件包|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/anv_memleak?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/anv_memleak?style=social)| [anv_memleak](https://github.com/wuhanstudio/anv_memleak) |wuhanstudio|MIT|检查是否存在内存泄漏|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/anv_testsuit?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/anv_testsuit?style=social)| [anv_testsuit](https://github.com/wuhanstudio/anv_testsuit) |wuhanstudio|MIT|单元测试框架|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/anv_trace?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/anv_trace?style=social)| [anv_trace](https://github.com/wuhanstudio/anv_trace) |wuhanstudio|MIT|帮助跟踪代码执行过程|
+|![GitHub forks](https://img.shields.io/github/forks/illusionlee/bs8116a.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/illusionlee/bs8116a.git?style=social)| [bs8116a](https://github.com/illusionlee/bs8116a.git) |illusionlee|MIT|合泰的bs8116a-3的触摸按键芯片|
+|![GitHub forks](https://img.shields.io/github/forks/lxzzzzzxl/Chinese_font_library?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/lxzzzzzxl/Chinese_font_library?style=social)| [ChineseFontLibrary](https://github.com/lxzzzzzxl/Chinese_font_library) |lxzzzzzxl|LGPL-2.1|rt-thread中文字库软件包|
+|![GitHub forks](https://img.shields.io/github/forks/armink-rtt-pkgs/CmBacktrace?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/armink-rtt-pkgs/CmBacktrace?style=social)| [CmBacktrace](https://github.com/armink-rtt-pkgs/CmBacktrace) |armink|MIT|ARM Cortex-M 系列 MCU 错误追踪库|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/coremark?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/coremark?style=social)| [CoreMark](https://github.com/wuhanstudio/coremark) |wuhanstudio|apache|EEMBC 的单片机性能测试小工具|
+|![GitHub forks](https://img.shields.io/github/forks/enkiller/cpu_usage?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/enkiller/cpu_usage?style=social)| [cpu_usage](https://github.com/enkiller/cpu_usage) |enkiller|Apache-2.0|CPUU: CPU 使用率统计小工具。|
+|![GitHub forks](https://img.shields.io/github/forks/luanxg/devmem?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/luanxg/devmem?style=social)| [devmem](https://github.com/luanxg/devmem) |luanxueguang|GPL-2.0|读写内存/寄存器的工具|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/dhrystone?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/dhrystone?style=social)| [Dhrystone](https://github.com/wuhanstudio/dhrystone) |wuhanstudio|apache|Dhrystone 单片机性能测试小工具|
+|![GitHub forks](https://img.shields.io/github/forks/armink-rtt-pkgs/EasyFlash?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/armink-rtt-pkgs/EasyFlash?style=social)| [EasyFlash](https://github.com/armink-rtt-pkgs/EasyFlash) |armink|MIT|轻量级嵌入式 Flash 存储器库，让 Flash 成为小型 KV 数据库|
+|![GitHub forks](https://img.shields.io/github/forks/armink-rtt-pkgs/EasyLogger?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/armink-rtt-pkgs/EasyLogger?style=social)| [EasyLogger](https://github.com/armink-rtt-pkgs/EasyLogger) |armink|MIT|一款超轻量级(ROM<1.6K, RAM<0.3k)、高性能的 C/C++ 日志库|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/fdt?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/fdt?style=social)| [fdt](https://github.com/RT-Thread-packages/fdt) |RealThread|LGPL-3.0|RT-Thread 设备树工具包|
+|![GitHub forks](https://img.shields.io/github/forks/XYX12306/gan_zhi.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/XYX12306/gan_zhi.git?style=social)| [gan_zhi](https://github.com/XYX12306/gan_zhi.git) |XYX12306|MIT|是一个根据公历日期、时得到相应的天干地支的工具软件包。|
+|![GitHub forks](https://img.shields.io/github/forks/Ghazigq/gbk2utf8?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Ghazigq/gbk2utf8?style=social)| [gbk2utf8](https://github.com/Ghazigq/gbk2utf8) |Ghazigq|Apache-2.0|GBK与UTF8编码之间的转换。|
+|![GitHub forks](https://img.shields.io/github/forks/maplerian/gps_rmc?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/maplerian/gps_rmc?style=social)| [gps_rmc](https://github.com/maplerian/gps_rmc) |maplerian|Apache-2.0|用于解析GPS模块的 $XXRMC 类型数据|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/kdb?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/kdb?style=social)| [kdb](https://github.com/RT-Thread-packages/kdb) |enkiller|Apache-2.0|内核检测漏洞工具|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/logmgr.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/logmgr.git?style=social)| [logmgr](https://github.com/RT-Thread-packages/logmgr.git) |ChenYong|Apache-2.0|logmgr: 日志管理系统功能支持|
+|![GitHub forks](https://img.shields.io/github/forks/illusionlee/lunar_calendar.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/illusionlee/lunar_calendar.git?style=social)| [lunar_calendar](https://github.com/illusionlee/lunar_calendar.git) |illusionlee|MIT|将阳历日期转换为阴历的工具。|
+|![GitHub forks](https://img.shields.io/github/forks/wuhanstudio/lwlog?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/wuhanstudio/lwlog?style=social)| [lwlog](https://github.com/wuhanstudio/lwlog) |wuhanstudio|MIT|lwlog:单文件日志打印库|
+|![GitHub forks](https://img.shields.io/github/forks/Jackistang/lwrb2rtt?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Jackistang/lwrb2rtt?style=social)| [lwrb2rtt](https://github.com/Jackistang/lwrb2rtt) |Jackistang|MIT|轻量级的 FIFO 环形缓冲区|
+|![GitHub forks](https://img.shields.io/github/forks/xfan1024/rttpkg-mbedtls_bench?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/xfan1024/rttpkg-mbedtls_bench?style=social)| [mbedtls_bench](https://github.com/xfan1024/rttpkg-mbedtls_bench) |xiaofan|MIT|mbedtls 性能测试|
+|![GitHub forks](https://img.shields.io/github/forks/SummerLife/MemoryPerf?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/SummerLife/MemoryPerf?style=social)| [MemoryPerf](https://github.com/SummerLife/MemoryPerf) |我夏了夏天|MIT|ARM CPU 内存性能测试。|
+|![GitHub forks](https://img.shields.io/github/forks/mysterywolf/mem_sandbox?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/mysterywolf/mem_sandbox?style=social)| [mem_sandbox](https://github.com/mysterywolf/mem_sandbox) |Meco Man|MIT|RT-Thread 内存隔离沙箱|
+|![GitHub forks](https://img.shields.io/github/forks/JcZou/Micro-XRCE-DDS-Client?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/JcZou/Micro-XRCE-DDS-Client?style=social)| [Micro-XRCE-DDS-Client](https://github.com/JcZou/Micro-XRCE-DDS-Client) |JCZou|Apache-2.0|micro-ros的中间层组件，提供了ros2消息发布/订阅的能力。|
+|![GitHub forks](https://img.shields.io/github/forks/Nrusher/nr_micro_shell?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Nrusher/nr_micro_shell?style=social)| [nr_micro_shell](https://github.com/Nrusher/nr_micro_shell) |Nrusher|MIT|轻量的命令行交互工具。|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/qrcode?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/qrcode?style=social)| [qrcode](https://github.com/RT-Thread-packages/qrcode) |RealThread|MIT|一个用于将字符串生成二维码的软件包|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/rdb?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/rdb?style=social)| [rdb](https://github.com/RT-Thread-packages/rdb) |RealThread|GPL-2.0|RT-Thread 调试桥|
+|![GitHub forks](https://img.shields.io/github/forks/thread-liu/tiny-regex-c.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/thread-liu/tiny-regex-c.git?style=social)| [regex](https://github.com/thread-liu/tiny-regex-c.git) |thread-liu|Unlicense|一个小巧的 C 语言正则表达式|
+|![GitHub forks](https://img.shields.io/github/forks/supperthomas/RTTHREAD_SEGGER_TOOL.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/supperthomas/RTTHREAD_SEGGER_TOOL.git?style=social)| [SEGGER_RTT](https://github.com/supperthomas/RTTHREAD_SEGGER_TOOL.git) |supperthomas|Apache-2.0|使用JLINK的RTT代替UART console输出|
+|![GitHub forks](https://img.shields.io/github/forks/XYX12306/solar_terms.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/XYX12306/solar_terms.git?style=social)| [solar_terms](https://github.com/XYX12306/solar_terms.git) |XYX12306|MIT|是一个根据公历日期判断与二十四节气关系的工具软件包。|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/SEGGER_SystemView?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/SEGGER_SystemView?style=social)| [SystemView](https://github.com/RT-Thread-packages/SEGGER_SystemView) |RealThread|unknown|SEGGER 的 SystemView 移植|
+|![GitHub forks](https://img.shields.io/github/forks/armink-rtt-pkgs/ulog_easyflash?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/armink-rtt-pkgs/ulog_easyflash?style=social)| [ulog_easyflash](https://github.com/armink-rtt-pkgs/ulog_easyflash) |armink|MIT|基于 EasyFlash 的 ulog 插件|
+|![GitHub forks](https://img.shields.io/github/forks/RT-Thread-packages/ulog_file.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread-packages/ulog_file.git?style=social)| [ulog_file](https://github.com/RT-Thread-packages/ulog_file.git) |ChenYong|Apache-2.0|ulog_file: 基于文件系统的 ulog 后端插件。|
+|![GitHub forks](https://img.shields.io/github/forks/JcZou/uMCN?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/JcZou/uMCN?style=social)| [uMCN](https://github.com/JcZou/uMCN) |JCZou|Apache-2.0|uMCN是一个基于发布者/订阅者模式的轻量级且功能强大的跨线程/进程通信模块。|
+|![GitHub forks](https://img.shields.io/github/forks/jch12138/UrlEncode.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/jch12138/UrlEncode.git?style=social)| [UrlEncode](https://github.com/jch12138/UrlEncode.git) |jch12138|LGPL-2.1|一个简单易用的Url编解码工具|
+|![GitHub forks](https://img.shields.io/github/forks/enkiller/vconsole?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/enkiller/vconsole?style=social)| [vconsole](https://github.com/enkiller/vconsole) |enkiller|Apache-2.0|一个虚拟控制台软件包。|
+|![GitHub forks](https://img.shields.io/github/forks/bytecodealliance/wasm-micro-runtime.git?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/bytecodealliance/wasm-micro-runtime.git?style=social)| [wamr](https://github.com/bytecodealliance/wasm-micro-runtime.git) |alvkeke|Apache-2.0|运行于RT-Thread的WebAssembly Micro Runtime|
