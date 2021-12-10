@@ -19,7 +19,7 @@ package_list = ['iot', 'ai', 'language', 'misc', 'multimedia',
 
 filename = 'rtthread_softlist.md'
 with open(filename, 'w', encoding='utf-8') as file_object:
-    file_object.write("# RTTHREAD 软件包目录 \r\n")
+    file_object.write("#RTTHREAD software package list\r\n")
     for root, dirs, files in os.walk("packages"):
         for f in files:
             curren_name = os.path.basename(
@@ -30,7 +30,7 @@ with open(filename, 'w', encoding='utf-8') as file_object:
                         group_name = curren_name
                         file_object.write("\r\n")
                         file_object.write("## " + group_name + "\n")
-                        file_object.write("\r\n |forks|stars| 包名 | 作者  | license   | 备注      |"+"\n" +
+                        file_object.write("\r\n |forks|stars| name|author  | license   |note|"+"\n" +
                                           "| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |" + "\n")
                 package_name = os.path.basename(os.path.join(root))
                 # print(os.path.basename(os.path.join(root)))      ##package name
@@ -38,7 +38,7 @@ with open(filename, 'w', encoding='utf-8') as file_object:
                 with open(json_path, 'r', encoding='utf-8') as json_file:
                     json_dict = json.load(json_file, encoding="utf-8")
                     for dict in json_dict.items():
-                        if dict[0] == "description_zh":
+                        if dict[0] == "description":
                             # json_list.append(dict[1])
                             # print(dict[1])
                             package_description = dict[1]
