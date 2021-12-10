@@ -60,7 +60,7 @@ with open(filename, 'w', encoding='utf-8') as file_object:
                             github_name = eval(repr(github_repo).replace('.', '/'))
                             strlist =github_name.split('/')
                             
-                            print(' '+github_repo+'{'+strlist[0]+'},{'+strlist[1]+'}\r\n')
+                            #print(' '+github_repo+'{'+strlist[0]+'},{'+strlist[1]+'}\r\n')
                             # json_list.append(dict[1])
                 file_object.write("|![GitHub forks](https://img.shields.io/github/forks/"+strlist[0]+"/"+strlist[1]+"?style=plastic)|![GitHub Repo stars](https://img.shields.io/github/stars/"+strlist[0]+"/"+strlist[1]+"?style=social)| ["+package_name + "](" + github_link + ") |" +
                                   package_json_name+"|"+package_license+"|"+package_description + "|\n")
