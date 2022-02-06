@@ -40,6 +40,7 @@
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/Jackistang/HCI-Middleware)| [hm](https://github.com/Jackistang/HCI-Middleware) |一个通用的蓝牙 HCI 传输层|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/ali-iotkit)| [ali-iotkit](https://github.com/RT-Thread-packages/ali-iotkit) |连接阿里 IoT 云平台的软件包|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/azure-iot-sdk)| [azure-iot-sdk](https://github.com/RT-Thread-packages/azure-iot-sdk) |微软 azure 云软件包，支持 MQT|
+|![GitHub pull requests](https://img.shields.io/github/issues-pr/Ezviz-OpenBiz/ez_iot_os)| [ez_iot_os](https://github.com/Ezviz-OpenBiz/ez_iot_os.git) |连接萤石云 IoT 平台的软件包|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/GAgent)| [GAgent](https://github.com/RT-Thread-packages/GAgent) |连接机智云的软件包|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/jpush/JIoT-rtthread-package)| [jiot-c-sdk](https://github.com/jpush/JIoT-rtthread-package.git) |连接极光IoT云的客户端软件包|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/joylink)| [joylink](https://github.com/RT-Thread-packages/joylink) |连接京东小京鱼 IOT 云平台的软件包|
@@ -63,6 +64,7 @@
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/hichard/mymqtt)| [mymqtt](https://github.com/hichard/mymqtt) |Eclipse 开源的 MQTT C/C|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/nanopb)| [nanopb](https://github.com/RT-Thread-packages/nanopb) |Protocol Buffers 解析器|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/netutils)| [netutils](https://github.com/RT-Thread-packages/netutils) |RT-Thread 网络网络小工具集|
+|![GitHub pull requests](https://img.shields.io/github/issues-pr/WKJay/net-server)| [net_server](https://github.com/WKJay/net-server) |TCP/TLS 服务器，支持wolfss|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/nimble)| [NimBLE](https://github.com/RT-Thread-packages/nimble) |Apache 开源蓝牙 5.0 协议栈在|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/ShineRoyal/nmealib)| [nmealib](https://github.com/ShineRoyal/nmealib) |nmealib库在RT-Thread上的|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/nopoll)| [nopoll](https://github.com/RT-Thread-packages/nopoll) |一款 C 实现的开源 WebSocket|
@@ -95,6 +97,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |  ------------------------------------------------------------ |
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/jerryscript)| [jerryscript](https://github.com/RT-Thread-packages/jerryscript) |针对 RT-Thread 的 Jerry|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/liu2guang/Lua2RTT)| [Lua](https://github.com/liu2guang/Lua2RTT) |Lua 在 RT-Thread 上的移植|
+|![GitHub pull requests](https://img.shields.io/github/issues-pr/openLuat/luatos-soc-rtt)| [LuatOS](https://github.com/openLuat/luatos-soc-rtt) |LuatOS : 面向物联网设备的强大嵌|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/micropython)| [micropython](https://github.com/RT-Thread-packages/micropython) |MicroPython 在 RT-Thr|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/pikasTech/pikascript)| [pikascript](https://github.com/pikasTech/pikascript) |极易定制的轻量级python脚本支持工具|
 
@@ -105,14 +108,15 @@
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/sogwms/armv7m_dwt)| [armv7m_dwt](https://github.com/sogwms/armv7m_dwt) |armv7m_dwt 高精度计时与延时|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/gbcwbz/canfestival-rtt)| [CanFestival](https://github.com/gbcwbz/canfestival-rtt) |Canfestival (开源的 CAN|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/haodongnj/Controller)| [Controller](https://github.com/haodongnj/Controller) |比例积分, 比例谐振, 重复控制器库|
-|![GitHub pull requests](https://img.shields.io/github/issues-pr/wuhanstudio/cowsay)| [cowsay](https://github.com/wuhanstudio/cowsay) |linux cowsay 软件包|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/qiyongzhong0/crclib)| [crclib](https://github.com/qiyongzhong0/crclib) |一个包含8位、16位、32位CRC校验计|
+|![GitHub pull requests](https://img.shields.io/github/issues-pr/chenyingchun0312/design_pattern)| [design_pattern](https://github.com/chenyingchun0312/design_pattern) |嵌入式C设计模式实现。|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/xuzhuoyi/DigitalCtrl)| [DigitalCtrl](https://github.com/xuzhuoyi/DigitalCtrl) |数字闭环控制算法库|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/dstr)| [dstr](https://github.com/RT-Thread-packages/dstr) |用 C 编写的动态字符串库|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/mysterywolf/aclock)| [aclock](https://github.com/mysterywolf/aclock) |终端钟表界面|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/mysterywolf/c2048)| [c2048](https://github.com/mysterywolf/c2048) |2048是一款益智类游戏，原版游戏运行在|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/mysterywolf/cal)| [cal](https://github.com/mysterywolf/cal) |终端公历日历|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/wuhanstudio/cmatrix)| [cmatrix](https://github.com/wuhanstudio/cmatrix) |text flying in and o|
+|![GitHub pull requests](https://img.shields.io/github/issues-pr/wuhanstudio/cowsay)| [cowsay](https://github.com/wuhanstudio/cowsay) |linux cowsay 软件包|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/mysterywolf/donut)| [donut](https://github.com/mysterywolf/donut) |使用字符渲染的3D旋转甜甜圈|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/wuhanstudio/sl)| [sl](https://github.com/wuhanstudio/sl) |sl奔跑的小火车命令|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/mysterywolf/snake)| [snake](https://github.com/mysterywolf/snake) |贪吃蛇游戏|
@@ -124,9 +128,8 @@
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/BernardXiong/kendryte-demo)| [kendryte-demo](https://github.com/BernardXiong/kendryte-demo) |Kendryte k210 demo|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/mysterywolf/ki)| [ki](https://github.com/mysterywolf/ki) |ki是一个带有C/C++语法高亮的终端编|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/liu2guang/libcsv)| [libcsv](https://github.com/liu2guang/libcsv) |libcsv是用纯ANSI C89编写的|
-|![GitHub pull requests](https://img.shields.io/github/issues-pr/orange2348/lwgps2rtt)| [lwgps](https://github.com/orange2348/lwgps2rtt) |轻量级GPS NEMA协议解析器|
+|![GitHub pull requests](https://img.shields.io/github/issues-pr/orange2348/lwgps2rtt)| [lwgps](https://github.com/orange2348/lwgps2rtt) |轻量级GPS NMEA协议解析器|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RiceChen/lzma)| [lzma](https://github.com/RiceChen/lzma) |高压缩率的压缩库|
-|![GitHub pull requests](https://img.shields.io/github/issues-pr/wuhanstudio/mcurses)| [mcurses](https://github.com/wuhanstudio/mcurses) |轻量级的 ncurses 控制台绘图库|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/miniLZO)| [miniLZO](https://github.com/RT-Thread-packages/miniLZO) |LZO 是一个实时数据压缩库，而 min|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/mysterywolf/minizip)| [minizip](https://github.com/mysterywolf/minizip) |zip压缩解压库|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/liu2guang/MultiButton)| [MultiButton](https://github.com/liu2guang/MultiButton) |一个小巧易用的事件驱动按钮驱动模块|
@@ -138,13 +141,11 @@
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/network-sample)| [network_samples](https://github.com/RT-Thread-packages/network-sample) |RT-Thread 网络示例|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/peripheral-sample)| [peripheral_samples](https://github.com/RT-Thread-packages/peripheral-sample) |RT-Thread 外设示例|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/redoccheng/state_machine)| [state_machine](https://github.com/redoccheng/state_machine) |一个用C语言实现功能丰富但简单的有限状态|
-|![GitHub pull requests](https://img.shields.io/github/issues-pr/mysterywolf/termbox)| [termbox](https://github.com/mysterywolf/termbox) |轻量TUI图形库|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/XXXXzzzz000/TinyFrame)| [TinyFrame](https://github.com/XXXXzzzz000/TinyFrame) |应用于串口设备（如 UART / RS2|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/wuhanstudio/ukal)| [ukal](https://github.com/wuhanstudio/ukal) |卡尔曼滤波算法|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/aeo123/upacker)| [upacker](https://github.com/aeo123/upacker.git) |串行通信链路协议|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/aeo123/uparam)| [uparam](https://github.com/aeo123/uparam.git) |系统参数读写管理和持久化|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/vi)| [vi](https://github.com/RT-Thread-packages/vi) |vi 编辑器在 RT-Thread 操作|
-|![GitHub pull requests](https://img.shields.io/github/issues-pr/wuhanstudio/vt100)| [vt100](https://github.com/wuhanstudio/vt100) |串口终端绘图库，可以在 msh 下画图|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/zlib)| [zlib](https://github.com/RT-Thread-packages/zlib) |通用数据压缩库|
 
 ## multimedia
@@ -155,6 +156,8 @@
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/liuduanfei/helix)| [helix](https://github.com/liuduanfei/helix) |Helix,mp3 解码库|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/liu2guang/LittlevGL2RTT)| [LittlevGL2RTT](https://github.com/liu2guang/LittlevGL2RTT) |LittlevGL 是基于 RT-Thr|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/lvgl/lvgl)| [LVGL](https://github.com/lvgl/lvgl) |LVGL图形库（官方上游）|
+|![GitHub pull requests](https://img.shields.io/github/issues-pr/mysterywolf/lv_demo_music)| [lv_music_demo](https://github.com/mysterywolf/lv_demo_music) |LVGL的播放器演示示例(RT-Thre|
+|![GitHub pull requests](https://img.shields.io/github/issues-pr/wuhanstudio/mcurses)| [mcurses](https://github.com/wuhanstudio/mcurses) |轻量级的 ncurses 控制台绘图库|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/MrzhangF1ghter/mp3player)| [mp3player](https://github.com/MrzhangF1ghter/mp3player) |一个简易的mp3格式音乐播放器|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/rtoslab/mupdf-rtt)| [mupdf](https://github.com/rtoslab/mupdf-rtt) |轻量级PDF，XPS和电子书查看器|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/wosayttn/NUemWin)| [NUemWin](https://github.com/wosayttn/NUemWin) |NUemWin在RT-Thread上的移|
@@ -162,13 +165,16 @@
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/matrixcascade/PainterEngine)| [PainterEngine](https://github.com/matrixcascade/PainterEngine) |一个由C语言编写的跨平台图形应用框架|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/QPLover/PainterEngine_AUX)| [PainterEngine_AUX](https://github.com/QPLover/PainterEngine_AUX) |PainterEngine在RT-Thr|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/mysterywolf/PDFGen)| [PDFGen](https://github.com/mysterywolf/PDFGen) |PDF文档生成库|
+|![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/qrcode)| [qrcode](https://github.com/RT-Thread-packages/qrcode) |一个用于将字符串生成二维码的软件包|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/loogg/STemWin)| [STemWin](https://github.com/loogg/STemWin) |STemWin在RT-Thread上的移|
+|![GitHub pull requests](https://img.shields.io/github/issues-pr/mysterywolf/termbox)| [termbox](https://github.com/mysterywolf/termbox) |轻量TUI图形库|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/StackRyan/TinyJPEG)| [TinyJPEG](https://github.com/StackRyan/TinyJPEG) |一个轻量的JPEG编码软件包|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/TJpgDec)| [TJpgDec](https://github.com/RT-Thread-packages/TJpgDec) |JPEG 解码库|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/Aladdin-Wang/touchgfx2rtt)| [touchgfx2rtt](https://github.com/Aladdin-Wang/touchgfx2rtt.git) |touchgfx在RT-Thread上的|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/wuhanstudio/rt-u8g2)| [u8g2](https://github.com/wuhanstudio/rt-u8g2) |u8g2 不同种类单色屏驱动在 RT-T|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/olikraus/u8g2)| [u8g2-official](https://github.com/olikraus/u8g2) |u8g2 不同种类单色屏驱动库（上游官方|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/xidongxu/ugui)| [ugui](https://github.com/xidongxu/ugui.git) |开源图形库ugui移植到rtthread|
+|![GitHub pull requests](https://img.shields.io/github/issues-pr/wuhanstudio/vt100)| [vt100](https://github.com/wuhanstudio/vt100) |串口终端绘图库，可以在 msh 下画图|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/wavplayer)| [wavplayer](https://github.com/RT-Thread-packages/wavplayer) |简洁的wav格式的音乐播放器，提供播放和|
 
 ## peripherals
@@ -187,6 +193,7 @@
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/balanceTWK/bouffalolab_sdk)| [bouffalolab_sdk](https://github.com/balanceTWK/bouffalolab_sdk.git) |博流 处理器对应的外设驱动包|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/jiejieTop/rtpkg_button)| [button](https://github.com/jiejieTop/rtpkg_button) |C 实现的按键驱动，支持单击和双击，长按|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/redocCheng/rt_can_ymodem)| [can_ymodem](https://github.com/redocCheng/rt_can_ymodem) |连接can设备和ymodem的驱动包|
+|![GitHub pull requests](https://img.shields.io/github/issues-pr/qingehao/CW2015)| [cw2015](https://github.com/qingehao/CW2015) |锂电池电量计驱动|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/aozima/dm9051)| [dm9051](https://github.com/aozima/dm9051) |DM9051 SPI 接口以太网芯片驱动|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/Sunwancn/rtt-pkgs-easyblink)| [easyblink](https://github.com/Sunwancn/rtt-pkgs-easyblink) |小巧轻便的 LED 控制软件包，可以容易|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/foss-for-synopsys-dwc-arc-processors/embarc_bsp)| [embARC_bsp](https://github.com/foss-for-synopsys-dwc-arc-processors/embarc_bsp) |Synopsys ARC 处理器 板级支|
@@ -201,6 +208,7 @@
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/luhuadong/rtt-littled)| [littled](https://github.com/luhuadong/rtt-littled) |littled软件包: Littled |
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/guoweilkd/lkdGui)| [lkdGui](https://github.com/guoweilkd/lkdGui) |lkdGui是一款为单色显示屏制作的图形|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/Forest-Rain/lora-gw-driver-lib)| [lora_gw_driver_lib](https://github.com/Forest-Rain/lora-gw-driver-lib) |LoRa网关芯片(SX130x)驱动|
+|![GitHub pull requests](https://img.shields.io/github/issues-pr/Forest-Rain/lora-modem-driver)| [lora_modem_driver](https://github.com/Forest-Rain/lora-modem-driver) |lora_modem_driver是lo|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/Forest-Rain/lora-radio-driver)| [lora_radio_driver](https://github.com/Forest-Rain/lora-radio-driver) |lora芯片(SX126x\SX127x|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/Ghazigq/ly68l6400)| [ly68l6400](https://github.com/Ghazigq/ly68l6400) |ly68l6400芯片的驱动|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/aeo123/MAX17048)| [max17048](https://github.com/aeo123/MAX17048.git) |电池监测芯片|
@@ -229,6 +237,7 @@
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/flyingcys/realtek_ameba)| [realtek_ameba](https://github.com/flyingcys/realtek_ameba) |realtek 的 ameba 软件包在|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/wuhanstudio/rt-rosserial)| [rosserial](https://github.com/wuhanstudio/rt-rosserial) |机器人操作系统(ROS1) 软件包 ro|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/wuhanstudio/rplidar)| [rplidar](https://github.com/wuhanstudio/rplidar) |RPLIDAR: 适用于机器人室内建图的|
+|![GitHub pull requests](https://img.shields.io/github/issues-pr/diskwu/RTTHREAD_RS232)| [rs232](https://github.com/diskwu/RTTHREAD_RS232) |rs232驱动包。|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/qiyongzhong0/rt-thread-rs485)| [rs485](https://github.com/qiyongzhong0/rt-thread-rs485) |rs485驱动包|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/Prry/rtt-ds3231)| [ds3231](https://github.com/Prry/rtt-ds3231) |ds3231 外置RTC驱动|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/Prry/rtt-rx8900)| [rx8900](https://github.com/Prry/rtt-rx8900) |rx8900 外置RTC驱动，支持实时时|
@@ -258,6 +267,7 @@
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/hts221)| [hts221](https://github.com/RT-Thread-packages/hts221) |HTS221 传感器驱动包，支持：温度，|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/xupenghu/ina226)| [ina226](https://github.com/xupenghu/ina226.git) |ina226 软件包|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/xupenghu/ina260)| [ina260](https://github.com/xupenghu/ina260.git) |ina260 软件包|
+|![GitHub pull requests](https://img.shields.io/github/issues-pr/ShermanShao/isl29035)| [isl29035](https://github.com/ShermanShao/isl29035) |Renesas 环境光线传感器 isl2|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/StackRyan/lis2dh12)| [lis2dh12](https://github.com/StackRyan/lis2dh12.git) | LIS2DH12 传感器驱动包，支持：|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/lps22hb)| [lps22hb](https://github.com/RT-Thread-packages/lps22hb) |LPS22HB 气压传感器的驱动包|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/lsm303agr)| [lsm303agr](https://github.com/RT-Thread-packages/lsm303agr) |这是 LSM303AGR 传感器驱动包，|
@@ -267,6 +277,7 @@
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/SimpleInit/max31865)| [max31865](https://github.com/SimpleInit/max31865) |数字温度传感器 max31865 的软件|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/JonasWen/max6675)| [max6675](https://github.com/JonasWen/max6675) |数字温度传感器 max6675 的软件包|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/xupenghu/mlx90632)| [mlx90632](https://github.com/xupenghu/mlx90632.git) |mlx90632 软件包|
+|![GitHub pull requests](https://img.shields.io/github/issues-pr/mumuge1/mmc3680kj)| [mmc3680kj](https://github.com/mumuge1/mmc3680kj) |mmc3680kj的驱动|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/mpu-6xxx)| [mpu6xxx](https://github.com/RT-Thread-packages/mpu-6xxx) |兼容 mpu6000, mpu6050,|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/sogwms/ms5611)| [ms5611](https://github.com/sogwms/ms5611) |数字气压传感器 MS5611 驱动软件包|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/schuck-wang/RTThread-MS5805)| [ms5805](https://github.com/schuck-wang/RTThread-MS5805) |数字气压传感器 MS5805 驱动软件包|
@@ -298,6 +309,7 @@
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RiceChen/gt911)| [gt911](https://github.com/RiceChen/gt911) |gt911 驱动。|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/gt9147)| [gt9147](https://github.com/RT-Thread-packages/gt9147) |这是 GT9147 触摸芯片的驱动包|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/lilisheng411527/gt917s)| [gt917s](https://github.com/lilisheng411527/gt917s.git) | gt917s 驱动|
+|![GitHub pull requests](https://img.shields.io/github/issues-pr/LeeChunHei/xpt2046_touch_rtt)| [xpt2046](https://github.com/LeeChunHei/xpt2046_touch_rtt) |xpt2046 電阻觸摸屏驅動软件包|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/vdevice)| [vdevice](https://github.com/RT-Thread-packages/vdevice) |适配于rt-thread device框|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/vsensor)| [vsensor](https://github.com/RT-Thread-packages/vsensor) |虚拟传感器设备|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/MrMichael/wk2124)| [wk2124](https://github.com/MrMichael/wk2124) |wk2124 spi转四串口芯片的驱动库|
@@ -337,7 +349,7 @@
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/jffs2)| [jffs2](https://github.com/RT-Thread-packages/jffs2) |闪存日志型文件系统第 2 版|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/geniusgogo/littlefs)| [littlefs](https://github.com/geniusgogo/littlefs) |为微控制器设计的一个小型的且掉电安全的文|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/lpm)| [lpm](https://github.com/RT-Thread-packages/lpm) |逻辑分区管理，负责存储设备管理和分区管理|
-|![GitHub pull requests](https://img.shields.io/github/issues-pr/mysterywolf/lwext4)| [lwext4](https://github.com/mysterywolf/lwext4) |适合微控制器的 ext2 / 3/4文件|
+|![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/lwext4)| [lwext4](https://github.com/RT-Thread-packages/lwext4) |适合微控制器的 ext2 / 3/4文件|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/iysheng/rt_mcuboot)| [mcuboot](https://github.com/iysheng/rt_mcuboot.git) |一个针对微控制器的涉及 bootload|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/mysterywolf/RT-Thread-wrapper-of-uCOS-III)| [uCOSIII_Wrapper](https://github.com/mysterywolf/RT-Thread-wrapper-of-uCOS-III) |RT-Thread操作系统的uCOS-I|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/mysterywolf/RT-Thread-wrapper-of-uCOS-II)| [uCOSII_Wrapper](https://github.com/mysterywolf/RT-Thread-wrapper-of-uCOS-II) |RT-Thread操作系统的uCOS-I|
@@ -351,20 +363,24 @@
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/persimmon)| [persimmon](https://github.com/RT-Thread-packages/persimmon) |RT-Thread 的柿饼 UI|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/pixman)| [pixman](https://github.com/RT-Thread-packages/pixman) |提供低等级像素控制的库|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/hyafz/plccore)| [plccore](https://github.com/hyafz/plccore) |plccore 在 RT-Thread |
+|![GitHub pull requests](https://img.shields.io/github/issues-pr/mysterywolf/getline)| [getline](https://github.com/mysterywolf/getline) |getline/getdelim for|
+|![GitHub pull requests](https://img.shields.io/github/issues-pr/mysterywolf/itoa)| [itoa](https://github.com/mysterywolf/itoa) |itoa家族函数（非POSIX标准）|
+|![GitHub pull requests](https://img.shields.io/github/issues-pr/mysterywolf/strings)| [strings](https://github.com/mysterywolf/strings) |<string.h> 扩展 POSIX.|
+|![GitHub pull requests](https://img.shields.io/github/issues-pr/mysterywolf/wcwidth)| [wcwidth](https://github.com/mysterywolf/wcwidth) |wcwidth for RT-Threa|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/mysterywolf/Ppool)| [Ppool](https://github.com/mysterywolf/Ppool) |基于pthread的线程池库|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/qiyongzhong0/rt-thread-qboot)| [qboot](https://github.com/qiyongzhong0/rt-thread-qboot) |qboot ：一个用于快速制作bootl|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/majianjia/ramdisk)| [ramdisk](https://github.com/majianjia/ramdisk) |内存块设备|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/rt-robot)| [rt-robot](https://github.com/RT-Thread-packages/rt-robot) |RT-Thread 机器人平台|
+|![GitHub pull requests](https://img.shields.io/github/issues-pr/mysterywolf/RTduino)| [RTduino](https://github.com/mysterywolf/RTduino) |Arduino生态兼容层|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/rti)| [rti](https://github.com/RT-Thread-packages/rti) |RT-Thread 展示系统内部运行信息|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/SQLite)| [sqlite](https://github.com/RT-Thread-packages/SQLite) |SQLite 是一个完备、高度可靠、嵌入|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/qiyongzhong0/rt-thread-syswatch)| [syswatch](https://github.com/qiyongzhong0/rt-thread-syswatch) |系统看守：一个用于保障系统长期正常运行的|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/armink-rtt-pkgs/sys_load_monitor)| [sys_load_monitor](https://github.com/armink-rtt-pkgs/sys_load_monitor) |一款轻量级的系统负荷监视器|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/armink-rtt-pkgs/thread_pool)| [thread_pool](https://github.com/armink-rtt-pkgs/thread_pool) |基于 RT-Thread 的线程池实现|
-|![GitHub pull requests](https://img.shields.io/github/issues-pr/tfx2001/tinyusb)| [TinyUSB](https://github.com/tfx2001/tinyusb) |用于嵌入式系统的开源跨平台USB协议栈|
+|![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/tinyusb)| [TinyUSB](https://github.com/RT-Thread-packages/tinyusb) |用于嵌入式系统的开源跨平台USB协议栈|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/tlsf)| [tlsf](https://github.com/RT-Thread-packages/tlsf) |TLSF是一个可以预期执行时间、碎片化程|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/uffs)| [uffs](https://github.com/RT-Thread-packages/uffs) |超低功耗的闪存文件系统|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/sakumisu/usb_stack)| [usb_stack](https://github.com/sakumisu/usb_stack) |小而美、可移植性高的 USB 主从协议栈|
-|![GitHub pull requests](https://img.shields.io/github/issues-pr/mysterywolf/wcwidth)| [wcwidth](https://github.com/mysterywolf/wcwidth) |wcwidth() 函数软件包|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/heyuanjie87/yaffs2_rtt_port)| [yaffs2](https://github.com/heyuanjie87/yaffs2_rtt_port) |yaffs2 移植到RT-Thread|
 
 ## tools
@@ -399,7 +415,6 @@
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/mysterywolf/mem_sandbox)| [mem_sandbox](https://github.com/mysterywolf/mem_sandbox) |RT-Thread 内存隔离沙箱|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/JcZou/Micro-XRCE-DDS-Client)| [Micro-XRCE-DDS-Client](https://github.com/JcZou/Micro-XRCE-DDS-Client) |micro-ros的中间层组件，提供了r|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/Nrusher/nr_micro_shell)| [nr_micro_shell](https://github.com/Nrusher/nr_micro_shell) |轻量的命令行交互工具。|
-|![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/qrcode)| [qrcode](https://github.com/RT-Thread-packages/qrcode) |一个用于将字符串生成二维码的软件包|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/rdb)| [rdb](https://github.com/RT-Thread-packages/rdb) |RT-Thread 调试桥|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/thread-liu/tiny-regex-c)| [regex](https://github.com/thread-liu/tiny-regex-c.git) |一个小巧的 C 语言正则表达式|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/supperthomas/RTTHREAD_SEGGER_TOOL)| [SEGGER_RTT](https://github.com/supperthomas/RTTHREAD_SEGGER_TOOL.git) |使用JLINK的RTT代替UART co|
