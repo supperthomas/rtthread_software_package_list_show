@@ -54,11 +54,13 @@
 | [libmodbus](https://github.com/loogg/libmodbus) |malongwei|LGPL-2.1|libmodbus在RT-Thread上的移植|
 | [librws](https://github.com/RT-Thread-packages/librws) |RealThread|MIT|小型、跨平台websocket客户端C库。|
 | [ljson](https://github.com/qiaoqidui/ljson) |qiaoqidui|unknown|ANSI-C 标准的 JSON 解析器|
+| [llsync_sdk_adapter](https://github.com/supperthomas/LLSync_sdk_adapter) |supperthomas|Apache-2.0|腾讯llsync sdk ble sdk sample|
 | [lorawan_driver](https://github.com/zyk6271/LoRaWAN_Driver) |zyk6271|Apache-2.0|将LoRaWAN协议栈运行在RT-THREAD系统上|
 | [lorawan_ed_stack](https://github.com/Forest-Rain/lorawan-ed-stack) |Forest-Rain|Apache-2.0|lorawan_ed_stack是LoRaWAN终端设备协议栈的实现.|
 | [lora_pkt_fwd](https://github.com/Forest-Rain/lora-pkt-fwd) |forest-rain|Apache-2.0|lora_pkt_fwd实现基于Semtech GWMP协议的LoRaWAN协议包转发|
 | [lora_pkt_sniffer](https://github.com/Forest-Rain/lora-pkt-sniffer) |forest-rain|Apache-2.0|lora_pkt_sniffer是一个lora(wan)数据包的抓包工具|
 | [lssdp](https://github.com/RT-Thread-packages/lssdp.git) |RealThread|MIT|在 RT-Thread 上实现的 lssdp 协议，可以用于局域网设备自动发现|
+| [lwip](https://github.com/RT-Thread-packages/lwip) |RT-Thread-packages|BSD|LwIP上游同步|
 | [mavlink](https://github.com/sogwms/mavlink) |sogwms|Apache-2.0|一非常轻量级的消息传输协议|
 | [mongoose](https://github.com/armink-rtt-pkgs/mongoose) |armink|GPL-2.0|一款嵌入式 Web 服务器库|
 | [mymqtt](https://github.com/hichard/mymqtt) |hichard|EPL-1.0|Eclipse 开源的 MQTT C/C++ 客户端的一种高效、稳定的实现。|
@@ -124,12 +126,14 @@
 | [threes](https://github.com/mysterywolf/threes) |Meco Man|MIT|threes是一款在2014年很火的益智类游戏，原版游戏运行在苹果手机上|
 | [fastlz](https://github.com/RT-Thread-packages/fastlz) |RealThread|unknown|一款极速的压缩库|
 | [FlexibleButton](https://github.com/murphyzhao/FlexibleButton) |MurphyZhao|Apache License 2.0|小巧灵活的按键驱动程序（事件驱动、无限按键数量、可用中断模式）|
+| [heatshrink](https://github.com/liukangcc/heatshrink.git) |liukangcc|ISC License|用于嵌入式实时系统的数据压缩/解压缩库|
 | [hello](https://github.com/RT-Thread-packages/hello) |RealThread|LGPL-2.1|RT-Thread 软件包示例|
 | [kendryte-demo](https://github.com/BernardXiong/kendryte-demo) |BernardXiong|Apache-2.0|Kendryte k210 demo|
 | [ki](https://github.com/mysterywolf/ki) |Meco Man|GPL-2.0|ki是一个带有C/C++语法高亮的终端编辑器|
 | [libcsv](https://github.com/liu2guang/libcsv) |liu2guang|LGPL-2.1|libcsv是用纯ANSI C89编写的小型、简单、快速的CSV库，支持读写CSV数据|
 | [lwgps](https://github.com/orange2348/lwgps2rtt) |orange2348|MIT|轻量级GPS NMEA协议解析器|
 | [lzma](https://github.com/RiceChen/lzma) |RiceChen|LGPL-2.1|高压缩率的压缩库|
+| [MFBD](https://github.com/smartmx/MFBD) |smartmx|Apache-2.0|多功能按键扫描程序，支持无限按键、多次连击|
 | [miniLZO](https://github.com/RT-Thread-packages/miniLZO) |RealThread|GPL-2.0|LZO 是一个实时数据压缩库，而 miniLZO 是 LZO 压缩库的精简版本|
 | [minizip](https://github.com/mysterywolf/minizip) |Meco Man|unknown|zip压缩解压库|
 | [MultiButton](https://github.com/liu2guang/MultiButton) |0x1abin|MIT|一个小巧易用的事件驱动按钮驱动模块|
@@ -183,7 +187,7 @@
 | ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
 | [ad7746](https://github.com/wuhanstudio/rt-ad7746) |wuhanstudio|MIT|AD7746 高精度电容测量芯片在 RT-Thread 移植库|
 | [agile_button](https://github.com/loogg/agile_button) |Longwei Ma|LGPL-2.1|一个灵活的button软件包。|
-| [agile_console](https://github.com/loogg/agile_console) |loogg|LGPL-2.1|一个灵活的console设备软件包|
+| [agile_console](https://github.com/loogg/agile_console) |loogg|LGPL-2.1|简单易用的调试设备中间件。|
 | [agile_led](https://github.com/loogg/agile_led) |Longwei Ma|LGPL-2.1|一个灵活的led软件包。|
 | [as608](https://github.com/greedyhao/as608.git) |greedyhao|Apache-2.0|AS608 指纹模块的驱动|
 | [as7341](https://github.com/RiceChen/as7341) |RiceChen|Apache-2.0|AS7341可见光传感器，可测量8个波长的可见光。|
@@ -220,6 +224,7 @@
 | [Misaka_AT24CXX](https://github.com/xqyjlj/Miaska_AT24CXX) |xqyjlj|Apache-2.0|御坂网络AT24CXX驱动包，提供了AT24CXX的全部功能|
 | [Misaka_RGB_Bling](https://github.com/xqyjlj/Misaka_RGB_Bling) |xqyjlj|Apache-2.0|御坂网络RGB LED驱动包，提供了对于RGB LED灯的控制功能。|
 | [MotionDriver2RTT](https://github.com/greedyhao/MotionDriver2RTT) |greedyhao|LGPL-2.1|移植 MotionDriver 到 RTT 的包|
+| [multi_infrared](https://github.com/jsrdczy/rt_thread_multi_infrared_frame) |jsrdczy|Apache-2.0|基于rt-thread的复数红外通道同时接收并解码的驱动框架。|
 | [multi_rtimer](https://github.com/Forest-Rain/multi-rtimer) |Forest-Rain|Apache-2.0|一个实时、低功耗软件定时器模块|
 | [nes](https://github.com/Ghazigq/nes) |Ghazigq|Apache-2.0|nes模拟器c库。|
 | [nrf24l01](https://github.com/sogwms/nrf24l01) |sogwms|Apache-2.0|单芯片 2.4GHz 无线收发器。|
@@ -335,6 +340,7 @@
 | ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
 | [Arm-2D](https://github.com/liuduanfei/Arm-2D) |liuduanfei|Apache-2.0|Arm-2D 图形库。|
 | [cairo](https://github.com/RT-Thread-packages/cairo) |RealThread|LGPL/MPL|适用于多平台的 2D 图形软件包|
+| [CherryUSB](https://github.com/sakumisu/CherryUSB) |sakumisu|Apache-2.0|小而美、可移植性高的 USB 主从协议栈。|
 | [CMSIS_5](https://github.com/ARM-software/CMSIS_5) |ARM-software|Apache-2.0|CMSIS-5|
 | [CMSIS_5_AUX](https://github.com/RT-Thread-packages/CMSIS_5_AUX) |RT-Thread-packages|Apache-2.0|CMSIS_5软件包的辅助构建软件包（该软件包不需要用户选择）|
 | [CMSIS_RTOS2](https://github.com/RT-Thread-packages/CMSIS_RTOS2) |RT-Thread-packages|Apache-2.0|RT-Thread的CMSIS-RTOS2标准兼容层|
@@ -380,7 +386,6 @@
 | [TinyUSB](https://github.com/RT-Thread-packages/tinyusb) |tfx2001|MIT|用于嵌入式系统的开源跨平台USB协议栈|
 | [tlsf](https://github.com/RT-Thread-packages/tlsf) |namexx|Apache-2.0|TLSF是一个可以预期执行时间、碎片化程度低的动态内存分配算法。|
 | [uffs](https://github.com/RT-Thread-packages/uffs) |prife|LGPL-2|超低功耗的闪存文件系统|
-| [usb_stack](https://github.com/sakumisu/usb_stack) |sakumisu|Apache-2.0|小而美、可移植性高的 USB 主从协议栈。|
 | [yaffs2](https://github.com/heyuanjie87/yaffs2_rtt_port) |heyuanjie87|GPL-2.0|yaffs2 移植到RT-Thread|
 
 ## tools
