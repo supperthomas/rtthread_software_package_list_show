@@ -14,8 +14,8 @@ package_license = []
 package_cata = []
 package_auth = []
 
-package_list = ['iot', 'ai', 'language', 'misc', 'multimedia',
-                'peripherals', 'security', 'system', 'tools']
+package_list = ['iot', 'ai','arduino', 'language', 'misc', 'multimedia',
+                'peripherals', 'security', 'system', 'tools','signalprocess']
 
 filename = 'rtthread_softlist.md'
 with open(filename, 'w', encoding='utf-8') as file_object:
