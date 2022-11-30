@@ -36,7 +36,7 @@ with open(filename, 'w', encoding='utf-8') as file_object:
                 # print(os.path.basename(os.path.join(root)))      ##package name
                 json_path = os.path.join(root, f)
                 with open(json_path, 'r', encoding='utf-8') as json_file:
-                    json_dict = json.load(json_file, encoding="utf-8")
+                    json_dict = json.load(json_file)
                     for dict in json_dict.items():
                         if dict[0] == "description_zh":
                             # json_list.append(dict[1])
