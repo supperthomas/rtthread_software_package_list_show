@@ -13,6 +13,165 @@
 | [quest](https://github.com/wuhanstudio/QuEST) |wuhanstudio|MIT|嵌入式系统上的量子计算机模拟器|
 | [TensorflowLiteMicro](https://github.com/QingChuanWS/TensorflowLiteMicro) |QingChuanWS|LGPLv2.1|用于rt-thread操作系统的轻量级深度学习端侧推理框架Tensorflow Lite软件包。|
 | [ulapack](https://github.com/wuhanstudio/ulapack) |wuhanstudio|MIT|嵌入式线性代数库|
+| [Adafruit-PN532](https://github.com/adafruit/Adafruit-PN532) |adafruit|BSD-3-Clause|Adafruit PN532 NFC/RFID驱动|
+| [Adafruit-Si4713](https://github.com/adafruit/Adafruit-Si4713-Library) |adafruit|BSD-3-Clause|Adafruit Si4713 FM+RDS/RBDS驱动|
+| [ArduinoJson](https://github.com/bblanchon/ArduinoJson) |bblanchon|MIT|精简且高效的嵌入式C++ JSON库|
+| [KalmanFilter](https://github.com/TKJElectronics/KalmanFilter) |TKJElectronics|GPL-2.0|卡尔曼滤波器Arduino库|
+| [Adafruit-PCA9685](https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library) |adafruit|BSD|Adafruit PCA9685 16通道12位PWM/舵机驱动|
+| [Adafruit-PCF8574](https://github.com/adafruit/Adafruit_PCF8574) |adafruit|BSD|Adafruit PCF8574 GPIO扩展器|
+| [Seeed-PCF85063TP](https://github.com/Seeed-Studio/Grove_High_Precision_RTC_PCF85063TP) |Seeed-Studio|MIT|Seeed PCF85063TP 高精度RTC驱动|
+| [Seeed-TM1637](https://github.com/Seeed-Studio/Grove_4Digital_Display) |Seeed-Studio|MIT|Seeed-TM1637 4位显示模块驱动|
+| [U8g2_Arduino](https://github.com/olikraus/U8g2_Arduino) |olikraus|BSD-3-Clause|U8g2 Arduino版本|
+| [Arduino-Sensor-Kit](https://github.com/RTduino/Arduino-Sensor-Kit) |RTduino|Apache-2.0|Arduino传感器套件库|
+| [matlab-support-package](https://github.com/RTduino/matlab-support-package) |RTduino|Unknown|MATLAB/Simulink Support Package for RTduino Hardware|
+| [UltrasoundRadar](https://github.com/RTduino/UltrasoundRadar) |RTduino|Apache-2.0|Arduino超声波雷达项目|
+
+## arduino
+
+ | 包名 | 作者  | license   | 备注      |
+| ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
+| [RTduino](https://github.com/RTduino/RTduino) |Meco Man|LGPL-2.1|Arduino生态兼容层|
+| [Adafruit-ADT7410](https://github.com/adafruit/Adafruit_ADT7410) |adafruit|BSD-3-Clause|Adafruit ADT7410精密I2C温度传感器驱动|
+| [Adafruit-ADXL343](https://github.com/adafruit/Adafruit_ADXL343) |adafruit|BSD-3-Clause|ADXL343数字加速度计(+/-2/4/8/16g)驱动，同时支持SPI和I2C模式|
+| [Adafruit-ADXL345](https://github.com/adafruit/Adafruit_ADXL345) |adafruit|BSD|Adafruit ADXL345 3-Axis ±2g/±4g/±8g/±16g 加速度计|
+| [Adafruit-ADXL375](https://github.com/adafruit/Adafruit_ADXL375) |adafruit|BSD|Adafruit ADXL375 3-Axis ±2g/±4g/±8g/±16g 加速度计|
+| [Adafruit-AHTX0](https://github.com/adafruit/Adafruit_AHTX0) |adafruit|BSD-3-Clause|Adafruit AHT10 AHT20传感器|
+| [Adafruit-AM2315](https://github.com/adafruit/Adafruit_AM2315) |adafruit|Unknown|Adafruit AM2315 温湿度传感器驱动|
+| [Adafruit-AM2320](https://github.com/adafruit/Adafruit_AM2320) |adafruit|unknown|Adafruit AM2320 温湿度传感器。|
+| [Adafruit-AMG88xx](https://github.com/adafruit/Adafruit_AMG88xx) |adafruit|MIT|Adafruit AMG88xx 热成像仪的驱动库|
+| [Adafruit-AS726x](https://github.com/adafruit/Adafruit_AS726x) |adafruit|MIT|Adafruit AS726x光谱传感器驱动|
+| [Adafruit-AS7341](https://github.com/adafruit/Adafruit_AS7341) |adafruit|BSD-3-Clause|Adafruit AS7341 11通道光谱传感器。|
+| [Adafruit-BME280](https://github.com/adafruit/Adafruit_BME280_Library) |adafruit|Unknown|Adafruit BME280温湿度和气压传感器驱动|
+| [Adafruit-BME680](https://github.com/adafruit/Adafruit_BME680) |adafruit|BSD|Adafruit BME680 和 BME688 湿度和压力传感器驱动|
+| [Adafruit-BMP085](https://github.com/adafruit/Adafruit-BMP085-Library) |adafruit|BSD-3-Clause|Adafruit BMP085/BMP180压力温度传感器驱动|
+| [Adafruit-BMP085-Unified](https://github.com/adafruit/Adafruit_BMP085_Unified) |adafruit|BSD|Adafruit BMP085 大气压力及温度传感器|
+| [Adafruit-BMP183](https://github.com/adafruit/Adafruit_BMP183_Library) |adafruit|BSD|Adafruit BMP183 大气压力及温度传感器|
+| [Adafruit-BMP183-Unified](https://github.com/adafruit/Adafruit_BMP183_Unified_Library) |adafruit|MIT|Adafruit BMP183 (Unified) 大气压力及高度传感器|
+| [Adafruit-BMP280](https://github.com/adafruit/Adafruit_BMP280_Library) |adafruit|Unknown|Adafruit BMP280 气压、高度和温度传感器驱动|
+| [Adafruit-BMP3XX](https://github.com/adafruit/Adafruit_BMP3XX) |adafruit|BSD-3-Clause|Adafruit BMP3XX 高精度压力/高度传感器驱动|
+| [Adafruit-BNO055](https://github.com/adafruit/Adafruit_BNO055) |adafruit|MIT|Adafruit BNO055绝对定向传感器驱动|
+| [Adafruit-BNO08x](https://github.com/adafruit/Adafruit_BNO08x) |adafruit|BSD|Adafruit BNO08x 9自由度定向IMU驱动|
+| [Adafruit-BNO08x-RVC](https://github.com/adafruit/Adafruit_BNO08x_RVC) |adafruit|BSD|Adafruit BNO08x RVC驱动|
+| [Adafruit-CAP1188](https://github.com/adafruit/Adafruit_CAP1188_Library) |adafruit|BSD-3-Clause|Adafruit CAP1188 8键电容式触摸传感器|
+| [Adafruit-CCS811](https://github.com/adafruit/Adafruit_CCS811) |adafruit|Unknown|Adafruit CCS811 空气质量传感器|
+| [Adafruit-DHT](https://github.com/adafruit/DHT-sensor-library) |adafruit|MIT|DHT11、DHT22温湿度传感器|
+| [Adafruit-DPS310](https://github.com/adafruit/Adafruit_DPS310) |adafruit|BSD-3-Clause|Adafruit DPS310压力传感器驱动|
+| [Adafruit-EMC2101](https://github.com/adafruit/Adafruit_EMC2101) |adafruit|BSD|Adafruit EMC2101 风扇控制器和温度传感器|
+| [Adafruit-FXAS21002C](https://github.com/adafruit/Adafruit_FXAS21002C) |adafruit|MIT|Adafruit FXOS8700 3轴加速度计和磁力计，以及 FXAS21002 3轴陀螺仪传感器驱动|
+| [Adafruit-FXOS8700](https://github.com/adafruit/Adafruit_FXOS8700) |adafruit|MIT|Adafruit-FXOS8700 加速度计和磁强计传感器|
+| [Adafruit-HDC1000](https://github.com/adafruit/Adafruit_HDC1000_Library) |adafruit|Unknown|Adafruit HDC1000 温度湿度传感器|
+| [Adafruit-HMC5883-Unified](https://github.com/adafruit/Adafruit_HMC5883_Unified) |adafruit|Unknown|Adafruit HMC5883 (Unified) 三轴磁场计|
+| [Adafruit-HTS221](https://github.com/adafruit/Adafruit_HTS221) |adafruit|BSD|Adafruit HTS221 温湿度传感器驱动|
+| [Adafruit-HTU21DF](https://github.com/adafruit/Adafruit_HTU21DF_Library) |adafruit|BSD|Adafruit HTU21DF 温度湿度传感器|
+| [Adafruit-HTU31D](https://github.com/adafruit/Adafruit_HTU31D) |adafruit|BSD|Adafruit HTU31D 温度湿度传感器|
+| [Adafruit-ICM20X](https://github.com/adafruit/Adafruit_ICM20X) |adafruit|BSD License|Adafruit ICM20649/ICM20948 IMU运动传感器|
+| [Adafruit-INA219](https://github.com/adafruit/Adafruit_INA219) |adafruit|BSD-3-Clause|Adafruit INA219直流电流传感器驱动|
+| [Adafruit-INA260](https://github.com/adafruit/Adafruit_INA260) |adafruit|BSD|Adafruit INA260 电流传感器|
+| [Adafruit-L3GD20](https://github.com/adafruit/Adafruit_L3GD20_U) |adafruit|BSD|Adafruit L3GD20 三轴陀螺仪传感器|
+| [Adafruit-LC709203F](https://github.com/adafruit/Adafruit_LC709203F) |adafruit|BSD|Adafruit LC709203F 电量计和电池监测传感器驱动|
+| [Adafruit-LIS2MDL](https://github.com/adafruit/Adafruit_LIS2MDL) |adafruit|BSD|Adafruit LIS2MDL 磁力计传感器驱动|
+| [Adafruit-LIS331](https://github.com/adafruit/Adafruit_LIS331) |adafruit|BSD|Adafruit LIS331 三轴加速度计传感器驱动|
+| [Adafruit-LIS3DH](https://github.com/adafruit/Adafruit_LIS3DH) |adafruit|BSD|Adafruit LIS3DH 加速度计传感器驱动|
+| [Adafruit-LIS3MDL](https://github.com/adafruit/Adafruit_LIS3MDL) |adafruit|BSD|Adafruit LIS3MDL三轴磁力计传感器驱动|
+| [Adafruit-LPS2X](https://github.com/adafruit/Adafruit_LPS2X) |adafruit|BSD|Adafruit LPS22 & LPS25 气压传感器驱动|
+| [Adafruit-LPS35HW](https://github.com/adafruit/Adafruit_LPS35HW) |adafruit|BSD|Adafruit LPS35HW/LPS33HW 防水型气压传感器驱动|
+| [Adafruit-LSM303-Accel](https://github.com/adafruit/Adafruit_LSM303_Accel) |adafruit|BSD|Adafruit LSM303 加速度和电子罗盘传感器驱动|
+| [Adafruit-LSM303DLH-Mag](https://github.com/adafruit/Adafruit_LSM303DLH_Mag) |adafruit|BSD|Adafruit LSM303DLH 磁力计传感器驱动|
+| [Adafruit-LSM6DS](https://github.com/adafruit/Adafruit_LSM6DS) |adafruit|BSD|Adafruit LSM6DS六自由度加速度计和陀螺仪传感器驱动|
+| [Adafruit-LSM9DS0](https://github.com/adafruit/Adafruit_LSM9DS0_Library) |adafruit|BSD|Adafruit LSM9DS0三轴加速度计/磁强计/陀螺仪传感器驱动|
+| [Adafruit-LSM9DS1](https://github.com/adafruit/Adafruit_LSM9DS1) |adafruit|BSD-3-Clause|Adafruit LSM9DS1三轴加速度计/磁强计/陀螺仪传感器|
+| [Adafruit-LTR329-LTR303](https://github.com/adafruit/Adafruit_LTR329_LTR303) |adafruit|BSD-3-Clause|Adafruit LTR329 LTR303环境光传感器驱动|
+| [Adafruit-LTR390](https://github.com/adafruit/Adafruit_LTR390) |adafruit|BSD|Adafruit LTR390紫外线传感器驱动|
+| [Adafruit-MAX1704X](https://github.com/adafruit/Adafruit_MAX1704X) |Adafruit|BSD-3-Clause|Adafruit MAX17048/MAX17049锂电池管理芯片驱动|
+| [Adafruit-MAX31855](https://github.com/adafruit/Adafruit-MAX31855-library) |Adafruit|BSD-3-Clause|ADAFRUIT MAX31855热电偶放大器驱动|
+| [Adafruit-MAX31856](https://github.com/adafruit/Adafruit_MAX31856) |adafruit|BSD|Adafruit MAX31856热电偶传感器驱动库|
+| [Adafruit-MAX31865](https://github.com/adafruit/Adafruit_MAX31865) |adafruit|BSD-3-Clause|MAX31865热电偶传感器驱动库|
+| [Adafruit-MCP4728](https://github.com/adafruit/Adafruit_MCP4728) |adafruit|BSD|Adafruit MCP4728 4通道12位I2C DAC驱动|
+| [Adafruit-MCP9600](https://github.com/adafruit/Adafruit_MCP9600) |adafruit|BSD|Adafruit MCP9600 I2C热电偶ADC传感器驱动|
+| [Adafruit-MCP9808](https://github.com/adafruit/Adafruit_MCP9808_Library) |adafruit|BSD|Adafruit MCP9808精密I2C温度传感器驱动|
+| [Adafruit-MLX90393](https://github.com/adafruit/Adafruit_MLX90393_Library) |adafruit|MIT|Adafruit MLX90393 磁场传感器驱动|
+| [Adafruit-MLX90395](https://github.com/adafruit/Adafruit_MLX90395) |adafruit|MIT|Adafruit MLX90395 磁场传感器驱动|
+| [Adafruit-MLX90614](https://github.com/adafruit/Adafruit-MLX90614-Library) |adafruit|BSD|Adafruit MLX90614温度传感器驱动|
+| [Adafruit-MLX90640](https://github.com/adafruit/Adafruit_MLX90640) |adafruit|BSD-3-Clause|Adafruit MLX90640 红外热成像相机驱动|
+| [Adafruit-MMA8451](https://github.com/adafruit/Adafruit_MMA8451_Library) |adafruit|BSD-3-Clause|Adafruit MMA8451 加速度传感器驱动|
+| [Adafruit-MMC56x3](https://github.com/adafruit/Adafruit_MMC56x3) |adafruit|BSD-3-Clause|Adafruit MMC5603 或 MMC5613 磁力计传感器驱动|
+| [Adafruit-MPL115A2](https://github.com/adafruit/Adafruit_MPL115A2) |adafruit|BSD-3-Clause|Adafruit MPL115A2 大气压力传感器驱动|
+| [Adafruit-MPL3115A2](https://github.com/adafruit/Adafruit_MPL3115A2_Library) |adafruit|BSD|Adafruit MPL3115A2 压力/高度/温度传感器驱动|
+| [Adafruit-MPR121](https://github.com/adafruit/Adafruit_MPR121) |adafruit|BSD-3-Clause|Adafruit MPR121 电容触摸传感器驱动|
+| [Adafruit-MPRLS](https://github.com/adafruit/Adafruit_MPRLS) |adafruit|MIT|Adafruit MPRLS 压力传感器驱动|
+| [Adafruit-MPU6050](https://github.com/adafruit/Adafruit_MPU6050) |adafruit|BSD-3-Clause|Adafruit MPU6050 六自由度加速度和陀螺仪传感器驱动|
+| [Adafruit-MS8607](https://github.com/adafruit/Adafruit_MS8607) |adafruit|MIT|Adafruit MS8607压力温湿度传感器驱动|
+| [Adafruit-MSA301](https://github.com/adafruit/Adafruit_MSA301) |adafruit|BSD-3-Clause|dafruit MSA301加速度传感器驱动|
+| [Adafruit-NAU7802](https://github.com/adafruit/Adafruit_NAU7802) |adafruit|BSD-3-Clause|Adafruit NAU7802 I2C 24-bit ADC传感器驱动。|
+| [Adafruit-PCF8591](https://github.com/adafruit/Adafruit_PCF8591) |adafruit|BSD|Adafruit PCF8591 Basic 4 x ADC + DAC驱动|
+| [Adafruit-PCT2075](https://github.com/adafruit/Adafruit_PCT2075) |adafruit|BSD-3-Clause|Adafruit PCT2075温度传感器驱动|
+| [Adafruit-PM25AQI](https://github.com/adafruit/Adafruit_PM25AQI) |adafruit|BSD-3-Clause|Adafruit PM25AQI PM2.5空气质量传感器驱动|
+| [Adafruit-SCD30](https://github.com/adafruit/Adafruit_SCD30) |adafruit|BSD-3-Clause|Adafruit SCD30 CO2及温湿度传感器驱动|
+| [Adafruit-Sensor](https://github.com/adafruit/Adafruit_Sensor) |adafruit|Apache-2.0|Adafruit统一传感器框架|
+| [Adafruit-SensorLab](https://github.com/adafruit/Adafruit_SensorLab) |adafruit|BSD-3-Clause| Adafruit科学传感器数据读取融合与操作驱动|
+| [Adafruit-SGP30](https://github.com/adafruit/Adafruit_SGP30) |adafruit|BSD|Adafruit SGP30空气质量传感器驱动|
+| [Adafruit-SGP40](https://github.com/adafruit/Adafruit_SGP40) |adafruit|BSD|Adafruit SGP40气体/空气质量I2C传感器驱动|
+| [Adafruit-SHT31](https://github.com/adafruit/Adafruit_SHT31) |adafruit|BSD-3-Clause|Adafruit SHT31 温湿度驱动|
+| [Adafruit-SHT4X](https://github.com/adafruit/Adafruit_SHT4X) |adafruit|BSD-3-Clause|Adafruit SHT4X 温湿度传感器驱动|
+| [Adafruit-SHTC3](https://github.com/adafruit/Adafruit_SHTC3) |adafruit|BSD|Adafruit-SHTC3 温湿度传感器驱动|
+| [Adafruit-SI1145](https://github.com/adafruit/Adafruit_SI1145_Library) |adafruit|BSD-3-Clause|Adafruit SI1145 紫外/红外/可见光传感器|
+| [Adafruit-Si7021](https://github.com/adafruit/Adafruit_Si7021) |adafruit|BSD-3-Clause|Adafruit-Si7021 温湿度传感器|
+| [Adafruit-TCS34725](https://github.com/adafruit/Adafruit_TCS34725) |adafruit|BSD-3-Clause|Adafruit TCS34725 RGB 颜色传感器|
+| [Adafruit-TLA202x](https://github.com/adafruit/Adafruit_TLA202x) |adafruit|BSD-3-Clause|Adafruit TLA202x 模数转换驱动|
+| [Adafruit-TMP006](https://github.com/adafruit/Adafruit_TMP006) |adafruit|BSD-3-Clause|Adafruit TMP006 红外热堆传感器驱动|
+| [Adafruit-TMP007-Library](https://github.com/adafruit/Adafruit_TMP007_Library) |adafruit|BSD|Adafruit TMP007 非接触式热红外传感器|
+| [Adafruit-TMP117](https://github.com/adafruit/Adafruit_TMP117) |adafruit|BSD|Adafruit TMP117 高精度数字温度传感器。|
+| [Adafruit-TSC2007](https://github.com/adafruit/Adafruit_TSC2007) |adafruit|BSD-3-Clause|Adafruit TSC2007电阻式触摸屏驱动程序。|
+| [Adafruit-TSL2561](https://github.com/adafruit/Adafruit_TSL2561) |adafruit|Unknown|Adafruit TSL2561环境光强度传感器。|
+| [Adafruit-TSL2591-Library](https://github.com/adafruit/Adafruit_TSL2591_Library) |adafruit|BSD|Adafruit TSL2591数字光度(光)传感器。|
+| [Adafruit-VCNL4040](https://github.com/adafruit/Adafruit_VCNL4040) |adafruit|BSD|Adafruit VCNL4040接近和环境光传感器|
+| [Adafruit-VEML6070](https://github.com/adafruit/Adafruit_VEML6070) |adafruit|BSD-3-Clause|Adafruit VEML6070高级紫外线(UV)光传感器|
+| [Adafruit-VEML6075](https://github.com/adafruit/Adafruit_VEML6075) |adafruit|MIT|Adafruit VEML6075紫外线 (UV) 光传感器|
+| [Adafruit-VEML7700](https://github.com/adafruit/Adafruit_VEML7700) |adafruit|BSD|Adafruit VEML7700环境光传感器|
+| [Adafruit-VL53L0X](https://github.com/adafruit/Adafruit_VL53L0X) |adafruit|MIT|Adafruit VL53L0X飞行时间距离传感器驱动|
+| [CapacitiveSensor](https://github.com/PaulStoffregen/CapacitiveSensor) |PaulStoffregen|Apache-2.0|软件电容触摸传感器|
+| [Seeed-ADXL335](https://github.com/Seeed-Studio/Accelerometer_ADXL335) |Seeed-Studio|MIT|Seeed ADXL335三轴加速度计驱动|
+| [Seeed-ADXL345](https://github.com/Seeed-Studio/Accelerometer_ADXL345) |Seeed-Studio|MIT|Seeed ADXL345三轴数字加速度计驱动|
+| [Seeed-AT42QT1070](https://github.com/Seeed-Studio/Seeed_QTouch) |Seeed-Studio|MIT|Seeed AT42QT1070 电容触摸传感器驱动|
+| [Seeed-BBM150](https://github.com/Seeed-Studio/Grove_3_Axis_Compass_V2.0_BMM150) |Seeed-Studio|MIT|Seeed BBM150 数字罗盘传感器驱动|
+| [Seeed-BME280](https://github.com/Seeed-Studio/Grove_BME280) |Seeed-Studio|MIT|Seeed BME280 温湿度和气压传感器驱动|
+| [Seeed-BMP085](https://github.com/Seeed-Studio/Grove_Barometer_Sensor) |Seeed-Studio|MIT|Seeed BMP085/BMP180 气压计传感器驱动|
+| [Seeed-BMP280](https://github.com/Seeed-Studio/Grove_BMP280) |Seeed-Studio|MIT|BMP280传感器Arduino驱动库|
+| [Seeed-DHT](https://github.com/Seeed-Studio/Grove_Temperature_And_Humidity_Sensor) |Seeed-Studio|MIT|Seeed DHT11, DHT22, DHT21 & AM2301温湿度传感器驱动|
+| [Seeed-DRV2605L](https://github.com/Seeed-Studio/Grove_Haptic_Motor) |Seeed-Studio|MIT|Seeed DRV2605L 触觉电机传感器驱动|
+| [Seeed-H3LIS331DL](https://github.com/Seeed-Studio/Accelerometer_H3LIS331DL) |Seeed-Studio|MIT|Seeed H3LIS331DL 三轴线性加速度计驱动|
+| [Seeed-HDC1000](https://github.com/Seeed-Studio/HDC1000) |Seeed-Studio|MIT|Seeed HDC1000 温湿度传感器驱动|
+| [Seeed-HighTemp](https://github.com/Seeed-Studio/Grove_HighTemp_Sensor) |Seeed-Studio|MIT|Seeed HighTemp K型热电偶温度传感器驱动|
+| [Seeed-HM3301](https://github.com/Seeed-Studio/Seeed_PM2_5_sensor_HM3301) |Seeed-Studio|MIT|Seeed HM3301 粉尘检测传感器驱动|
+| [Seeed-HMC5883L](https://github.com/Seeed-Studio/Grove_3Axis_Digital_Compass_HMC5883L) |Seeed-Studio|Unknown|Seeed HMC5883L 三轴数字罗盘传感器驱动|
+| [Seeed-HP20x](https://github.com/Seeed-Studio/Grove_Barometer_HP20x) |Seeed-Studio|MIT|Seeed HP20x 气压、高度计和温度传感器|
+| [Seeed-ITG3200](https://github.com/Seeed-Studio/Grove_3_Axis_Digital_Gyro) |Seeed-Studio|LGPL-3.0|Seeed ITG3200 三轴数字陀螺仪驱动|
+| [Seeed-LDC1612](https://github.com/Seeed-Studio/Seeed_LDC1612) |Seeed-Studio|MIT|Seeed LDC1612 电感数字转换器驱动|
+| [Seeed-LIS3DHTR](https://github.com/Seeed-Studio/Seeed_Arduino_LIS3DHTR) |Seeed-Studio|MIT|LIS3DHTR Arduino驱动库|
+| [Seeed-LSM303DLH](https://github.com/Seeed-Studio/Grove_6Axis_Accelerometer_And_Compass_v2) |Seeed-Studio|MIT|Seeed LSM303DLH 3轴加速度和磁传感器驱动|
+| [Seeed-LSM6DS3](https://github.com/Seeed-Studio/Seeed_Arduino_LSM6DS3) |Seeed-Studio|MIT|Seeed LSM6DS3 六轴加速度计陀螺仪|
+| [Seeed-LTC2941](https://github.com/Seeed-Studio/Seeed_LTC2941) |Seeed-Studio|MIT|Seeed LTC2941 库伦计数器传感器驱动|
+| [Seeed-MCP9600](https://github.com/Seeed-Studio/Seeed_MCP9600) |Seeed-Studio|MIT|Seeed MCP9600 数字温度传感器驱动|
+| [Seeed-MMA7660](https://github.com/Seeed-Studio/Accelerometer_MMA7660) |Seeed-Studio|MIT|Seeed MMA7660 三轴数字加速度计|
+| [Seeed-MP503](https://github.com/Seeed-Studio/Grove_Air_quality_Sensor) |Seeed-Studio|MIT|Seeed MP503 空气质量传感器驱动|
+| [Seeed-PAJ7620](https://github.com/Seeed-Studio/Gesture_PAJ7620) |Seeed-Studio|MIT|Seeed PAJ7620 手势识别传感器驱动|
+| [Seeed-SHT31](https://github.com/Seeed-Studio/Grove_SHT31_Temp_Humi_Sensor) |Seeed-Studio|MIT|Seeed SHT31 温湿度传感器驱动|
+| [Seeed-SHT35](https://github.com/Seeed-Studio/Seeed_SHT35) |Seeed-Studio|MIT|Seeed SHT35 温湿度传感器驱动|
+| [Seeed-Si1145](https://github.com/Seeed-Studio/Grove_Sunlight_Sensor) |Seeed-Studio|MIT|Seeed Si1145 太阳光传感器驱动|
+| [Seeed-TCS3414CS](https://github.com/Seeed-Studio/Grove_I2C_Color_Sensor) |Seeed-Studio|LGPL-2.1|Seeed TCS3414CS I2C 颜色传感器驱动|
+| [Seeed-TSL2561](https://github.com/Seeed-Studio/Grove_Digital_Light_Sensor) |Seeed-Studio|MIT|TSL2561/ISL29035 数字光传感器驱动|
+| [Seeed-VEML6070](https://github.com/Seeed-Studio/Seeed_VEML6070) |Seeed-Studio|MIT|Seeed VEML6070 先进紫外线(UV)光传感器|
+| [Seeed-VL53L0X](https://github.com/Seeed-Studio/Grove-Ranging-sensor-VL53L0X) |Seeed-Studio|MIT|Seeed VL53L0X 飞行时间范围和手势检测传感器驱动|
+| [sensor-device-drivers](https://github.com/RTduino/sensor-device-drivers) |RTduino|Apache-2.0|Arduino传感器库对接RT-Thread传感器设备驱动|
+| [Adafruit-ADS1X15](https://github.com/adafruit/Adafruit_ADS1X15) |adafruit|BSD|Adafruit ADS1015/1115 12/16位差分或单端ADCs(带PGA和比较器)驱动库|
+| [Adafruit-AW9523](https://github.com/adafruit/Adafruit_AW9523) |adafruit|BSD-3-Clause|Adafruit AW9523 GPIO 拓展器和 LED 驱动库|
+| [Adafruit-BD3491FS](https://github.com/adafruit/Adafruit_BD3491FS) |adafruit|BSD-3-Clause|Adafruit BD3491FS 音频处理器驱动|
+| [Adafruit-BusIO](https://github.com/RTduino-libraries/Adafruit_BusIO) |adafruit|MIT|Adafruit总线库|
+| [Adafruit-MCP23017](https://github.com/adafruit/Adafruit-MCP23017-Arduino-Library) |adafruit|BSD-3-Clause|Adafruit MCP23XXX I2C and SPI GPIO 接口扩展器驱动|
+| [Adafruit-MCP3008](https://github.com/adafruit/Adafruit_MCP3008) |adafruit|MIT|Adafruit MCP3008 8通道的10位ADC驱动(SPI)|
+| [Adafruit-MCP4725](https://github.com/adafruit/Adafruit_MCP4725) |adafruit|BSD-3-Clause|Adafruit MCP4725 12位DAC驱动(I2C)|
+| [Adafruit-TCA8418](https://github.com/adafruit/Adafruit_TCA8418) |adafruit|BSD-3-Clause|Adafruit TCA8418 CPIO 拓展和矩阵键盘Arduino驱动库|
+| [MsTimer2](https://github.com/RTduino-libraries/MsTimer2) |RTduino-libraries|unknown|1ms级软件定时器Arduino库|
 
 ## iot
 
@@ -20,8 +179,7 @@
 | ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
 | [abup_fota](https://github.com/RayShen1018/Abup) |RayShen1018|Apache-2.0|基于 abup FOTA 组件的 固件下载器|
 | [agile_ftp](https://github.com/loogg/agile_ftp) |loogg|LGPL-2.1|轻量级 ftp 服务器。|
-| [agile_jsmn](https://github.com/loogg/agile_jsmn) |loogg|MIT|轻量级json解析器。|
-| [agile_modbus](https://github.com/loogg/agile_modbus) |loogg|LGPL-2.1|轻量级 modbus 协议栈。|
+| [agile_modbus](https://github.com/loogg/agile_modbus) |loogg|Apache-2.0|轻量级 modbus 协议栈。|
 | [agile_telnet](https://github.com/loogg/agile_telnet) |loogg|LGPL-2.1|以太网TCP调试。|
 | [airkissOpen](https://github.com/heyuanjie87/airkissOpen) |heyuanjie87|Apache-2.0|腾讯airkiss协议解析库|
 | [atsrv_socket](https://github.com/RT-Thread-packages/atsrv_socket) |RealThread|Apache-2.0|socket 相关指令的 AT 服务端|
@@ -30,30 +188,27 @@
 | [bsal](https://github.com/RT-Thread-packages/bsal) |supperthomas|Apache-2.0|蓝牙协议栈抽象层。|
 | [btstack](https://github.com/supperthomas/RTT_PACKAGE_BTSTACK.git) |supperthomas|non-commercial|软件包 btstack 用于BTSTACK在RT-THREAD中的使用|
 | [capnp](https://github.com/wuhanstudio/capnp) |wuhanstudio|MIT|Cap'n 串行化协议，比 protobuf 更高效，更轻量级。|
-| [cJSON](https://github.com/RT-Thread-packages/cJSON) |RealThread|MIT|超轻量级的 C 语言 json 解析库|
 | [cmux](https://github.com/RT-Thread-packages/cmux) |xiangxistu|Apache-2.0|在 RT_Thread 上实现的串口多路复用协议, 支持 GSM0710|
 | [coap](https://github.com/RT-Thread-packages/coap) |RealThread|BSD-2-Clause|一种 C 语言实现的 CoAP 协议|
 | [dlt645](https://github.com/WKJay/DLT645) |WKJay|LGPL-2.1|基于DLT645协议的主机采集软件包|
 | [EmbeddedProto](https://github.com/wuhanstudio/EmbeddedProto) |wuhanstudio|GPL-3.0|EmbeddedProto: 嵌入式 C++ protobuf 针对 ARM Cortex-M 优化|
-| [ezXML](https://github.com/RT-Thread-packages/ezXML) |RealThread|MIT|一个用 C 语言描述的 XML 解析库，并且简单易用|
 | [freemodbus](https://github.com/RT-Thread-packages/freemodbus) |flybreak|BSD|FreeModbus: 开源的 Modbus 主从协议栈|
 | [hm](https://github.com/Jackistang/HCI-Middleware) |Jackistang|Apache-2.0|一个通用的蓝牙 HCI 传输层|
 | [ali-iotkit](https://github.com/RT-Thread-packages/ali-iotkit) |RealThread|Apache-2.0|连接阿里 IoT 云平台的软件包|
 | [azure-iot-sdk](https://github.com/RT-Thread-packages/azure-iot-sdk) |RealThread|MIT|微软 azure 云软件包，支持 MQTT 协议和 HTTP 协议，使用该软件包可轻松将设备连接至 azure 云平台|
 | [ez_iot_os](https://github.com/Ezviz-OpenBiz/ez_iot_os.git) |EZVIZ IoT Team|Eclipse Public License v1.0|连接萤石云 IoT 平台的软件包|
 | [GAgent](https://github.com/RT-Thread-packages/GAgent) |RealThread|LGPL-2.1|连接机智云的软件包|
+| [iotsharp-c-sdk](https://github.com/IoTSharp/iotsharp-rtthread-package) |maikebing|MIT|IoTSharp的客户端软件|
 | [jiot-c-sdk](https://github.com/jpush/JIoT-rtthread-package.git) |ouyangshengduo|MIT|连接极光IoT云的客户端软件包|
 | [joylink](https://github.com/RT-Thread-packages/joylink) |RealThread|Apache-2.0|连接京东小京鱼 IOT 云平台的软件包|
 | [onenet](https://github.com/RT-Thread-packages/onenet) |RealThread|LGPL-2.1|连接中国移动 OneNet 云的软件包|
 | [tencent-iot-sdk](https://github.com/tencentyun/tencent-cloud-iot-package-for-rtthread) |yougaliu|MIT|连接腾讯物联网开发平台的软件包。|
 | [ucloud_iot_sdk](https://github.com/ucloud/ucloud-iot-rtthread-package.git) |ucloud|Apache-2.0|用于快速连接优刻得物联网平台的软件包。|
 | [ipmsg](https://github.com/heyuanjie87/ipmsg) |heyuanjie87|Apache-2.0|在 RT-Thread 上实现的 飞鸽传书|
-| [jsmn](https://github.com/RT-Thread-packages/jsmn) |RealThread|MIT|世界上最快 JSON 解析器或标记器|
 | [kawaii-mqtt](https://github.com/jiejieTop/kawaii-mqtt) |jiejie|GPL-2.0|一个基于socket API之上的跨平台MQTT客户端，拥有非常简洁的API接口，以极少的资源实现QOS2的服务质量，并且无缝衔接了mbedtls加密库。|
 | [libcurl2rtt](https://github.com/liu2guang/libcurl2rtt) |liu2guang|Apache-2.0|基于 RT-Thread 移植的 curl 库|
 | [libmodbus](https://github.com/loogg/libmodbus) |malongwei|LGPL-2.1|libmodbus在RT-Thread上的移植|
 | [librws](https://github.com/RT-Thread-packages/librws) |RealThread|MIT|小型、跨平台websocket客户端C库。|
-| [ljson](https://github.com/qiaoqidui/ljson) |qiaoqidui|unknown|ANSI-C 标准的 JSON 解析器|
 | [llsync_sdk_adapter](https://github.com/supperthomas/LLSync_sdk_adapter) |supperthomas|Apache-2.0|腾讯llsync sdk ble sdk sample|
 | [lorawan_driver](https://github.com/zyk6271/LoRaWAN_Driver) |zyk6271|Apache-2.0|将LoRaWAN协议栈运行在RT-THREAD系统上|
 | [lorawan_ed_stack](https://github.com/Forest-Rain/lorawan-ed-stack) |Forest-Rain|Apache-2.0|lorawan_ed_stack是LoRaWAN终端设备协议栈的实现.|
@@ -76,9 +231,7 @@
 | [ppp_device](https://github.com/RT-Thread-packages/ppp_device.git) |xiangxistu|Apache-2.0|lwIP PPP 功能针对蜂窝( 2G/3G/4G )模块移植和实现|
 | [protobuf-c](https://github.com/wuhanstudio/protobuf-c) |wuhanstudio|MIT|Google 的 prototol buffer 一种轻便高效的数据存储格式|
 | [qxwz](https://github.com/RT-Thread-packages/qianxun.git) |daniel.chen|Apache-2.0|qxwz 高精度定位应用|
-| [rapidjson](https://github.com/wuhanstudio/rapidjson) |wuhanstudio|MIT|支持 SAX/DOM 的 C++ JSON 处理库|
 | [rt-link_hw](https://github.com/RT-Thread-packages/rt-link_hw) |RealThread|Apache-2.0|rt-link 组件的底层通信端口适配层|
-| [rt_cjson_tools](https://github.com/maplerian/rt_cjson_tools) |maplerian|Apache-2.0|用于 RT-Thread 的 cJSON工具库|
 | [small_modbus](https://github.com/cazure/small_modbus.git) |chenbin182|Apache-2.0|small modbus协议栈|
 | [smtp_client](https://github.com/WKJay/SMTP_CLIENT) |WKJay|LGPL-2.1|SMTP邮件发送软件包，简单易用，支持普通25端口及465/587加密端口|
 | [tcpserver](https://github.com/Guozhanxin/tcpserver.git) |flybreak|Apache-2.0|一个支持多客户端的 TCP 服务器|
@@ -91,17 +244,29 @@
 | [wlanmarvell](https://github.com/JianRuiqian/marvellwifi) |JianRuiqian|GPL-2.0|RT-Thread 的 Marvell wifi 驱动|
 | [wlan_wiced](https://github.com/RT-Thread-packages/wlan-wiced) |RealThread|GPL-2.0|WICED 的 wlan 驱动|
 | [wiznet](https://github.com/RT-Thread-packages/wiznet) |RealThread|Apache-2.0|WIZNet TCP/IP 芯片（例如： W5500/W5100）的 SAL 框架对接实现|
+| [wol](https://github.com/WKJay/wol) |WKJay|Apache-2.0|实现网络唤醒功能|
 | [zb_coordinator](https://github.com/TaoYang0907/ZB_COORDINATOR_PACKAGE) |TaoYang0907|LGPL-2.1|AT命令在ZigBee协调器上的应用|
+| [zFTP](https://github.com/longtengmcu/zFTP.git) |longtengmcu|Apache-2.0|ligth weight FTP client|
 
 ## language
 
  | 包名 | 作者  | license   | 备注      |
 | ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
 | [jerryscript](https://github.com/RT-Thread-packages/jerryscript) |RealThread|Apache-2.0|针对 RT-Thread 的 JerryScript 移植|
+| [agile_jsmn](https://github.com/loogg/agile_jsmn) |loogg|MIT|轻量级json解析器。|
+| [cJSON](https://github.com/RT-Thread-packages/cJSON) |RealThread|MIT|超轻量级的 C 语言 json 解析库|
+| [jsmn](https://github.com/RT-Thread-packages/jsmn) |RealThread|MIT|世界上最快 JSON 解析器或标记器|
+| [ljson](https://github.com/qiaoqidui/ljson) |qiaoqidui|unknown|ANSI-C 标准的 JSON 解析器|
+| [parson](https://github.com/IoTSharp/parson) |maikebing|MIT|parson 是一个由kgabis用C写的轻量级json库|
+| [rapidjson](https://github.com/wuhanstudio/rapidjson) |wuhanstudio|MIT|支持 SAX/DOM 的 C++ JSON 处理库|
+| [rt_cjson_tools](https://github.com/maplerian/rt_cjson_tools) |maplerian|Apache-2.0|用于 RT-Thread 的 cJSON工具库|
 | [Lua](https://github.com/liu2guang/Lua2RTT) |liu2guang|MIT|Lua 在 RT-Thread 上的移植|
 | [LuatOS](https://github.com/openLuat/luatos-soc-rtt) |Dozingfiretruck|Apache-2.0|LuatOS : 面向物联网设备的强大嵌入式Lua引擎|
 | [micropython](https://github.com/RT-Thread-packages/micropython) |armink|MIT|MicroPython 在 RT-Thread 上的移植|
 | [pikascript](https://github.com/pikasTech/pikascript) |lyon|MIT|极易定制的轻量级python脚本支持工具|
+| [rtt_rust](https://github.com/vito-chl/rtt_rust.git) |chenhonglin|Apache-2.0|为rt-thread增加rust支持。|
+| [ezXML](https://github.com/RT-Thread-packages/ezXML) |RealThread|MIT|一个用 C 语言描述的 XML 解析库，并且简单易用|
+| [simple_xml](https://github.com/xfwangqiang/simple_xml) |xfwangqiang|MIT|基于C语言的XML解析器，开发本项目的目的在于开发一个能在多平台应用的代码。目前代码已经应用在WIN10、Linux、rt-thread、VxWorks等主流操作系统。|
 
 ## misc
 
@@ -139,14 +304,16 @@
 | [MultiButton](https://github.com/liu2guang/MultiButton) |0x1abin|MIT|一个小巧易用的事件驱动按钮驱动模块|
 | [optparse](https://github.com/liu2guang/optparse) |liu2guang|Unlicense|基于 RT-Thread 的 Getopt 命令行解析器|
 | [phase-locked-loop](https://github.com/haodongnj/PLL) |hao.dong|MIT|锁相环与锁频环算法|
+| [qparam](https://github.com/qiyongzhong0/rt-thread-qparam) |qiyongzhong0| LGPL-2.1|一个快捷易用的参数管理组件，实现了参数保存、恢复、修改和快速存取功能.|
 | [quicklz](https://github.com/RT-Thread-packages/quicklz) |RealThread|GPL-3.0|世界上速度最快的压缩库|
 | [filesystem_samples](https://github.com/RT-Thread-packages/filesystem-sample) |RealThread|Apache-2.0|RT-Thread 文件系统示例|
 | [kernel_samples](https://github.com/RT-Thread-packages/kernel-sample) |RealThread|Apache-2.0|RT-Thread 内核示例|
 | [network_samples](https://github.com/RT-Thread-packages/network-sample) |RealThread|Apache-2.0|RT-Thread 网络示例|
 | [peripheral_samples](https://github.com/RT-Thread-packages/peripheral-sample) |RealThread|Apache-2.0|RT-Thread 外设示例|
+| [slcan2rtt](https://github.com/cazure/slcan2rtt.git) |cazure|Apache-2.0|串行线路CAN适配器 (slcan).|
+| [soem](https://github.com/lg28870983/soem) |lg28870983|Apache-2.0|开源 EtherCAT 主站 SOEM 在RT-Thread系统上的移植|
 | [state_machine](https://github.com/redoccheng/state_machine) |redoccheng|LGPL-2.1|一个用C语言实现功能丰富但简单的有限状态机（FSM）。|
 | [TinyFrame](https://github.com/XXXXzzzz000/TinyFrame) |XXXXzzzz000|MIT|应用于串口设备（如 UART / RS232)的构建或者解析的库|
-| [ukal](https://github.com/wuhanstudio/ukal) |wuhanstudio|MIT|卡尔曼滤波算法|
 | [upacker](https://github.com/aeo123/upacker.git) |zpw|MIT|串行通信链路协议|
 | [uparam](https://github.com/aeo123/uparam.git) |zpw|MIT|系统参数读写管理和持久化|
 | [vi](https://github.com/RT-Thread-packages/vi) |RealThread|GPL-2.0|vi 编辑器在 RT-Thread 操作系统上的移植|
@@ -157,10 +324,12 @@
  | 包名 | 作者  | license   | 备注      |
 | ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
 | [AzureGUIX](https://github.com/HelloByeAll/AzureGUIX) |HelloByeAll|Apache-2.0|微软THREADX系统中间件 AzureGUIX|
+| [gui_engine](https://github.com/RT-Thread-packages/gui_engine) |RealThread| LGPL-2.1|来自 RT-Thread 官方的 GUI 引擎|
 | [helix](https://github.com/liuduanfei/helix) |liuduanfei|AGPL-3.0|Helix,mp3 解码库|
+| [gui_guider_demo](https://github.com/NXPmicro/gui-guider-demos.git) |Ting Liu|MIT|GUI Guider生成的LVGL演示示例|
 | [LittlevGL2RTT](https://github.com/liu2guang/LittlevGL2RTT) |liu2guang|MIT|LittlevGL 是基于 RT-Thread 的图形库软件包 (老版本)|
-| [LVGL](https://github.com/lvgl/lvgl) |kisvegabor|MIT|LVGL图形库（官方上游）|
-| [lv_music_demo](https://github.com/mysterywolf/lv_demo_music) |Meco Man|MIT|LVGL的播放器演示示例(RT-Thread版本)|
+| [LVGL](https://github.com/lvgl/lvgl) |kisvegabor|MIT|LVGL轻量级通用型图形库（官方上游）|
+| [lv_music_demo](https://github.com/RT-Thread-packages/lv_demo_music) |Meco Man|MIT|LVGL的播放器演示示例(RT-Thread版本)|
 | [mcurses](https://github.com/wuhanstudio/mcurses) |wuhanstudio|MIT|轻量级的 ncurses 控制台绘图库|
 | [mp3player](https://github.com/MrzhangF1ghter/mp3player) |MrzhangF1ghter|Apache-2.0|一个简易的mp3格式音乐播放器|
 | [mupdf](https://github.com/rtoslab/mupdf-rtt) |rtoslab|AGPL-3.0|轻量级PDF，XPS和电子书查看器|
@@ -169,6 +338,7 @@
 | [PainterEngine](https://github.com/matrixcascade/PainterEngine) |DBinary|BSD 3-Clause|一个由C语言编写的跨平台图形应用框架|
 | [PainterEngine_AUX](https://github.com/QPLover/PainterEngine_AUX) |QPLover|BSD 3-Clause|PainterEngine在RT-Thread下的scons构建脚本|
 | [PDFGen](https://github.com/mysterywolf/PDFGen) |Meco Man|Unlicense|PDF文档生成库|
+| [persimmon](https://github.com/RT-Thread-packages/persimmon) |RealThread|unknown|RT-Thread 的柿饼 UI|
 | [qrcode](https://github.com/RT-Thread-packages/qrcode) |RealThread|MIT|一个用于将字符串生成二维码的软件包|
 | [STemWin](https://github.com/loogg/STemWin) |malongwei|LGPL-2.1|STemWin在RT-Thread上的移植|
 | [termbox](https://github.com/mysterywolf/termbox) |Meco Man|MIT|轻量TUI图形库|
@@ -185,7 +355,6 @@
 
  | 包名 | 作者  | license   | 备注      |
 | ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
-| [ad7746](https://github.com/wuhanstudio/rt-ad7746) |wuhanstudio|MIT|AD7746 高精度电容测量芯片在 RT-Thread 移植库|
 | [agile_button](https://github.com/loogg/agile_button) |Longwei Ma|LGPL-2.1|一个灵活的button软件包。|
 | [agile_console](https://github.com/loogg/agile_console) |loogg|LGPL-2.1|简单易用的调试设备中间件。|
 | [agile_led](https://github.com/loogg/agile_led) |Longwei Ma|LGPL-2.1|一个灵活的led软件包。|
@@ -201,10 +370,13 @@
 | [dm9051](https://github.com/aozima/dm9051) |aozima|Apache-2.0|DM9051 SPI 接口以太网芯片驱动库|
 | [easyblink](https://github.com/Sunwancn/rtt-pkgs-easyblink) |Sunwancn|Apache-2.0|小巧轻便的 LED 控制软件包，可以容易地控制 LED 开、关、反转和各种间隔闪烁，占用 RAM 少，支持 RT-Thread 标准版和 Nano 版。|
 | [embARC_bsp](https://github.com/foss-for-synopsys-dwc-arc-processors/embarc_bsp) |Watson Zeng|Apache-2.0|Synopsys ARC 处理器 板级支持包|
+| [ESP-IDF](https://github.com/RT-Thread-packages/esp-idf) |supperthomas|Apache-2.0|ESP32C3 ESP-IDF软件包|
 | [i2c-tools](https://github.com/wuhanstudio/rt-i2c-tools) |wuhanstudio|MIT|I2C 调试时可以使用的小工具，可以扫描设备，读写寄存器|
 | [icm20608](https://github.com/RT-Thread-packages/icm20608) |RealThread|Apache-2.0|三轴加速度与三轴陀螺仪 icm20608 的传感器驱动库|
 | [infrared](https://github.com/RT-Thread-packages/infrared_framework) |RealThread|Apache-2.0|基于 rt-thread 的 pin,pwm 和 hwtimer 驱动的红外框架。|
-| [kendryte-sdk](https://github.com/RT-Thread-packages/kendryte_sdk) |RealThread|unknown|勘智 K210 处理器对应的外设驱动包|
+| [io_input_filter](https://github.com/lizdDong/io_input_filter) |lizdDong|Apache-2.0|一个带软件滤波的IO输入软件包|
+| [K210-SDK](https://github.com/RT-Thread-packages/kendryte-k210-sdk) |RT-Thread-package|Apache-2.0|勘智 K210 处理器对应的外设驱动包|
+| [kendryte-sdk](https://github.com/RT-Thread-packages/kendryte_sdk) |RealThread|unknown|勘智 K210 处理器对应的外设驱动包 (老版本，已废弃)|
 | [kobuki](https://github.com/wuhanstudio/kobuki) |wuhanstudio|MIT|Kobuki 机器人串口通信驱动|
 | [ld3320](https://github.com/xqyjlj/ld3320) |xqyjlj|Apache-2.0|LD3320语音识别芯片|
 | [LedBlink](https://github.com/aeo123/LedBlink.git) |zpw|GPL-2.0|简单易用led闪烁控制软件包|
@@ -214,8 +386,8 @@
 | [lora_gw_driver_lib](https://github.com/Forest-Rain/lora-gw-driver-lib) |forest-rain|Apache-2.0|LoRa网关芯片(SX130x)驱动|
 | [lora_modem_driver](https://github.com/Forest-Rain/lora-modem-driver) |forest-rain|Apache-2.0|lora_modem_driver是lora//lorawan modem的串口驱动。|
 | [lora_radio_driver](https://github.com/Forest-Rain/lora-radio-driver) |Forest-Rain|Apache-2.0|lora芯片(SX126x\SX127x)驱动包|
+| [lrf-nv7lidar](https://github.com/tzxdcz/rt-nv7lidar) |shenzan|LGPL-2.1|LRF-NV7激光测距模组|
 | [ly68l6400](https://github.com/Ghazigq/ly68l6400) |Ghazigq|LGPL-2.1|ly68l6400芯片的驱动|
-| [max17048](https://github.com/aeo123/MAX17048.git) |zpw|MIT|电池监测芯片|
 | [max7219](https://github.com/redocCheng/max7219) |redocCheng|Apache-2.0|本软件包是在数码管上应用 MAX7219 的驱动包|
 | [mb85rs16](https://github.com/XiaojieFan/mb85rs16.git) |XiaojieFan|Apache-2.0|针对 铁电存储器 SPI 驱动软件包|
 | [mcp23008](https://github.com/XiaojieFan/mcp23008.git) |XiaojieFan|Apache-2.0|针对 I2C 并行口扩展 8 位 I/O 软件包|
@@ -237,17 +409,22 @@
 | [pms_series](https://github.com/MrpYoung/pms_series) |MrpYoung|MIT|pms 数字式通用颗粒物浓度传感器驱动库|
 | [qkey](https://github.com/qiyongzhong0/rt-thread-qkey) |qiyongzhong0| LGPL-2.1|一个快捷易用的按键驱动包|
 | [quick_led](https://github.com/qiyongzhong0/rt-thread-qled) |qiyongzhong0| LGPL-2.1|一个快捷易用的led驱动包|
+| [raspberrypi-pico-sdk](https://github.com/RT-Thread-packages/raspberrypi-pico-sdk) |RT-Thread-packages|BSD-3-Clause|Raspberry Pi Pico SDK|
 | [rc522](https://github.com/greedyhao/rc522_rtt) |greedyhao|Apache-2.0|rc522 rfid 模块驱动|
 | [rda58xx](https://github.com/apeng2012/rda58xx) |apeng2012|MIT|RDA5820收音机芯片驱动。|
 | [realtek_ameba](https://github.com/flyingcys/realtek_ameba) |flyingcys|LGPL-2.1|realtek 的 ameba 软件包在 RT-Thread 上的移植|
+| [rfm300](https://github.com/kylepengchn/rfm300.git) |kylepengchn|Apache-2.0|realtek 的 ameba 软件包在 RT-Thread 上的移植|
 | [rosserial](https://github.com/wuhanstudio/rt-rosserial) |wuhanstudio|BSD|机器人操作系统(ROS1) 软件包 rosserial 在 RT-Thread 的移植库|
 | [rplidar](https://github.com/wuhanstudio/rplidar) |wuhanstudio|MIT|RPLIDAR: 适用于机器人室内建图的低成本激光雷达|
 | [rs232](https://github.com/diskwu/RTTHREAD_RS232) |diskwu|LGPL-2.1|rs232驱动包。|
 | [rs485](https://github.com/qiyongzhong0/rt-thread-rs485) |qiyongzhong0| LGPL-2.1|rs485驱动包|
 | [ds3231](https://github.com/Prry/rtt-ds3231) |panrui|Apache-2.0|ds3231 外置RTC驱动|
 | [rx8900](https://github.com/Prry/rtt-rx8900) |panrui|Apache-2.0|rx8900 外置RTC驱动，支持实时时钟和闹钟功能|
+| [ad7746](https://github.com/wuhanstudio/rt-ad7746) |wuhanstudio|MIT|AD7746 高精度电容测量传感器驱动|
+| [adt74xx](https://github.com/IoTSharp/ADT74XX) |maikebing|LGPLv2.1|数字温度传感器 adt74xx 驱动软件包|
 | [aht10](https://github.com/RT-Thread-packages/aht10) |RealThread|Apache-2.0|数字温湿度传感器 aht10 的驱动库|
 | [ap3216c](https://github.com/RT-Thread-packages/ap3216c) |RealThread|Apache-2.0|接近和光强传感器 ap3216c 的驱动库|
+| [balance](https://github.com/xiaogeminghai/balance) |xiaogeminghai|GPL-2.0|使用HX71XX及称重压力传感器测重|
 | [bh1750](https://github.com/sanjaywu/bh1750_sensor) |Sanjay_Wu|Apache-2.0|bh1750 传感器驱动包，支持：环境光照强度.|
 | [bma400](https://github.com/RT-Thread-packages/bma400) |flybreak|other|这是 BMA400 传感器驱动包，支持：加速度计，记步|
 | [bme280](https://github.com/RT-Thread-packages/bme280) |flybreak|other|这是 BME280 传感器驱动软件包，支持：气压，湿度|
@@ -278,17 +455,24 @@
 | [lsm303agr](https://github.com/RT-Thread-packages/lsm303agr) |flybreak|other|这是 LSM303AGR 传感器驱动包，支持：加速度计，磁力计|
 | [lsm6dsl](https://github.com/RT-Thread-packages/lsm6dsl) |flybreak|other|这是 LSM6DSL 传感器驱动包，支持：加速度计，陀螺仪，计步|
 | [lsm6dsm](https://github.com/my-RT-packages/lsm6dsm.git) |zcj20080882|MIT|STMicroelectronics的LSM6DSM传感器驱动，支持加速度计/陀螺仪/计步/温度|
+| [max17048](https://github.com/aeo123/MAX17048.git) |zpw|MIT|电池监测芯片|
 | [max30102](https://github.com/Jackistang/max30102_rtt) |Jackistang|Apache-2.0|[MAX30102]: 心率测量，血氧饱和度测量软件包|
 | [max31865](https://github.com/SimpleInit/max31865) |SimpleInit|Apache-2.0|数字温度传感器 max31865 的软件包|
 | [max6675](https://github.com/JonasWen/max6675) |Jonas|Apache-2.0|数字温度传感器 max6675 的软件包|
+| [mlx90392](https://github.com/lgnq/mlx90392) |lgnq|Apache-2.0|MLX90392 是来自迈来芯公司的一颗低功耗的3D磁位置传感器|
+| [mlx90393](https://github.com/lgnq/mlx90393) |lgnq|Apache-2.0|MLX90393 是来自迈来芯公司的一颗低功耗的3D磁位置传感器|
+| [mlx90397](https://github.com/lgnq/mlx90397) |lgnq|Apache-2.0|MLX90397 是来自迈来芯公司的一颗低功耗的3D磁位置传感器|
 | [mlx90632](https://github.com/xupenghu/mlx90632.git) |xph|Apache-2.0|mlx90632 软件包|
 | [mmc3680kj](https://github.com/mumuge1/mmc3680kj) |mumuge1|other|mmc3680kj的驱动|
 | [mpu6xxx](https://github.com/RT-Thread-packages/mpu-6xxx) |RealThread|Apache-2.0|兼容 mpu6000, mpu6050, mpu6500, mpu9250 等等型号的驱动库|
 | [ms5611](https://github.com/sogwms/ms5611) |sogwms|Apache-2.0|数字气压传感器 MS5611 驱动软件包|
 | [ms5805](https://github.com/schuck-wang/RTThread-MS5805) |schuck-wang|Apache-2.0|数字气压传感器 MS5805 驱动软件包|
 | [pmsxx](https://github.com/luhuadong/rtt-pmsxx) |luhuadong|Apache-2.0|PMSxx 攀藤pms系列颗粒物浓度传感器|
+| [qmp6989](https://github.com/kylepengchn/qmp6989.git) |kylepengchn|Apache-2.0|PMSxx 攀藤pms系列颗粒物浓度传感器|
 | [rt3020](https://github.com/RichtekTechnology/RT3020) |Tank Wu|Apache-2.0|这是 RT3020 加速度传感器的驱动包。|
 | [sgp30](https://github.com/luhuadong/rtt-sgp30) |luhuadong|Apache-2.0|SGP30 空气检测传感器，可检测TVOC和CO2浓度|
+| [sht2x](https://github.com/RT-Thread-packages/sht2x) |RealThread|Apache-2.0|数字湿度和温度传感器 sht2x 驱动软件包|
+| [sht3x](https://github.com/donghao2nanjing/sht3x) |hao.dong|LGPLv2.1|数字湿度和温度传感器 sht3x 驱动软件包|
 | [shtc1](https://github.com/nfsq246/RTT_SHTC1) |nfsq246|other|shtc1传感器驱动包，支持：温度，湿度|
 | [spl0601](https://github.com/RT-Thread-packages/spl0601) |gztss|other|数字气压传感器 SPL06-01 驱动软件包|
 | [sr04](https://github.com/alec-shan/hc-sr04) |alec-shan|Apache-2.0|对接RT-Thread Sensor框架的HC-SR04驱动软件包|
@@ -297,8 +481,6 @@
 | [vl53l0x](https://github.com/Prry/rtt-vl53l0x) |panrui|Apache-2.0|VL53L0X 飞行时间(TOF)传感器驱动软件包|
 | [zmod4410](https://github.com/ShermanShao/zmod4410) |Sherman|RENESAS SOFTWARE LICENSE TERMS|Renesas 室内空气质量检测传感器 zmod4410 的驱动库|
 | [sgm706](https://github.com/Prry/rtt-sgm706) |panrui|Apache-2.0|SGM706独立看门狗驱动软件包|
-| [sht2x](https://github.com/RT-Thread-packages/sht2x) |RealThread|Apache-2.0|数字湿度和温度传感器 sht2x 驱动软件包|
-| [sht3x](https://github.com/donghao2nanjing/sht3x) |hao.dong|LGPLv2.1|数字湿度和温度传感器 sht3x 驱动软件包|
 | [SignalLed](https://github.com/WKJay/SignalLed) |WKJay|LGPL-2.1|信号灯软件包，支持自定义闪烁方式、周期，支持随时开启、关闭|
 | [soft_serial](https://github.com/qiyongzhong0/rt-thread-soft-serial) |qiyongzhong0| LGPL-2.1|一个利用硬件定时器捕获/比较功能实现软件模拟串口的软件包|
 | [ssd1306](https://github.com/luhuadong/rtt-ssd1306) |luhuadong|Apache-2.0|基于 SSD1306、SH1106、SH1107 和 SSD1309 的 OLED 驱动，支持 I2C 和 SPI|
@@ -325,11 +507,19 @@
 
  | 包名 | 作者  | license   | 备注      |
 | ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
-| [libsodium](https://github.com/RT-Thread-packages/libsodium) |RealThread|ISC|一个现代的、易用的加密库|
+| [libhydrogen](https://github.com/wuhanstudio/libhydrogen) |wuhanstudio|ISC|一个轻量级，易用，适合嵌入式的密码学软件包|
+| [libsodium](https://github.com/RT-Thread-packages/libsodium-legacy) |RealThread|ISC|一个现代的、易用的加密库 (不推荐在 MCU 上使用，请用 libhydrogen 替代).|
 | [mbedtls](https://github.com/RT-Thread-packages/mbedtls) |RealThread|Apache-2.0|一个开源的、可移植的、易于使用的、可读的且灵活的 SSL 库|
 | [tinycrypt](https://github.com/RT-Thread-packages/tinycrypt) |RealThread| BSD-2-Clause|一个简小并且可配置的加解密软件包|
 | [trusted-firmware-m](https://github.com/RT-Thread-packages/trusted-firmware-m) |Trusted Firmware-M| BSD-3-Clause|Cortex M系列架构安全固件|
 | [yd_crypto](https://github.com/china-hai/yd_crypto) |china-hai|Apache-2.0|用于微控制器的加解密算法库，平台无关、算法独立、易移植、易使用。|
+
+## signalprocess
+
+ | 包名 | 作者  | license   | 备注      |
+| ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
+| [fire_pid_curve](https://github.com/LONGZR007/fire_pid_curve.git) |LONGZR007|LGPL-2.1|野火PID调试助手通讯协议软件包|
+| [ukal](https://github.com/wuhanstudio/ukal) |wuhanstudio|MIT|卡尔曼滤波算法|
 | [Qfplib_M0_full](https://github.com/mysterywolf/Qfplib-M0-full) |Meco Man|GPL|Cortex-M0浮点运算汇编加速库(full版)|
 | [Qfplib_M0_tiny](https://github.com/mysterywolf/Qfplib-M0-tiny) |Meco Man|GPL|Cortex-M0浮点运算汇编加速库(tiny版)|
 | [Qfplib_M3](https://github.com/mysterywolf/Qfplib-M3) |Meco Man|GPL|Cortex-M3浮点运算汇编加速库|
@@ -338,11 +528,13 @@
 
  | 包名 | 作者  | license   | 备注      |
 | ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
+| [agile_upgrade](https://github.com/loogg/agile_upgrade) |loogg|Apache-2.0|用于快速构建 bootloader 的中间件。|
 | [Arm-2D](https://github.com/liuduanfei/Arm-2D) |liuduanfei|Apache-2.0|Arm-2D 图形库。|
 | [cairo](https://github.com/RT-Thread-packages/cairo) |RealThread|LGPL/MPL|适用于多平台的 2D 图形软件包|
 | [CherryUSB](https://github.com/sakumisu/CherryUSB) |sakumisu|Apache-2.0|小而美、可移植性高的 USB 主从协议栈。|
 | [CMSIS_5](https://github.com/ARM-software/CMSIS_5) |ARM-software|Apache-2.0|CMSIS-5|
 | [CMSIS_5_AUX](https://github.com/RT-Thread-packages/CMSIS_5_AUX) |RT-Thread-packages|Apache-2.0|CMSIS_5软件包的辅助构建软件包（该软件包不需要用户选择）|
+| [CMSIS_RTOS1](https://github.com/RT-Thread-packages/CMSIS_RTOS1) |RT-Thread-packages|Apache-2.0|RT-Thread的CMSIS-RTOS1标准兼容层|
 | [CMSIS_RTOS2](https://github.com/RT-Thread-packages/CMSIS_RTOS2) |RT-Thread-packages|Apache-2.0|RT-Thread的CMSIS-RTOS2标准兼容层|
 | [rt_kprintf_threadsafe](https://github.com/mysterywolf/rt_kprintf_threadsafe) |Meco Man|Apache-2.0|线程安全版本的rt_kprintf|
 | [rt_memcpy_cm](https://github.com/mysterywolf/rt_memcpy_cm) |Meco Man|Apache-2.0|rt_memcpy函数的Cortex-M内核汇编加速版|
@@ -351,8 +543,9 @@
 | [event_recorder](https://github.com/RT-Thread-packages/event_recorder) |armink|Apache-2.0|一款轻量级的事件记录器，支持事件的记录与回放|
 | [fal](https://github.com/RT-Thread-packages/fal) |RealThread| LGPL-2.1|Flash 抽象层的实现，负责管理 Flash 设备和 Flash 分区|
 | [FlashDB](https://github.com/armink/FlashDB) |armink|Apache-2.0|一款支持 KV 数据和时序数据的轻量级数据库|
-| [gui_engine](https://github.com/RT-Thread-packages/gui_engine) |RealThread| LGPL-2.1|来自 RT-Thread 官方的 GUI 引擎|
+| [FreeRTOS_Wrapper](https://github.com/RT-Thread-packages/FreeRTOS-Wrapper) |RT-Thread-packages|Apache-2.0|RT-Thread操作系统的FreeRTOS兼容层：让基于FreeRTOS开发的应用层无感地迁移到RT-Thread操作系统|
 | [jffs2](https://github.com/RT-Thread-packages/jffs2) |prife|GPL-2.0|闪存日志型文件系统第 2 版|
+| [kmulti_rtimer](https://github.com/kylepengchn/kmulti_rtimer.git) |kylepengchn|Apache-2.0|闪存日志型文件系统第 2 版|
 | [littlefs](https://github.com/geniusgogo/littlefs) |geniusgogo|BSD-3-Clause|为微控制器设计的一个小型的且掉电安全的文件系统|
 | [lpm](https://github.com/RT-Thread-packages/lpm) |RealThread|Apache-2.0|逻辑分区管理，负责存储设备管理和分区管理。|
 | [lwext4](https://github.com/RT-Thread-packages/lwext4) |RealThread|GPL-2.0|适合微控制器的 ext2 / 3/4文件系统的实现|
@@ -366,22 +559,19 @@
 | [minIni](https://github.com/hichard/minIni) |hichard|Apache-2.0|minIni 在 RT-Thread 上移植的软件包|
 | [openamp](https://github.com/bigmagic123/openamp.git) |RealThread|LGPL-2.1|RT-Thread OpenAMP软件包|
 | [partition](https://github.com/RT-Thread-packages/partition) |RealThread|LGPL-2.1|一个基于块设备的分区管理软件包|
-| [persimmon](https://github.com/RT-Thread-packages/persimmon) |RealThread|unknown|RT-Thread 的柿饼 UI|
+| [perf_counter](https://github.com/GorgonMeducer/perf_counter) |GorgonMeducer|Apache-2.0|Cortex-M systick 的专用计数器|
 | [pixman](https://github.com/RT-Thread-packages/pixman) |RealThread|MIT|提供低等级像素控制的库|
 | [plccore](https://github.com/hyafz/plccore) |hyafz|LGPL-2.1|plccore 在 RT-Thread 上移植的软件包|
-| [getline](https://github.com/mysterywolf/getline) |Meco Man|unlicensed|getline/getdelim for RT-Thread POSIX (IEEE Std 1003.1-2008)|
-| [itoa](https://github.com/mysterywolf/itoa) |Meco Man|Apache-2.0|itoa家族函数（非POSIX标准）|
-| [strings](https://github.com/mysterywolf/strings) |Meco Man|Apache-2.0|<string.h> 扩展 POSIX.1 函数|
-| [wcwidth](https://github.com/mysterywolf/wcwidth) |Meco Man|None|wcwidth for RT-Thread POSIX (IEEE Std 1003.1-2001)|
 | [Ppool](https://github.com/mysterywolf/Ppool) |Meco Man|LGPL-2.1|基于pthread的线程池库|
 | [qboot](https://github.com/qiyongzhong0/rt-thread-qboot) |qiyongzhong0| LGPL-2.1|qboot ：一个用于快速制作bootloader的组件|
+| [qpc](https://github.com/Zhyolo/qpc-rtthread) |Zhyolo|GPL-3.0|轻量级软件框架 QP/C|
 | [ramdisk](https://github.com/majianjia/ramdisk) |majianjia|Apache-2.0|内存块设备|
 | [rt-robot](https://github.com/RT-Thread-packages/rt-robot) |wuhanstudio|MIT|RT-Thread 机器人平台|
-| [RTduino](https://github.com/mysterywolf/RTduino) |Meco Man|LGPL-2.1|Arduino生态兼容层|
 | [rti](https://github.com/RT-Thread-packages/rti) |RealThread|LGPL-2.1|RT-Thread 展示系统内部运行信息的组件，能够帮助分析系统内部情况|
 | [sqlite](https://github.com/RT-Thread-packages/SQLite) |RealThread|unknown|SQLite 是一个完备、高度可靠、嵌入型、全功能、公共领域的 SQL 数据库引擎|
 | [syswatch](https://github.com/qiyongzhong0/rt-thread-syswatch) |qiyongzhong0| LGPL-2.1|系统看守：一个用于保障系统长期正常运行的组件|
 | [sys_load_monitor](https://github.com/armink-rtt-pkgs/sys_load_monitor) |armink|Apache-2.0|一款轻量级的系统负荷监视器|
+| [TFDB](https://github.com/smartmx/TFDB) |smartmx|MIT|通用精简稳定的单片机flash存储数据方案|
 | [thread_pool](https://github.com/armink-rtt-pkgs/thread_pool) |armink|MIT|基于 RT-Thread 的线程池实现|
 | [TinyUSB](https://github.com/RT-Thread-packages/tinyusb) |tfx2001|MIT|用于嵌入式系统的开源跨平台USB协议栈|
 | [tlsf](https://github.com/RT-Thread-packages/tlsf) |namexx|Apache-2.0|TLSF是一个可以预期执行时间、碎片化程度低的动态内存分配算法。|
@@ -397,7 +587,9 @@
 | [anv_memleak](https://github.com/wuhanstudio/anv_memleak) |wuhanstudio|MIT|检查是否存在内存泄漏|
 | [anv_testsuit](https://github.com/wuhanstudio/anv_testsuit) |wuhanstudio|MIT|单元测试框架|
 | [anv_trace](https://github.com/wuhanstudio/anv_trace) |wuhanstudio|MIT|帮助跟踪代码执行过程|
+| [armv7m_DWT](https://github.com/balanceTWK/armv7m_DWT.git) |BalanceTWK|MIT|armv7m_DWT: 基于 ARMV7M 架构的内存监控组件.|
 | [bs8116a](https://github.com/illusionlee/bs8116a.git) |illusionlee|MIT|合泰的bs8116a-3的触摸按键芯片|
+| [cBox](https://github.com/enkiller/cbox) |enkiller|Apache-2.0|CBOX: C 语言小工具。|
 | [ChineseFontLibrary](https://github.com/lxzzzzzxl/Chinese_font_library) |lxzzzzzxl|LGPL-2.1|rt-thread中文字库软件包|
 | [CmBacktrace](https://github.com/armink-rtt-pkgs/CmBacktrace) |armink|MIT|ARM Cortex-M 系列 MCU 错误追踪库|
 | [CoreMark](https://github.com/wuhanstudio/coremark) |wuhanstudio|apache|EEMBC 的单片机性能测试小工具|
@@ -410,6 +602,7 @@
 | [gan_zhi](https://github.com/XYX12306/gan_zhi.git) |XYX12306|MIT|是一个根据公历日期、时得到相应的天干地支的工具软件包。|
 | [gbk2utf8](https://github.com/Ghazigq/gbk2utf8) |Ghazigq|Apache-2.0|GBK与UTF8编码之间的转换。|
 | [gps_rmc](https://github.com/maplerian/gps_rmc) |maplerian|Apache-2.0|用于解析GPS模块的 $XXRMC 类型数据|
+| [hash-match](https://github.com/smartmx/hash-match) |smartmx|Apache-2.0|应用在单片机上快速匹配的哈希算法|
 | [kdb](https://github.com/RT-Thread-packages/kdb) |enkiller|Apache-2.0|内核检测漏洞工具|
 | [logmgr](https://github.com/RT-Thread-packages/logmgr.git) |ChenYong|Apache-2.0|logmgr: 日志管理系统功能支持|
 | [lunar_calendar](https://github.com/illusionlee/lunar_calendar.git) |illusionlee|MIT|将阳历日期转换为阴历的工具。|
@@ -423,6 +616,7 @@
 | [rdb](https://github.com/RT-Thread-packages/rdb) |RealThread|GPL-2.0|RT-Thread 调试桥|
 | [regex](https://github.com/thread-liu/tiny-regex-c.git) |thread-liu|Unlicense|一个小巧的 C 语言正则表达式|
 | [SEGGER_RTT](https://github.com/supperthomas/RTTHREAD_SEGGER_TOOL.git) |supperthomas|Apache-2.0|使用JLINK的RTT代替UART console输出|
+| [snowflake](https://github.com/2022alpha/snowflake) |2022alpha|MIT|雪花算法是一种分布式ID生成算法。|
 | [solar_terms](https://github.com/XYX12306/solar_terms.git) |XYX12306|MIT|是一个根据公历日期判断与二十四节气关系的工具软件包。|
 | [SystemView](https://github.com/RT-Thread-packages/SEGGER_SystemView) |RealThread|unknown|SEGGER 的 SystemView 移植|
 | [ulog_easyflash](https://github.com/armink-rtt-pkgs/ulog_easyflash) |armink|MIT|基于 EasyFlash 的 ulog 插件|
@@ -430,4 +624,5 @@
 | [uMCN](https://github.com/JcZou/uMCN) |JCZou|Apache-2.0|uMCN是一个基于发布者/订阅者模式的轻量级且功能强大的跨线程/进程通信模块。|
 | [UrlEncode](https://github.com/jch12138/UrlEncode.git) |jch12138|LGPL-2.1|一个简单易用的Url编解码工具|
 | [vconsole](https://github.com/enkiller/vconsole) |enkiller|Apache-2.0|一个虚拟控制台软件包。|
+| [vofa_plus](https://github.com/xiaogeminghai/vofa_plus) |xiaogeminghai|GPL-2.0|配合vfoa+实现串口波形功能|
 | [wamr](https://github.com/bytecodealliance/wasm-micro-runtime.git) |alvkeke|Apache-2.0|运行于RT-Thread的WebAssembly Micro Runtime|
