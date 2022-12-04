@@ -1,0 +1,29 @@
+name: Get Followers
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.8
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Update README
+        run: git submodule init
+             git submodule update --remote
+             python update_softpackage.py
+
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "🎆 docs:  Update softpackage.py"
