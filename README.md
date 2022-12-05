@@ -1,5 +1,7 @@
 # rtthread_software_package_list_show
 
+# 如果觉得好用的话，帮忙点下右上角的小星星
+
 ## 简介
 
 这个是用来生成RTTHREAD官方的软件包的一个小脚本，生成的样式参考   [rtthread_softlist](rtthread_softlist.md)
