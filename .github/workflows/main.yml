@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-  # 每个月第一天
+  # 每个月第31天 两个月更新一次
   # 1 Minute [0,59]
   # 2 Hour [0,23]
   # 3 Day of the month [1,31]
@@ -12,7 +12,7 @@ on:
   # 5 Day of the week ([0,6] with 0=Sunday)
 
   schedule:
-    - cron:  '0 3 1 * *'
+    - cron:  '0 3 31 * *'
   workflow_dispatch:
 
 jobs:
