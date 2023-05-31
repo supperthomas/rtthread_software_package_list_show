@@ -105,7 +105,6 @@
 | [cowsay](https://github.com/wuhanstudio/cowsay) |wuhanstudio|MIT|linux cowsay 软件包|
 | [heatshrink](https://github.com/liukangcc/heatshrink.git) |liukangcc|ISC License|用于嵌入式实时系统的数据压缩/解压缩库|
 | [soem](https://github.com/lg28870983/soem) |lg28870983|Apache-2.0|开源 EtherCAT 主站 SOEM 在RT-Thread系统上的移植|
-| [DigitalCtrl](https://github.com/xuzhuoyi/DigitalCtrl) |xuzhuoyi|MIT|数字闭环控制算法库|
 | [slcan2rtt](https://github.com/cazure/slcan2rtt.git) |cazure|Apache-2.0|串行线路CAN适配器 (slcan).|
 | [design_pattern](https://github.com/chenyingchun0312/design_pattern) |chenyingchun0312|Apache-2.0|嵌入式C设计模式实现。|
 | [qparam](https://github.com/qiyongzhong0/rt-thread-qparam) |qiyongzhong0| LGPL-2.1|一个快捷易用的参数管理组件，实现了参数保存、恢复、修改和快速存取功能.|
@@ -149,6 +148,7 @@
  | 包名 | 作者  | license   | 备注      |
 | ------------------------------------------------------------ | ------------------- | -------------------- | ------------------------------------------------------------ |
 | [ukal](https://github.com/wuhanstudio/ukal) |wuhanstudio|MIT|卡尔曼滤波算法|
+| [DigitalCtrl](https://github.com/xuzhuoyi/DigitalCtrl) |xuzhuoyi|MIT|数字闭环控制算法库|
 | [fire_pid_curve](https://github.com/LONGZR007/fire_pid_curve.git) |LONGZR007|LGPL-2.1|野火PID调试助手通讯协议软件包|
 
 ## peripherals
@@ -262,6 +262,7 @@
 | [ft6206](https://github.com/RT-Thread-packages/ft6206) |Willian Chan|Apache-2.0|这是 FT6206 触摸芯片的驱动包。|
 | [ft6236](https://github.com/liuduanfei/ft6236) |liuduanfei|Apache-2.0|这是 FT6236 触摸芯片的驱动包。|
 | [gt917s](https://github.com/lilisheng411527/gt917s.git) |layson.li|LGPL-2.1| gt917s 驱动|
+| [cst816x](https://github.com/Z8MAN8/cst816x) |Z8MAN8|Apache-2.0|cst816x 触摸芯片的驱动包。|
 | [xpt2046](https://github.com/LeeChunHei/xpt2046_touch_rtt) |LeeChunHei|MIT|xpt2046 電阻觸摸屏驅動软件包|
 | [gt1151](https://github.com/Jackistang/GT1151) |Jackistang|Apache-2.0|gt1151 驱动|
 | [button](https://github.com/jiejieTop/rtpkg_button) |jiejieTop|GPL-3.0|C 实现的按键驱动，支持单击和双击，长按，长按释放|
