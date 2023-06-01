@@ -15,7 +15,7 @@ package_cata = []
 package_auth = []
 
 package_list = ['iot', 'ai', 'language', 'misc', 'multimedia',
-                'peripherals', 'security', 'system', 'tools']
+                'peripherals', 'security', 'system', 'tools','signalprocess']
 
 filename = 'rtthread_softlist.md'
 with open(filename, 'w', encoding='utf-8') as file_object:
@@ -32,6 +32,9 @@ with open(filename, 'w', encoding='utf-8') as file_object:
                         file_object.write("## " + group_name + "\n")
                         file_object.write("\r\n |pull request| 包名 |  备注      |"+"\n" +
                                           "| ------------------------------------------------------------ | ------------------------------------------------------------ |  ------------------------------------------------------------ |" + "\n")
+                    elif curren_name == 'arduino':
+                        print("!!!Except " + curren_name);
+                        continue  
                 package_name = os.path.basename(os.path.join(root))
                 # print(os.path.basename(os.path.join(root)))      ##package name
                 json_path = os.path.join(root, f)
