@@ -1,7 +1,10 @@
-# RTTHREAD 软件包目录 
-
+# RTTHREAD 软件包目录 
+
+
+ 
 ## ai
-
+
+
  |pull request| 包名 |  备注      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |  ------------------------------------------------------------ |
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/wuhanstudio/elapack)| [elapack](https://github.com/wuhanstudio/elapack) |嵌入式线性代数库，兼容 matlab|
@@ -13,9 +16,11 @@
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/wuhanstudio/QuEST)| [quest](https://github.com/wuhanstudio/QuEST) |嵌入式系统上的量子计算机模拟器|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/QingChuanWS/TensorflowLiteMicro)| [TensorflowLiteMicro](https://github.com/QingChuanWS/TensorflowLiteMicro) |用于rt-thread操作系统的轻量级深|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/wuhanstudio/ulapack)| [ulapack](https://github.com/wuhanstudio/ulapack) |嵌入式线性代数库|
-
+
+
 ## iot
-
+
+
  |pull request| 包名 |  备注      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |  ------------------------------------------------------------ |
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RayShen1018/Abup)| [abup_fota](https://github.com/RayShen1018/Abup) |基于 abup FOTA 组件的 固件下|
@@ -88,18 +93,22 @@
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/wlan-wiced)| [wlan_wiced](https://github.com/RT-Thread-packages/wlan-wiced) |WICED 的 wlan 驱动|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/wiznet)| [wiznet](https://github.com/RT-Thread-packages/wiznet) |WIZNet TCP/IP 芯片（例如：|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/TaoYang0907/ZB_COORDINATOR_PACKAGE)| [zb_coordinator](https://github.com/TaoYang0907/ZB_COORDINATOR_PACKAGE) |AT命令在ZigBee协调器上的应用|
-
+
+
 ## language
-
+
+
  |pull request| 包名 |  备注      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |  ------------------------------------------------------------ |
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/jerryscript)| [jerryscript](https://github.com/RT-Thread-packages/jerryscript) |针对 RT-Thread 的 Jerry|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/liu2guang/Lua2RTT)| [Lua](https://github.com/liu2guang/Lua2RTT) |Lua 在 RT-Thread 上的移植|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/micropython)| [micropython](https://github.com/RT-Thread-packages/micropython) |MicroPython 在 RT-Thr|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/pikasTech/pikascript)| [pikascript](https://github.com/pikasTech/pikascript) |极易定制的轻量级python脚本支持工具|
-
+
+
 ## misc
-
+
+
  |pull request| 包名 |  备注      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |  ------------------------------------------------------------ |
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/sogwms/armv7m_dwt)| [armv7m_dwt](https://github.com/sogwms/armv7m_dwt) |armv7m_dwt 高精度计时与延时|
@@ -146,9 +155,11 @@
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/vi)| [vi](https://github.com/RT-Thread-packages/vi) |vi 编辑器在 RT-Thread 操作|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/wuhanstudio/vt100)| [vt100](https://github.com/wuhanstudio/vt100) |串口终端绘图库，可以在 msh 下画图|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/zlib)| [zlib](https://github.com/RT-Thread-packages/zlib) |通用数据压缩库|
-
+
+
 ## multimedia
-
+
+
  |pull request| 包名 |  备注      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |  ------------------------------------------------------------ |
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/HelloByeAll/AzureGUIX)| [AzureGUIX](https://github.com/HelloByeAll/AzureGUIX) |微软THREADX系统中间件 Azure|
@@ -170,9 +181,11 @@
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/olikraus/u8g2)| [u8g2-official](https://github.com/olikraus/u8g2) |u8g2 不同种类单色屏驱动库（上游官方|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/xidongxu/ugui)| [ugui](https://github.com/xidongxu/ugui.git) |开源图形库ugui移植到rtthread|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/wavplayer)| [wavplayer](https://github.com/RT-Thread-packages/wavplayer) |简洁的wav格式的音乐播放器，提供播放和|
-
+
+
 ## peripherals
-
+
+
  |pull request| 包名 |  备注      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |  ------------------------------------------------------------ |
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/wuhanstudio/rt-ad7746)| [ad7746](https://github.com/wuhanstudio/rt-ad7746) |AD7746 高精度电容测量芯片在 RT|
@@ -303,9 +316,11 @@
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/MrMichael/wk2124)| [wk2124](https://github.com/MrMichael/wk2124) |wk2124 spi转四串口芯片的驱动库|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/WinnerMicro/rtpkg-wm_libraries)| [wm_libraries](https://github.com/WinnerMicro/rtpkg-wm_libraries) |WinnerMicro 芯片软件支持包|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/maplerian/rt_ws2812b)| [ws2812b](https://github.com/maplerian/rt_ws2812b) |用于 RT-Thread 的 ws281|
-
+
+
 ## security
-
+
+
  |pull request| 包名 |  备注      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |  ------------------------------------------------------------ |
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/RT-Thread-packages/libsodium)| [libsodium](https://github.com/RT-Thread-packages/libsodium) |一个现代的、易用的加密库|
@@ -316,9 +331,11 @@
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/mysterywolf/Qfplib-M0-full)| [Qfplib_M0_full](https://github.com/mysterywolf/Qfplib-M0-full) |Cortex-M0浮点运算汇编加速库(f|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/mysterywolf/Qfplib-M0-tiny)| [Qfplib_M0_tiny](https://github.com/mysterywolf/Qfplib-M0-tiny) |Cortex-M0浮点运算汇编加速库(t|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/mysterywolf/Qfplib-M3)| [Qfplib_M3](https://github.com/mysterywolf/Qfplib-M3) |Cortex-M3浮点运算汇编加速库|
-
+
+
 ## system
-
+
+
  |pull request| 包名 |  备注      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |  ------------------------------------------------------------ |
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/liuduanfei/Arm-2D)| [Arm-2D](https://github.com/liuduanfei/Arm-2D) |Arm-2D 图形库。|
@@ -366,9 +383,11 @@
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/sakumisu/usb_stack)| [usb_stack](https://github.com/sakumisu/usb_stack) |小而美、可移植性高的 USB 主从协议栈|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/mysterywolf/wcwidth)| [wcwidth](https://github.com/mysterywolf/wcwidth) |wcwidth() 函数软件包|
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/heyuanjie87/yaffs2_rtt_port)| [yaffs2](https://github.com/heyuanjie87/yaffs2_rtt_port) |yaffs2 移植到RT-Thread|
-
+
+
 ## tools
-
+
+
  |pull request| 包名 |  备注      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |  ------------------------------------------------------------ |
 |![GitHub pull requests](https://img.shields.io/github/issues-pr/heyuanjie87/adbd)| [adbd](https://github.com/heyuanjie87/adbd) |在 RT-Thread 上实现的 And|
