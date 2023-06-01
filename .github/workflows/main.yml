@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - PR
   # 每个月第31天 两个月更新一次
   # 1 Minute [0,59]
   # 2 Hour [0,23]
