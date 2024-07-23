@@ -25,10 +25,10 @@ def output_to_markdown(df, output_file):
         file.write(df.to_markdown(index=False))
 
 # 示例用法:
-BSP_ROOT = '.'
+BSP_ROOT = os.path.join(".")
 exclude_paths = ['templates', 'doc']
-files_to_check = ['rtconfig.h','rtconfig.py', '.config','Kconfig', 'template.uvprojx','template.ewp', 'README.md', 'README_ZH.md','SConscript', 'template.Uv2','template.uvproj']
-sconstruct_paths = find_sconstruct_paths('.', exclude_paths)
+files_to_check = ['README.md','rtconfig.h', '.config','Kconfig', 'template.uvprojx','template.ewp', 'README.md', 'README_ZH.md', 'template.Uv2','template.uvproj']
+sconstruct_paths = find_sconstruct_paths(BSP_ROOT, exclude_paths)
 result_table = check_files(sconstruct_paths, files_to_check)
 print(result_table)
 output_file = 'output.md'
