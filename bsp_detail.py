@@ -31,7 +31,5 @@ files_to_check = ['rtconfig.h','rtconfig.py', '.config','Kconfig', 'template.uvp
 sconstruct_paths = find_sconstruct_paths('.', exclude_paths)
 result_table = check_files(sconstruct_paths, files_to_check)
 print(result_table)
-#output_file = 'output.md'
-#output_to_markdown(result_table, output_file)
-output_file = 'output.csv'
-result_table.to_csv(output_file, index=False)
+output_file = 'output.md'
+output_to_markdown(result_table, output_file)
